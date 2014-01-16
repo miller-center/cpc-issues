@@ -1,0 +1,2416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Date: 2012-10-12, Objects: 8909, Deleted: 57--><Data xmlns="http://www.dataformat.com/darma" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dataformat.com/darma http://www.dataformat.com/local/darma_data.xsd">
+<Header><LinkInfo defaultTargetID="/Data/Object/id"/><Collections><Collection name="Library of Congress Manuscript Division" xml:id="c137"/><Collection name="Reel 001" parentID="c137" xml:id="c146"/><Collection name="Reel 023" parentID="c137" xml:id="c161"/><Collection name="Reel 024" parentID="c137" xml:id="c162"/><Collection name="Reel 025" parentID="c137" xml:id="c163"/><Collection name="Reel 026" parentID="c137" xml:id="c164"/><Collection name="Reel 027" parentID="c137" xml:id="c165"/><Collection name="Reel 028" parentID="c137" xml:id="c166"/><Collection name="Reel 029" parentID="c137" xml:id="c167"/><Collection name="Reel 030" parentID="c137" xml:id="c169"/><Collection name="Reel 031" parentID="c137" xml:id="c170"/><Collection name="Reel 032" parentID="c137" xml:id="c171"/><Collection name="Reel 033" parentID="c137" xml:id="c172"/><Collection name="Reel 034" parentID="c137" xml:id="c173"/><Collection name="Reel 035" parentID="c137" xml:id="c174"/><Collection name="Reel 036" parentID="c137" xml:id="c175"/><Collection name="Reel 038" parentID="c137" xml:id="c177"/><Collection name="Reel 045" parentID="c137" xml:id="c185"/><Collection name="Reel 046" parentID="c137" xml:id="c186"/><Collection name="Reel 047" parentID="c137" xml:id="c187"/><Collection name="Reel 048" parentID="c137" xml:id="c188"/><Collection name="Reel 051" parentID="c137" xml:id="c192"/><Collection name="Reel 052" parentID="c137" xml:id="c193"/><Collection name="Reel 059" parentID="c137" xml:id="c204"/><Collection name="Reel 060" parentID="c137" xml:id="c205"/><Collection name="Reel 061" parentID="c137" xml:id="c206"/><Collection name="Reel 062" parentID="c137" xml:id="c207"/><Collection name="Reel 063" parentID="c137" xml:id="c208"/><Collection name="Reel 087" parentID="c137" xml:id="c232"/><Collection name="Reel 089" parentID="c137" xml:id="c234"/><Collection name="Reel 096" parentID="c137" xml:id="c241"/><Collection name="Reel 097" parentID="c137" xml:id="c242"/><Collection name="Reel 098" parentID="c137" xml:id="c243"/><Collection name="Reel 099" parentID="c137" xml:id="c244"/><Collection name="Reel 100" parentID="c137" xml:id="c245"/><Collection name="Reel 101" parentID="c137" xml:id="c246"/><Collection name="Reel 102" parentID="c137" xml:id="c247"/><Collection name="Reel 104" parentID="c137" xml:id="c249"/><Collection name="Reel 105" parentID="c137" xml:id="c250"/><Collection name="Reel 106" parentID="c137" xml:id="c251"/><Collection name="Reel 107" parentID="c137" xml:id="c252"/><Collection name="Reel 108" parentID="c137" xml:id="c253"/><Collection name="Reel 109" parentID="c137" xml:id="c254"/><Collection name="Reel 110" parentID="c137" xml:id="c255"/><Collection name="Reel 111" parentID="c137" xml:id="c256"/><Collection name="Reel 112" parentID="c137" xml:id="c257"/><Collection name="Reel 113" parentID="c137" xml:id="c258"/><Collection name="Reel 114" parentID="c137" xml:id="c259"/><Collection name="Reel 115" parentID="c137" xml:id="c260"/><Collection name="Reel 116" parentID="c137" xml:id="c261"/><Collection name="Reel 118" parentID="c137" xml:id="c263"/><Collection name="Reel 119" parentID="c137" xml:id="c264"/><Collection name="Reel 120" parentID="c137" xml:id="c265"/><Collection name="Reel 121" parentID="c137" xml:id="c266"/><Collection name="Reel 122" parentID="c137" xml:id="c267"/><Collection name="Reel 123" parentID="c137" xml:id="c268"/><Collection name="Reel 124" parentID="c137" xml:id="c269"/><Collection name="Reel 125" parentID="c137" xml:id="c270"/><Collection name="Reel 126" parentID="c137" xml:id="c271"/><Collection name="Reel 127" parentID="c137" xml:id="c272"/><Collection name="Reel 128" parentID="c137" xml:id="c273"/><Collection name="Reel 129" parentID="c137" xml:id="c274"/><Collection name="Reel 130" parentID="c137" xml:id="c275"/><Collection name="Reel 131" parentID="c137" xml:id="c276"/><Collection name="Reel 132" parentID="c137" xml:id="c277"/><Collection name="Reel 133" parentID="c137" xml:id="c278"/><Collection name="Reel 134" parentID="c137" xml:id="c279"/><Collection name="Reel 135" parentID="c137" xml:id="c280"/><Collection name="Reel 136" parentID="c137" xml:id="c281"/><Collection name="Reel 137" parentID="c137" xml:id="c282"/><Collection name="Reel 138" parentID="c137" xml:id="c283"/><Collection name="Reel 139" parentID="c137" xml:id="c284"/><Collection name="Reel 140" parentID="c137" xml:id="c285"/><Collection name="Reel 141" parentID="c137" xml:id="c286"/><Collection name="Reel 142" parentID="c137" xml:id="c287"/><Collection name="Reel 143" parentID="c137" xml:id="c288"/><Collection name="Reel 144" parentID="c137" xml:id="c289"/><Collection name="Reel 145" parentID="c137" xml:id="c290"/><Collection name="Reel 146" parentID="c137" xml:id="c291"/><Collection name="Reel 147" parentID="c137" xml:id="c292"/><Collection name="Reel 148" parentID="c137" xml:id="c293"/><Collection name="Reel 149" parentID="c137" xml:id="c294"/><Collection name="Reel 150" parentID="c137" xml:id="c295"/><Collection name="Reel 151" parentID="c137" xml:id="c296"/><Collection name="Reel 152" parentID="c137" xml:id="c297"/><Collection name="Reel 154" parentID="c137" xml:id="c299"/><Collection name="Reel 156" parentID="c137" xml:id="c301"/><Collection name="Reel 157" parentID="c137" xml:id="c302"/><Collection name="Reel 158" parentID="c137" xml:id="c303"/><Collection name="Reel 159" parentID="c137" xml:id="c304"/><Collection name="Reel 160" parentID="c137" xml:id="c305"/><Collection name="Reel 161" parentID="c137" xml:id="c306"/><Collection name="Reel 162" parentID="c137" xml:id="c307"/><Collection name="Reel 163" parentID="c137" xml:id="c308"/><Collection name="Reel 308" parentID="c137" xml:id="c464"/><Collection name="Reel 328" parentID="c137" xml:id="c484"/><Collection name="Reel 329" parentID="c137" xml:id="c485"/><Collection name="Reel 330" parentID="c137" xml:id="c486"/><Collection name="Reel 331" parentID="c137" xml:id="c487"/><Collection name="Reel 332" parentID="c137" xml:id="c488"/><Collection name="Reel 334" parentID="c137" xml:id="c490"/><Collection name="Reel 338" parentID="c137" xml:id="c494"/><Collection name="Reel 340" parentID="c137" xml:id="c496"/><Collection name="Reel 344" parentID="c137" xml:id="c500"/><Collection name="Reel 345" parentID="c137" xml:id="c501"/><Collection name="Reel 354" parentID="c137" xml:id="c510"/><Collection name="Reel 355" parentID="c137" xml:id="c511"/><Collection name="Reel 361" parentID="c137" xml:id="c517"/><Collection name="Reel 362" parentID="c137" xml:id="c518"/><Collection name="Reel 364" parentID="c137" xml:id="c520"/><Collection name="Reel 365" parentID="c137" xml:id="c521"/><Collection name="Reel 366" parentID="c137" xml:id="c522"/><Collection name="Reel 367" parentID="c137" xml:id="c523"/><Collection name="Reel 368" parentID="c137" xml:id="c524"/><Collection name="Reel 369" parentID="c137" xml:id="c525"/><Collection name="Reel 370" parentID="c137" xml:id="c526"/><Collection name="Reel 371" parentID="c137" xml:id="c527"/><Collection name="Reel 372" parentID="c137" xml:id="c528"/><Collection name="Reel 373" parentID="c137" xml:id="c529"/><Collection name="Reel 374" parentID="c137" xml:id="c530"/><Collection name="Reel 375" parentID="c137" xml:id="c531"/><Collection name="Reel 376" parentID="c137" xml:id="c532"/><Collection name="Reel 377" parentID="c137" xml:id="c533"/><Collection name="Reel 378" parentID="c137" xml:id="c534"/><Collection name="Reel 379" parentID="c137" xml:id="c535"/><Collection name="Reel 380" parentID="c137" xml:id="c536"/><Collection name="Reel 381" parentID="c137" xml:id="c537"/><Collection name="Reel 382" parentID="c137" xml:id="c538"/><Collection name="Reel 412" parentID="c137" xml:id="c568"/><Collection name="Reel 413" parentID="c137" xml:id="c569"/><Collection name="Reel 414" parentID="c137" xml:id="c570"/><Collection name="Reel 416" parentID="c137" xml:id="c572"/><Collection name="Reel 476" parentID="c137" xml:id="c579"/><Collection name="SiteCore Subjects" xml:id="c587"/><Collection name="Reel 430" parentID="c137" xml:id="c591"/><Collection name="Reel 447" parentID="c137" xml:id="c592"/><Collection name="Reel 448" parentID="c137" xml:id="c593"/></Collections></Header>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o25534</id>
+      <name>LOC_047269</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Lily Irene</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Crimmins</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>L</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Lily Irene Crimmins to John D. Crimmins</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1886-10-31</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>October 31, 1886</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>31 Oct. 1886</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1886, October 31)</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Crimmins, Lily Irene, 1877-1895</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>
+        9-year-old Lily Crimmins writes to her father - "I read in the <em>Times</em> that gentlemen ought to vote for Roosevelt and save the City from the robbers."
+        </p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Crimmins, John D. (John Daniel), 1844-1917 </value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>Dakota Rancher (June 1884-1886)</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Typed</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst01012876">Mayors--Election</value>
+            <value subjectRefID="fst00904324">Elections</value>
+            <value subjectRefID="fst00807510">Americans--Politics and government</value>
+            <value subjectRefID="fst00556521">New York Times Company</value>
+            <value subjectRefID="n79027239">Roosevelt, Theodore, 1858-1919</value>
+            <value subjectRefID="fst01204333">New York (State)--New York</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o25534</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2011-12-03</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a2232">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/001/0200/0263.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/001/0200/0263.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36243</id>
+      <name>LOC_006459</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Fred W.</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Atkinson</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>F</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Note from Fred W. Atkinson</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Atkinson, Fred W. (Fred Washington), 1865-1941</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Note</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Civil and military governors have been asked for lists of towns in each province. The replies have been partially tabulated and appear largely untrustworthy.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00861852">Cities and towns--Statistics</value>
+            <value subjectRefID="fst01029299">Municipal government</value>
+            <value subjectRefID="fst01021191">Military government</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36243</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29591">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0006.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0006.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36244</id>
+      <name>LOC_034896</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Winthrop</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Chanler</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>W</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Winthrop Chanler to Theodore Roosevelt</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>[December 17, 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>[17 Dec. 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>[1901, December 17?]</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>4</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Chanler, Winthrop, 1863-1926</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Roosevelt, Theodore, 1858-1919</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Winthrop Chanler suggests that President Roosevelt "direct" Andrew Carnegie to purchase a building for donation to the
+        Smithsonian or the Boone and Crockett Club.  He mentions having seen
+        William Sturgis Bigelow and Dan Wister.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="n50032468">Carnegie, Andrew, 1835-1919</value>
+            <value subjectRefID="n97113886">Bigelow, William Sturgis, 1850-1926</value>
+            <value subjectRefID="n79093083">Wister, Owen, 1860-1938</value>
+            <value subjectRefID="fst00532691">Smithsonian Institution</value>
+            <value subjectRefID="fst00565608">Boone and Crockett Club</value>
+            <value subjectRefID="fst00836454">Books and reading</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36244</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a25372">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0010b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0010b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a25373">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0011a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0011a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a25374">
+            <field name="name">
+               <value>Page 3</value>
+            </field>
+            <field name="sortorder">
+               <value>3</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0011b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0011b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a25375">
+            <field name="name">
+               <value>Page 4</value>
+            </field>
+            <field name="sortorder">
+               <value>4</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0010a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0010a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36245</id>
+      <name>LOC_044068</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>The Metcalf Appointment And The Future</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>[December 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>[Dec. 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>[1901, December?]</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Newspaper article</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Printed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Publication" visibility="public">
+            <value>Topeka Daily Capital</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <link href="http://trdpstaff.dataformat.com/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css"
+                        rel="stylesheet"
+                        type="text/css"/>
+                  <title>[Insert Title Here]</title>
+               </head>
+               <body>
+                  <p>The appointment of Wilder Stevens Metcalf as pension agent shows that Senator Burton's influence and Senatorial privilege will be respected by President Roosevelt. With this issue decided, Kansas Republicans should ignore factionalism and unite as "good Republicans."</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00544975">Republican Party (U.S. : 1854- )</value>
+            <value subjectRefID="fst01204323">Kansas</value>
+            <value subjectRefID="fst01054240">Party discipline</value>
+            <value subjectRefID="n79027239">Roosevelt, Theodore, 1858-1919</value>
+            <value subjectRefID="n80079701">McKinley, William, 1843-1901</value>
+            <value subjectRefID="d4e1705201111041506399390100">Metcalf, Wilder Stevens, 1855-1935</value>
+            <value subjectRefID="d4e66201112071916166410100">Burton, Joseph Ralph, 1852-1923</value>
+            <value subjectRefID="d4e292201202281732583340100">Leland, Cyrus, 1841-1917</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36245</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a64219">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0200/0261.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0261.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36246</id>
+      <name>LOC_045998</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Brief Summary of Lieut. Sims' Criticisms Contained in his Reports from the Asiatic Station</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>[December 17, 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>[17 Dec. 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>[1901, December 17?]</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>8</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Report</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Typed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Summary of reports from Lieutenant Sims regarding the defects of the U.S.S. <em>Kentucky</em> when compared to the designs and target practice results of Royal Navy vessels.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00642573">Kentucky (Ship)</value>
+            <value subjectRefID="fst00533204">United States. Navy</value>
+            <value subjectRefID="fst00529487">Great Britain. Royal Navy</value>
+            <value subjectRefID="fst01035002">Naval gunnery--Study and teaching</value>
+            <value subjectRefID="fst01143140">Target practice</value>
+            <value subjectRefID="fst01170866">Warships--Design and construction</value>
+            <value subjectRefID="n2005071909">Cowles, Wm. S. (William Sheffield), 1846-1923</value>
+            <value subjectRefID="n84032265">Sims, William Sowden, 1858-1936</value>
+            <value subjectRefID="n87824416">Scott, Percy, Sir, Bart., 1853-1924</value>
+            <value subjectRefID="n91103646">Niblack, Albert P. (Albert Parker), 1859-1929</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36246</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29592">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0014.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0014.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29593">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0015.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0015.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29594">
+            <field name="name">
+               <value>Page 3</value>
+            </field>
+            <field name="sortorder">
+               <value>3</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0016.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0016.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29595">
+            <field name="name">
+               <value>Page 4</value>
+            </field>
+            <field name="sortorder">
+               <value>4</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0017.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0017.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29596">
+            <field name="name">
+               <value>Page 5</value>
+            </field>
+            <field name="sortorder">
+               <value>5</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0018.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0018.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29597">
+            <field name="name">
+               <value>Page 6</value>
+            </field>
+            <field name="sortorder">
+               <value>6</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0019.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0019.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29598">
+            <field name="name">
+               <value>Page 7</value>
+            </field>
+            <field name="sortorder">
+               <value>7</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0020.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0020.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29599">
+            <field name="name">
+               <value>Page 8</value>
+            </field>
+            <field name="sortorder">
+               <value>8</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0021.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0021.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36247</id>
+      <name>LOC_227614</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Maclay's Case</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-27</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 27, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>27 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 27)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Newspaper article</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Printed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Publication" visibility="public">
+            <value>The New York Times</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <link href="http://trdpstaff.dataformat.com/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css"
+                        rel="stylesheet"
+                        type="text/css"/>
+                  <title>[Insert Title Here]</title>
+               </head>
+               <body>
+                  <p>Article argues that Edgar Stanton Maclay was unfairly discharged from his government position for a section of his book disparaging Admiral Schley.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="n79027239">Roosevelt, Theodore, 1858-1919</value>
+            <value subjectRefID="n89125978">Schley, Winfield Scott, 1839-1911</value>
+            <value subjectRefID="n50039566">Miles, Nelson Appleton, 1839-1925</value>
+            <value subjectRefID="n88644434">Maclay, Edgar Stanton, 1863-1919</value>
+            <value subjectRefID="fst00909122">Employees--Dismissal of</value>
+            <value subjectRefID="fst00836454">Books and reading</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36247</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-21</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a64249">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0300/0319.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0300/0319.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36248</id>
+      <name>LOC_001251</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Brooks</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Adams</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>B</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Brooks Adams to George B. Cortelyou</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Adams, Brooks, 1848-1927 </value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Cortelyou, George B. (George Bruce), 1862-1940</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Brooks Adams accepts an invitation to the White House.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00912685">Entertaining</value>
+            <value subjectRefID="fst00631324">White House (Washington, D.C.)</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36248</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29590">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0001b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0001b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36249</id>
+      <name>LOC_002133</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>The Kansas Pension Agency</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-24</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>[December 24, 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>[24 Dec. 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>[1901, December 24?]</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Printed</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Newspaper article</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <link href="http://trdpstaff.dataformat.com/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css"
+                        rel="stylesheet"
+                        type="text/css"/>
+                  <title>[Insert Title Here]</title>
+               </head>
+               <body>
+                  <p>Review of the political wrangling and infighting over the appointment of Pension Agent at Topeka, Kansas.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst01207212">Kansas--Topeka</value>
+            <value subjectRefID="fst00796787">Administrative agencies--Officials and employees--Selection and appointment</value>
+            <value subjectRefID="n80079701">McKinley, William, 1843-1901</value>
+            <value subjectRefID="n79027239">Roosevelt, Theodore, 1858-1919</value>
+            <value subjectRefID="d4e1705201111041506399390100">Metcalf, Wilder Stevens, 1855-1935</value>
+            <value subjectRefID="d4e66201112071916166410100">Burton, Joseph Ralph, 1852-1923</value>
+            <value subjectRefID="d4e292201202281732583340100">Leland, Cyrus, 1841-1917</value>
+            <value subjectRefID="fst00557206">United States. Pension Bureau</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36249</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a64217">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0200/0259.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0259.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36251</id>
+      <name>LOC_032962</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>John Miller</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Carson</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>J</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from John M. Carson to Milton E. Ailes</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>2</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Carson, John Miller, 1837-1912</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Ailes, Milton E.</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Mixed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>John M. Carson encloses a clipping that he would like forwarded to Secretary Gage. In a handwritten note, Gage sends the letter and clipping to President Roosevelt.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00864482">Clippings (Books, newspapers, etc.)</value>
+            <value subjectRefID="n96005618">Gage, Lyman J. (Lyman Judson), 1836-1927</value>
+            <value subjectRefID="n50009504">Penrose, Boies, 1860-1921</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36251</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29606">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0026.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0026.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29607">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0027.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0027.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36252</id>
+      <name>LOC_042106</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>W. S.</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Conlin</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>W</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from W. S. Conlin to Theodore Roosevelt</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>3</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Conlin, W. S.</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Roosevelt, Theodore, 1858-1919</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>W. S. Conlin returns the letter and memo from William Sowden Sims. Conlin thinks that Sims is an alarmist but also wants him to be encouraged to improve naval gunnery and target practice.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00633973">United States. Navy Dept. Bureau of Navigation</value>
+            <value subjectRefID="fst01035002">Naval gunnery--Study and teaching</value>
+            <value subjectRefID="n84032265">Sims, William Sowden, 1858-1936</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36252</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a25376">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0012b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0012b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a25377">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0012a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0012a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a25378">
+            <field name="name">
+               <value>Page 3</value>
+            </field>
+            <field name="sortorder">
+               <value>3</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0013a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0013a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36253</id>
+      <name>LOC_051603</name>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36253</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>The Old Soldiers Are All Right</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>[December 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>[Dec. 1901?]</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>[1901, December?]</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Newspaper article</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Printed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Publication" visibility="public">
+            <value>Topeka Herald</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <link href="http://trdpstaff.dataformat.com/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css"
+                        rel="stylesheet"
+                        type="text/css"/>
+                  <title>[Insert Title Here]</title>
+               </head>
+               <body>
+                  <p>The "old soldiers" opposed the initial appointment of Cyrus Leland as pension agent and supported the recent appointment of Wilder Stevens Metcalf as Leland's replacement.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="d4e1705201111041506399390100">Metcalf, Wilder Stevens, 1855-1935</value>
+            <value subjectRefID="d4e292201202281732583340100">Leland, Cyrus, 1841-1917</value>
+            <value subjectRefID="fst01204323">Kansas</value>
+            <value subjectRefID="fst00557206">United States. Pension Bureau</value>
+            <value subjectRefID="fst00796787">Administrative agencies--Officials and employees--Selection and appointment</value>
+            <value subjectRefID="fst01165787">Veterans--Political activity</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a64221">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0200/0263.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0263.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36254</id>
+      <name>LOC_065333</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Charles S.</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Fairchild</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>C</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Charles S. Fairchild to Theodore Roosevelt</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>3</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Fairchild, Charles S. (Charles Stebbins), 1842-1924</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Roosevelt, Theodore, 1858-1919</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>
+        Charles S. Fairchild has copied the letter to Captain Campbell and the team. He had a pleasant evening at the club and accepts an invitation to have lunch at the White House.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00996779">Letters</value>
+            <value subjectRefID="fst00893952">Dinners and dining</value>
+            <value subjectRefID="fst00912685">Entertaining</value>
+            <value subjectRefID="fst01016037">Men--Societies and clubs</value>
+            <value subjectRefID="fst00631324">White House (Washington, D.C.)</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36254</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29600">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0022.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0022.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29601">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0023a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0023a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29602">
+            <field name="name">
+               <value>Page 3</value>
+            </field>
+            <field name="sortorder">
+               <value>3</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0023b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0023b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36255</id>
+      <name>LOC_069795</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Patrick</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Ford</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>P</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Patrick Ford to Theodore Roosevelt</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>3</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Ford, Patrick, 1837-1913</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Roosevelt, Theodore, 1858-1919</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Patrick Ford writes on behalf of his friend, Richard C. Kerens, who has been maligned in the press.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst01204724">Missouri</value>
+            <value subjectRefID="fst01075866">Press and politics</value>
+            <value subjectRefID="d4e5201111092052393940100">Kerens, Richard C., 1842-1916</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36255</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29603">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0024a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0024a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29604">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0025a.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0025a.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29605">
+            <field name="name">
+               <value>Page 3</value>
+            </field>
+            <field name="sortorder">
+               <value>3</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/Crop23-0000/0025b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0025b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36256</id>
+      <name>LOC_084568</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Arthur Twining</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Hadley</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>A</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Arthur Twining Hadley to Theodore Roosevelt</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Hadley, Arthur Twining, 1856-1930</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Roosevelt, Theodore, 1858-1919</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>President Hadley of Yale sends a reprint of John Carlyle's translation of Dante which they had discussed at Mr. Farnam's dinner.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Typed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst00836454">Books and reading</value>
+            <value subjectRefID="n78095495">Dante Alighieri, 1265-1321</value>
+            <value subjectRefID="n85316506">Carlyle, John Aitken, 1801-1879</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36256</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29608">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0028.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0028.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36257</id>
+      <name>LOC_091584</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Failed To Kill!</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-19</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 19, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>19 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 19)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <link href="http://trdpstaff.dataformat.com/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css"
+                        rel="stylesheet"
+                        type="text/css"/>
+                  <title>[Insert Title Here]</title>
+               </head>
+               <body>
+                  <p>Cartoon depicts a bear named Platt chasing William Allen White, who has dropped his gun and is running the other direction.  The gun is titled McClure, the magazine in which White published a blistering critique of Thomas Platt.  Caption:  The King of Boyville, his Zulu rifle, and a very savage bear in the New York woods.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Cartoon</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Printed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Publication" visibility="public">
+            <value>Kansas City Journal</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst01069221">Political cartoons</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36257</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a64223">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0200/0265.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0265.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36258</id>
+      <name>LOC_099141</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Theodor von</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Holleben</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>T</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Theodor von Holleben to John Hay</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Holleben, Theodor von, 1838-1913</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Hay, John, 1838-1905</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Typed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Baron Herman, agricultural expert of the German embassy, has been transferred to Germany and would like to pay his respects to President and Mrs. Roosevelt before his departure.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst01210272">Germany</value>
+            <value subjectRefID="fst00894384">Diplomatic etiquette</value>
+            <value subjectRefID="fst01015496">Meetings</value>
+            <value subjectRefID="fst00977053">International relations</value>
+            <value subjectRefID="n79027239">Roosevelt, Theodore, 1858-1919</value>
+            <value subjectRefID="n79085128">Roosevelt, Edith Kermit Carow, 1861-1948</value>
+            <value subjectRefID="d4e236201202281732583340100">Herman, Beno von, baron</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36258</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-09</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29609">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0029.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0029.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36260</id>
+      <name>LOC_129148</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value>Seth</value>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Low</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value>S</value>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Letter from Seth Low to Theodore Roosevelt</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901-12-17</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>December 17, 1901</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>17 Dec. 1901</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>(1901, December 17)</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>4</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Low, Seth, 1850-1916</value>
+         </field>
+         <field name="Original.Recipient" visibility="primary">
+            <value>Roosevelt, Theodore, 1858-1919</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <title/>
+                  <link href="/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css" rel="stylesheet"
+                        type="text/css"/>
+               </head>
+               <body>
+                  <p>Seth Low, soon to be Mayor of New York City, requests President Roosevelt's opinion on several potential appointments.</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Letter</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Typed</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="fst01001470">Local officials and employees--Selection and appointment</value>
+            <value subjectRefID="fst01204333">New York (State)--New York</value>
+            <value subjectRefID="d4e484201202281732583340100">Sturgis, Thomas</value>
+            <value subjectRefID="no2003026759">Breen, Matthew P. (Matthew Patrick)</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36260</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Multi-image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-02-21</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a29683">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0042.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0042.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29684">
+            <field name="name">
+               <value>Page 2</value>
+            </field>
+            <field name="sortorder">
+               <value>2</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0043.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0043.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29685">
+            <field name="name">
+               <value>Page 3</value>
+            </field>
+            <field name="sortorder">
+               <value>3</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0044.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0044.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+         <attachment xml:id="a29686">
+            <field name="name">
+               <value>Page 4</value>
+            </field>
+            <field name="sortorder">
+               <value>4</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0000/0045.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0045.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36261</id>
+      <name>LOC_184923</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"><head><title/></head><body><p>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the <a href="http://www.theodorerooseveltcenter.org/About-Us/TRDL-Terms-of-Use.aspx">Theodore Roosevelt Digital Library Terms of Use</a> for further copyright information.
+</p></body></html></value></field>
+         <field name="Original.CreatorFirstName">
+            <value/>
+         </field>
+         <field name="Original.CreatorLastName">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.CreatorFirstInitial">
+            <value/>
+         </field>
+         <field name="Original.Title" visibility="primary">
+            <value>Amos Parker Wilder note</value>
+         </field>
+         <field name="Original.CreationDate" visibility="primary">
+            <value>1901</value>
+         </field>
+         <field name="Original.CreationDate.Chicago">
+            <value>[1901?]</value>
+         </field>
+         <field name="Original.CreationDate.MLA">
+            <value>[1901?]</value>
+         </field>
+         <field name="Original.CreationDate.APA">
+            <value>[1901?]</value>
+         </field>
+         <field name="Original.PageCount" visibility="public">
+            <value>1</value>
+         </field>
+         <field name="Original.Creator" visibility="primary">
+            <value>Unknown</value>
+         </field>
+         <field name="Original.Period" visibility="public">
+            <value>President of the United States - First Term (September 1901-February 1905)</value>
+         </field>
+         <field name="Original.ResourceType" visibility="public">
+            <value>Note</value>
+         </field>
+         <field name="Original.ProductionMethod" visibility="public">
+            <value>Handwritten</value>
+         </field>
+         <field name="Original.Language" visibility="public">
+            <value>English</value>
+         </field>
+         <field name="Original.Description" visibility="primary">
+            <html xmlns="http://www.w3.org/1999/xhtml">
+               <head>
+                  <link href="http://trdpstaff.dataformat.com/Resources/RadEditorConfigs/CSS/TRDP_DARMA.css"
+                        rel="stylesheet"
+                        type="text/css"/>
+                  <title>[Insert Title Here]</title>
+               </head>
+               <body>
+                  <p> "Amos Parker Wilder, Wisconsin."</p>
+               </body>
+            </html>
+         </field>
+         <field name="Original.Collection" visibility="primary">
+            <value>Theodore Roosevelt Papers, Manuscripts division</value>
+         </field>
+         <field name="Original.Repository" visibility="public">
+            <value>The Library of Congress</value>
+         </field>
+         <field name="Original.SubjectTags">
+            <value subjectRefID="d4e558201202281732583340100">Wilder, Amos Parker, 1862-1936</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Digital Object">
+ <field name="Digital.PublicSiteURL">
+<value>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36261</value>
+</field>
+         <field name="Digital.RecordType">
+            <value>Image</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Workflow">
+         <field name="Workflow.PublicationDate">
+            <value>2012-03-01</value>
+         </field>
+      </InfoGroup>
+      <InfoGroup name="Attachments">
+         <attachment xml:id="a64248">
+            <field name="name">
+               <value>Page 1</value>
+            </field>
+            <field name="sortorder">
+               <value>1</value>
+            </field>
+            <field name="primaryURL">
+               <value>http://trcimages.dataformat.com/images/LC/1600/023/0300/Crop23-0300/0317b.jpg</value>
+            </field>
+            <field name="thumbnailURL">
+               <value>http://trcimages.dataformat.com/images/LC/thumbnails/023/0300/Crop23-0300/0317b.jpg</value>
+            </field>
+            <field name="alternateURL">
+               <value/>
+            </field>
+            <field name="notes">
+               <value/>
+            </field>
+         </attachment>
+      </InfoGroup>
+   </Object>
+   <Object collection="Library of Congress Manuscript Division" collectionID="c137">
+      <id>o36262</id>
+      <name>LOC_197613</name>
+      <InfoGroup name="Original Object"><field name="Original.Rights"><value><html xmlns="http://www.w3.org/1999/xhtml"

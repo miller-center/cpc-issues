@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+   <Identify>
+      <oai:repositoryName/>
+      <oai:baseURL/>
+      <oai:protocolVersion>2.0</oai:protocolVersion>
+      <oai:adminEmail/>
+      <oai:earliestDatestamp/>
+      <oai:deletedRecord>no</oai:deletedRecord>
+      <oai:granularity>YYYY-MM-DD</oai:granularity>
+   </Identify>
+   <ListMetadataFormats>
+      <oai:metadataFormat>
+         <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+         <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+         <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+      </oai:metadataFormat>
+   </ListMetadataFormats>
+   <ListRecords metadataPrefix="oai_dc">
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30147</dc:identifier>
+               <dc:id>wwp_30147</dc:id>
+               <dc:title>Woodrow Wilson's Transcript of a Letter From Thomas Woodrow to Jessie Woodrow Wilson dated 19 Oct. 1855</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          Thomas Woodrow</dc:creator>
+               <dc:date>1855-10-19</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Janet Woodrow
+               Wilson
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30147</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30200</dc:identifier>
+               <dc:id>wwp_30200</dc:id>
+               <dc:title>Woodrow Wilson: Naval Committees List, [c. 1873-1874?]</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1873-01-01</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30200</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30054</dc:identifier>
+               <dc:id>wwp_30054</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, 16 Dec. 1888</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1888-12-16</dc:date>
+               <dc:subject>family</dc:subject>
+               <dc:contributor>
+            Joseph R.
+            Wilson
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30054</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_35446</dc:identifier>
+               <dc:id>wwp_35446</dc:id>
+               <dc:title>Woodrow Wilson to Harper and Brothers, 25 Sept. 1896</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2005 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Woodrow Wilson is writing to his publishers about the proofs for his book on George Washington</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1896-09-25</dc:date>
+               <dc:subject>George Washington</dc:subject>
+               <dc:subject>biography</dc:subject>
+               <dc:subject>publisher</dc:subject>
+               <dc:contributor>Harper and Brothers</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=35446</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_35452</dc:identifier>
+               <dc:id>wwp_35452</dc:id>
+               <dc:title>Woodrow Wilson to Harper and Brothers, 1 Oct. 1896</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2005 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Woodrow Wilson is writing to his publishers about not receiving the proofs for his book on George Washington</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1896-10-01</dc:date>
+               <dc:subject>George Washington</dc:subject>
+               <dc:subject>biography</dc:subject>
+               <dc:subject>publisher</dc:subject>
+               <dc:contributor>Harper  and  Brothers</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=35452</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_29935</dc:identifier>
+               <dc:id>wwp_29935</dc:id>
+               <dc:title>Woodrow Wilson to Dorr E. Warner, 18 May 1897</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1897-05-18</dc:date>
+               <dc:subject>education</dc:subject>
+               <dc:contributor>Dorr E. Warner</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=29935</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30146</dc:identifier>
+               <dc:id>wwp_30146</dc:id>
+               <dc:title>Woodrow Wilson: Fragment of Manuscript or Speech on Education, [between 1902 and 1910?]</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          </dc:creator>
+               <dc:date>1902-01-0</dc:date>
+               <dc:subject>education</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30146</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_29936</dc:identifier>
+               <dc:id>wwp_29936</dc:id>
+               <dc:title>Woodrow Wilson: Reference for P.I. McElroy, 12 June 1902</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1902-06-12</dc:date>
+               <dc:subject>reference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=29936</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30274</dc:identifier>
+               <dc:id>wwp_30274</dc:id>
+               <dc:title>Woodrow Wilson to Thomas C. Elder, 13 Dec. 1902</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1902-12-13</dc:date>
+               <dc:subject/>
+               <dc:contributor>Thomas C. Elder</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30274</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_29937</dc:identifier>
+               <dc:id>wwp_29937</dc:id>
+               <dc:title>Woodrow Wilson to W.M. Jackson, 13 Jan. 1903</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1903-01-13</dc:date>
+               <dc:subject/>
+               <dc:contributor>W.M. Jackson</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=29937</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30030</dc:identifier>
+               <dc:id>wwp_30030</dc:id>
+               <dc:title>Woodrow Wilson to L.L. Campbell, 20 Jan. 1903</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1903-01-20</dc:date>
+               <dc:subject/>
+               <dc:contributor>L. L. Campbell</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30030</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30142</dc:identifier>
+               <dc:id>wwp_30142</dc:id>
+               <dc:title>Woodrow Wilson to Mrs. Christian S. Baker, 20 Apr. 1903</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1903-04-20</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mrs. Christian S. Baker</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30142</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30201</dc:identifier>
+               <dc:id>wwp_30201</dc:id>
+               <dc:title>Invitation to Meet Woodrow Wilson, 6 Nov. 1903</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator/>
+               <dc:date>1903-11-06</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30201</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30270</dc:identifier>
+               <dc:id>wwp_30270</dc:id>
+               <dc:title>Woodrow Wilson to A.M. Frazer, 11 Nov. 1903</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1903-11-11</dc:date>
+               <dc:subject/>
+               <dc:contributor>A.M. Frazer</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30270</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30133</dc:identifier>
+               <dc:id>wwp_30133</dc:id>
+               <dc:title>Woodrow Wilson to A.M. Fraser, 20 Oct. 1904</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1904-10-20</dc:date>
+               <dc:subject>religion</dc:subject>
+               <dc:contributor>A.M. Fraser</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30133</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30848</dc:identifier>
+               <dc:id>wwp_30848</dc:id>
+               <dc:title>Woodrow Wilson to Hamilton Holt, 27 Feb. 1906</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Presidential Library Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1906-02-27</dc:date>
+               <dc:subject>education</dc:subject>
+               <dc:subject>preceptorial system</dc:subject>
+               <dc:subject>Princeton University</dc:subject>
+               <dc:contributor>Hamilton Holt</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30848</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_35280</dc:identifier>
+               <dc:id>wwp_35280</dc:id>
+               <dc:title>Woodrow Wilson to Cary N. Weisiger, 27 Mar. 1910</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights/>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1910-03-27</dc:date>
+               <dc:subject/>
+               <dc:contributor>Cary N. Weisiger</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=35280</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30031</dc:identifier>
+               <dc:id>wwp_30031</dc:id>
+               <dc:title>Woodrow Wilson to Charles M. East, 11 Dec. 1910</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1910-12-11</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Charles M. East</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30031</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30032</dc:identifier>
+               <dc:id>wwp_30032</dc:id>
+               <dc:title>Woodrow Wilson to John S. Wilds, 21 Dec. 1910</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1910-12-21</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            John T.
+            Wilds
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30032</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30037</dc:identifier>
+               <dc:id>wwp_30037</dc:id>
+               <dc:title>Invitation to Gubernatorial Inauguration of Woodrow Wilson, 17 Jan. 1911</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator/>
+               <dc:date>1911-01-17</dc:date>
+               <dc:subject/>
+               <dc:contributor>M.F. Elderton</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30037</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31202</dc:identifier>
+               <dc:id>wwp_31202</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 18 July 1911</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Governor Woodrow Wilson arranges to meet with his cousin Guy H. Woodrow and a friend.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1911-07-18</dc:date>
+               <dc:subject/>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31202</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31203</dc:identifier>
+               <dc:id>wwp_31203</dc:id>
+               <dc:title>Jessie Wilson Sayre to Lloyd S. Woodrow, 22 Aug. [1911?]</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Jessie Wilson Sayre tells her cousin Lloyd S. Woodrow about an attempt by Democratic State Committee chairman James R. Nugent to break up a meeting in which he was going to be forced to resign.</dc:description>
+               <dc:creator>Jessie Wilson Sayre</dc:creator>
+               <dc:date>1911-08-22</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Loyd S. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31203</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30039</dc:identifier>
+               <dc:id>wwp_30039</dc:id>
+               <dc:title>Woodrow Wilson to Ernest Harvier, 7 Nov. 1911</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1911-11-07</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Ernest Harvier</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30039</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31205</dc:identifier>
+               <dc:id>wwp_31205</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 27 Nov. 1911</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Governor Woodrow Wilson thanking his cousin Guy H. Woodrow for the Thanksgiving flowers.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1911-11-27</dc:date>
+               <dc:subject>holiday</dc:subject>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31205</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31204</dc:identifier>
+               <dc:id>wwp_31204</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 27 Nov. 1911</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1911-11-27</dc:date>
+               <dc:subject/>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31204</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31206</dc:identifier>
+               <dc:id>wwp_31206</dc:id>
+               <dc:title>Ellen Axson Wilson to Guy H. Woodrow, 4 Dec. 1911</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Ellen Axson Wilson thanks cousin Guy H. Woodrow for the flowers he sent for Thanksgiving.</dc:description>
+               <dc:creator>Ellen Axson Wilson</dc:creator>
+               <dc:date>1911-12-04</dc:date>
+               <dc:subject>holiday</dc:subject>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31206</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30040</dc:identifier>
+               <dc:id>wwp_30040</dc:id>
+               <dc:title>Woodrow Wilson to Ernest Harvier, 18 Dec. 1911</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1911-12-18</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Ernest Harvier</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30040</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30041</dc:identifier>
+               <dc:id>wwp_30041</dc:id>
+               <dc:title>Woodrow Wilson to Ernest Harvier, 16 Jan. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1912-01-16</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Ernest Harvier</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30041</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31207</dc:identifier>
+               <dc:id>wwp_31207</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 7 Feb. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Governor Woodrow Wilson refuses his cousin Guy H. Woodrow’s invitation to come to Ohio for the Constitutional Convenction.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1912-02-07</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31207</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30049</dc:identifier>
+               <dc:id>wwp_30049</dc:id>
+               <dc:title>Woodrow Wilson to Charles Catlett, 14 May 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1912-05-14</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Charles Catlett</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30049</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30050</dc:identifier>
+               <dc:id>wwp_30050</dc:id>
+               <dc:title>Ellen Axson Wilson to Mrs. P.Y. Walker, 17 May 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Ellen Axson
+               Wilson
+         </dc:creator>
+               <dc:date>1912-05-17</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mrs. P.Y. Walker</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30050</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_35281</dc:identifier>
+               <dc:id>wwp_35281</dc:id>
+               <dc:title>Woodrow Wilson to Cary N. Weisiger, Jr., 12 July 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights/>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1912-07-12</dc:date>
+               <dc:subject/>
+               <dc:contributor>Cary N. Weisiger</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=35281</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31208</dc:identifier>
+               <dc:id>wwp_31208</dc:id>
+               <dc:title>Jessie Wilson Sayre to Guy H. Woodrow, [21 July 1912]</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Jessie Wilson Sayre tells her cousin Guy H. Woodrow for his telegrams about Woodrow Wilson receiving the Democratic nomination for President.</dc:description>
+               <dc:creator>Jessie Wilson Sayre</dc:creator>
+               <dc:date>1912-07-21</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:subject>Democratic Convention</dc:subject>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31208</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30261</dc:identifier>
+               <dc:id>wwp_30261</dc:id>
+               <dc:title>Woodrow Wilson to McQueen S. Wightman, 22 Aug. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1912-08-22</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>McQueen S. Wightman</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30261</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31218</dc:identifier>
+               <dc:id>wwp_31218</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 4 Sept. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Woodrow Wilson turns down an offer to stay with his cousin, Guy H. Woodrow, during his campaign to
+                prevent jealousy.</dc:description>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1912-09-04</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:subject>campaign</dc:subject>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31218</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30109</dc:identifier>
+               <dc:id>wwp_30109</dc:id>
+               <dc:title>Woodrow Wilson to Martin H. Wayt, 6 Dec. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1912-12-06</dc:date>
+               <dc:subject/>
+               <dc:contributor>Martin H. Wayt</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30109</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30052</dc:identifier>
+               <dc:id>wwp_30052</dc:id>
+               <dc:title>Woodrow Wilson to Lee Douglas, 11 Dec. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1912-12-11</dc:date>
+               <dc:subject/>
+               <dc:contributor>Lee Douglas</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30052</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30106</dc:identifier>
+               <dc:id>wwp_30106</dc:id>
+               <dc:title>Woodrow Wilson to William C. Redfield, 17 Dec. 1912</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1912-12-17</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>William C. Redfield</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30106</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30198</dc:identifier>
+               <dc:id>wwp_30198</dc:id>
+               <dc:title>Woodrow Wilson's Staunton, Virginia, Homecoming: Program, 27-28 Dec. 1912</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator/>
+               <dc:date>1912-12-27</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30198</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30053</dc:identifier>
+               <dc:id>wwp_30053</dc:id>
+               <dc:title>Woodrow Wilson's Birthday in Staunton, Virginia: Invitation, 28 Dec. 1912</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator/>
+               <dc:date>1912-12-28</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30053</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30110</dc:identifier>
+               <dc:id>wwp_30110</dc:id>
+               <dc:title>Woodrow Wilson to Martin H. Wayt, 3 Jan. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-01-03</dc:date>
+               <dc:subject/>
+               <dc:contributor>Martin H. Wayt</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30110</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30134</dc:identifier>
+               <dc:id>wwp_30134</dc:id>
+               <dc:title>Woodrow Wilson to A.M. Fraser, 3 Jan. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-01-03</dc:date>
+               <dc:subject/>
+               <dc:contributor>A.M. Fraser</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30134</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30271</dc:identifier>
+               <dc:id>wwp_30271</dc:id>
+               <dc:title>Woodrow Wilson to Louise Hydewrich, 6 Jan. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-01-06</dc:date>
+               <dc:subject/>
+               <dc:contributor>Louise Hydewrich</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30271</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30107</dc:identifier>
+               <dc:id>wwp_30107</dc:id>
+               <dc:title>Woodrow Wilson to William C. Redfield, 6 Jan. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-01-06</dc:date>
+               <dc:subject/>
+               <dc:contributor>William C. Redfield</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30107</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30262</dc:identifier>
+               <dc:id>wwp_30262</dc:id>
+               <dc:title>Woodrow Wilson to McQueen S. Wightman, 6 Jan. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-01-06</dc:date>
+               <dc:subject/>
+               <dc:contributor>McQueen S. Wightman</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30262</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30266</dc:identifier>
+               <dc:id>wwp_30266</dc:id>
+               <dc:title>Woodrow Wilson to Lilian W. Johnson, 21 Jan. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-01-21</dc:date>
+               <dc:subject/>
+               <dc:contributor>Lilian W. Johnson</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30266</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30138</dc:identifier>
+               <dc:id>wwp_30138</dc:id>
+               <dc:title>Presidential Inauguration Invitation Envelope Addressed to N.O. Vruland, 4 Mar. 1913</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator/>
+               <dc:date>1913-03-04</dc:date>
+               <dc:subject/>
+               <dc:contributor>N.O. Vruland</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30138</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30139</dc:identifier>
+               <dc:id>wwp_30139</dc:id>
+               <dc:title>Woodrow and Ellen Wilson to the N.O. Vruland's, 4 Mar. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          
+            Ellen Axson
+               Wilson
+         </dc:creator>
+               <dc:date>1913-03-04</dc:date>
+               <dc:subject/>
+               <dc:contributor>N.O. Vruland</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30139</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30056</dc:identifier>
+               <dc:id>wwp_30056</dc:id>
+               <dc:title>Woodrow Wilson to Mr. Opdyke, 17 Sept. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-09-17</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mr. Opdyke</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30056</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30033</dc:identifier>
+               <dc:id>wwp_30033</dc:id>
+               <dc:title>Woodrow Wilson to John T. Wilds, 10 Nov. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-11-10</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            John T.
+            Wilds
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30033</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30057</dc:identifier>
+               <dc:id>wwp_30057</dc:id>
+               <dc:title>Invitation for Wedding of Jessie Wilson Sayre, 25 Nov. 1913</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-11-25</dc:date>
+               <dc:subject/>
+               <dc:contributor>Miss Wilson</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30057</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30108</dc:identifier>
+               <dc:id>wwp_30108</dc:id>
+               <dc:title>Woodrow Wilson to William C. Redfield, 23 Dec. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-12-23</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            William C.
+               Redfield
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30108</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30264</dc:identifier>
+               <dc:id>wwp_30264</dc:id>
+               <dc:title>Woodrow Wilson Approval of Federal Reserve Act, 23 Dec. 1913</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-12-23</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30264</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30116</dc:identifier>
+               <dc:id>wwp_30116</dc:id>
+               <dc:title>Woodrow Wilson to Hampton H. Wayt, 29 Dec. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-12-29</dc:date>
+               <dc:subject/>
+               <dc:contributor>Hampton H. Wayt</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30116</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30276</dc:identifier>
+               <dc:id>wwp_30276</dc:id>
+               <dc:title>Woodrow Wilson to John O. Cosgrave, 10 Jan. 1914</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-01-10</dc:date>
+               <dc:subject/>
+               <dc:contributor>John O. Cosgrave</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30276</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30143</dc:identifier>
+               <dc:id>wwp_30143</dc:id>
+               <dc:title>Invitation to White House Recepton to Mr. Hudson, 10 Feb. 1914</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          
+            Ellen Axson
+               Wilson
+         </dc:creator>
+               <dc:date>1914-02-10</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mr. Hudson</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30143</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30279</dc:identifier>
+               <dc:id>wwp_30279</dc:id>
+               <dc:title>Woodrow Wilson and Ellen Axson Wilson Invitation to Arthur Yager and Wife, 24 Feb. 1914</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          
+            
+         Ellen Axson Wilson</dc:creator>
+               <dc:date>1914-02-24</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Arthur
+            Yager
+          Mrs. Arthur Yager</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30279</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30059</dc:identifier>
+               <dc:id>wwp_30059</dc:id>
+               <dc:title>Wedding Invitation for Eleanor Wilson McAdoo, 7 May 1914</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-05-07</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mr. and Mrs. John B. Ecker</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30059</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30280</dc:identifier>
+               <dc:id>wwp_30280</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 15 Aug. 1914</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-08-15</dc:date>
+               <dc:subject>death</dc:subject>
+               <dc:subject>bereavement</dc:subject>
+               <dc:contributor>
+            Arthur
+            Yager
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30280</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30281</dc:identifier>
+               <dc:id>wwp_30281</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 15 Dec. 1914</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1914-12-15</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+                Arthur Yager
+            </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30281</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30034</dc:identifier>
+               <dc:id>wwp_30034</dc:id>
+               <dc:title>Woodrow Wilson to John T. Wilds, 22 Dec. 1914</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-12-22</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            John T.
+            Wilds
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30034</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30527</dc:identifier>
+               <dc:id>wwp_30527</dc:id>
+               <dc:title>Woodrow Wilson to Louis Edelman, 22 Dec. 1914</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1914-12-22</dc:date>
+               <dc:subject>civil service</dc:subject>
+               <dc:contributor>Louis Edelman</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30527</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30528</dc:identifier>
+               <dc:id>wwp_30528</dc:id>
+               <dc:title>Woodrow Wilson to Ella Young, 30 Dec. 1914</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1914-12-30</dc:date>
+               <dc:subject>death</dc:subject>
+               <dc:contributor>Ella Young</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30528</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31219</dc:identifier>
+               <dc:id>wwp_31219</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 12 Jan. 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>President Woodrow Wilson refuses his cousin Guy H. Woodrow’s invitation to come to Ohio to visit the Jefferson Club of Columbus.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1915-01-12</dc:date>
+               <dc:subject/>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31219</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30331</dc:identifier>
+               <dc:id>wwp_30331</dc:id>
+               <dc:title>Woodrow Wilson: Letter of Reference for Allen S. Hulbert, 14 Feb. 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1915-02-14</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30331</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30529</dc:identifier>
+               <dc:id>wwp_30529</dc:id>
+               <dc:title>Woodrow Wilson to Clarence J. Owens, 25 Mar. 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1915-03-25</dc:date>
+               <dc:subject/>
+               <dc:contributor>Clarence J. Owens</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30529</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30149</dc:identifier>
+               <dc:id>wwp_30149</dc:id>
+               <dc:title>Woodrow Wilson to Joseph P. Tumulty, 3 July 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-07-03</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph P.
+            Tumulty
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30149</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30060</dc:identifier>
+               <dc:id>wwp_30060</dc:id>
+               <dc:title>Woodrow Wilson to William B. Howland, 20 Oct. 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-10-20</dc:date>
+               <dc:subject/>
+               <dc:contributor>William B. Howland</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30060</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30035</dc:identifier>
+               <dc:id>wwp_30035</dc:id>
+               <dc:title>Woodrow Wilson to John T. Wilds, 22 Nov. 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-11-22</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            John T.
+            Wilds
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30035</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30273</dc:identifier>
+               <dc:id>wwp_30273</dc:id>
+               <dc:title>Woodrow Wilson to Robert L. Pierce, 28 Dec. 1915</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1915-12-28</dc:date>
+               <dc:subject/>
+               <dc:contributor>Robert L. Pierce</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30273</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30265</dc:identifier>
+               <dc:id>wwp_30265</dc:id>
+               <dc:title>Woodrow Wilson to Joseph P. Tumulty, [c. 1915?]</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-01-01</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph P.
+            Tumulty
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30265</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30282</dc:identifier>
+               <dc:id>wwp_30282</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 20 Mar. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1916-03-20</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+                Arthur Yager
+            </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30282</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30283</dc:identifier>
+               <dc:id>wwp_30283</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 5 Apr. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1916-04-05</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+                Arthur Yager
+            </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30283</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30117</dc:identifier>
+               <dc:id>wwp_30117</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 12 Apr. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-04-12</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30117</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30119</dc:identifier>
+               <dc:id>wwp_30119</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 7 June 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-06-07</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30119</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30120</dc:identifier>
+               <dc:id>wwp_30120</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 18 July 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-07-18</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30120</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30122</dc:identifier>
+               <dc:id>wwp_30122</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 19 Aug. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-08-19</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30122</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30123</dc:identifier>
+               <dc:id>wwp_30123</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 31 Aug. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-08-31</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30123</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31221</dc:identifier>
+               <dc:id>wwp_31221</dc:id>
+               <dc:title>Woodrow Wilson to William G. McAdoo, 9 Oct. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description> Woodrow Wilson turns down an offer to play golf with two champions.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1916-10-09</dc:date>
+               <dc:subject>golf</dc:subject>
+               <dc:subject>recreation</dc:subject>
+               <dc:subject>sport</dc:subject>
+               <dc:subject>election</dc:subject>
+               <dc:subject>humor</dc:subject>
+               <dc:contributor>William G. McAdoo</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31221</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30091</dc:identifier>
+               <dc:id>wwp_30091</dc:id>
+               <dc:title>Joseph P. Tumulty to Frank A. Massie, 14 Nov. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Joseph P.
+            Tumulty
+         </dc:creator>
+               <dc:date>1916-11-14</dc:date>
+               <dc:subject/>
+               <dc:contributor>Frank A. Massie</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30091</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30284</dc:identifier>
+               <dc:id>wwp_30284</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 15 Nov. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-11-15</dc:date>
+               <dc:subject>election</dc:subject>
+               <dc:contributor>
+            Arthur
+            Yager
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30284</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30135</dc:identifier>
+               <dc:id>wwp_30135</dc:id>
+               <dc:title>Woodrow Wilson to A.M. Fraser, 25 Nov. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-11-25</dc:date>
+               <dc:subject/>
+               <dc:contributor>A.M. Fraser</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30135</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30285</dc:identifier>
+               <dc:id>wwp_30285</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 27 Nov. 1916</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-11-27</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Arthur
+            Yager
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30285</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30092</dc:identifier>
+               <dc:id>wwp_30092</dc:id>
+               <dc:title>Woodrow Wilson to Frank A. Massie, 26 Jan. 1917</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1917-01-26</dc:date>
+               <dc:subject/>
+               <dc:contributor>Frank A. Massie</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30092</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30061</dc:identifier>
+               <dc:id>wwp_30061</dc:id>
+               <dc:title>Woodrow Wilson to Brand Whitlock, 15 Feb. 1917</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1917-02-15</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Brand
+            Whitlock
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30061</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31220</dc:identifier>
+               <dc:id>wwp_31220</dc:id>
+               <dc:title>Woodrow Wilson to Guy H. Woodrow, 19 May 1917</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description>Woodrow Wilson expresses condolences to his cousin, Guy H. Woodrow, for the death of “Uncle
+                Charles”.</dc:description>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1917-05-19</dc:date>
+               <dc:subject/>
+               <dc:subject/>
+               <dc:contributor>Guy H. Woodrow</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31220</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30062</dc:identifier>
+               <dc:id>wwp_30062</dc:id>
+               <dc:title>Woodrow Wilson to J.F.L. Long, 25 Sept. 1917</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1917-09-25</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>military</dc:subject>
+               <dc:contributor>J.F.L. Long</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30062</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30124</dc:identifier>
+               <dc:id>wwp_30124</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 14 Nov. 1917</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1917-11-14</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30124</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30128</dc:identifier>
+               <dc:id>wwp_30128</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 15 Mar. 1918</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1918-03-15</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30128</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30082</dc:identifier>
+               <dc:id>wwp_30082</dc:id>
+               <dc:title>Woodrow Wilson to Joshua W. Miles, 5 April 1918</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1918-04-05</dc:date>
+               <dc:subject>IRS</dc:subject>
+               <dc:subject>Internal Revenue Service</dc:subject>
+               <dc:contributor>Joshua W. Miles</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30082</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30328</dc:identifier>
+               <dc:id>wwp_30328</dc:id>
+               <dc:title>Woodrow Wilson to Swager Sherley, 11 May 1918</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1918-05-11</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor>Swager Sherley</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30328</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30087</dc:identifier>
+               <dc:id>wwp_30087</dc:id>
+               <dc:title>Newton D. Baker to Woodrow Wilson, 13-18 Aug. 1918</dc:title>
+               <dc:type>Report</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Newton D.
+            Baker
+          
+            Tasker H.
+            Bliss
+         </dc:creator>
+               <dc:date>1918-08-13</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor>
+            Woodrow
+            Wilson
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30087</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30286</dc:identifier>
+               <dc:id>wwp_30286</dc:id>
+               <dc:title>Woodrow Wilson to Arthur Yager, 20 Aug. 1918</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1918-08-20</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Arthur
+            Yager
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30286</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30036</dc:identifier>
+               <dc:id>wwp_30036</dc:id>
+               <dc:title>Woodrow Wilson to John T. Wilds, 23 Aug. 1918</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1918-08-23</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            John T.
+            Wilds
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30036</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30129</dc:identifier>
+               <dc:id>wwp_30129</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 3 Oct. 1918</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1918-10-03</dc:date>
+               <dc:subject>poetry</dc:subject>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30129</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30327</dc:identifier>
+               <dc:id>wwp_30327</dc:id>
+               <dc:title>Proclamation Announcing Death of Theodore Roosevelt, 7 Jan. 1919</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1919-01-07</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30327</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30277</dc:identifier>
+               <dc:id>wwp_30277</dc:id>
+               <dc:title>Woodrow Wilson to H. Walter Barnett, 18 Mar. 1919</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1919-03-18</dc:date>
+               <dc:subject/>
+               <dc:contributor>H. Walter Barnett</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30277</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30278</dc:identifier>
+               <dc:id>wwp_30278</dc:id>
+               <dc:title>Woodrow Wilson and Edith Bolling Wilson to Ll. Jorweth Williams, 27 May 1919</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          
+            Edith Bolling
+               Wilson
+         </dc:creator>
+               <dc:date>1919-05-27</dc:date>
+               <dc:subject/>
+               <dc:contributor>Ll. Jorweth Williams</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30278</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30089</dc:identifier>
+               <dc:id>wwp_30089</dc:id>
+               <dc:title>William Jennings Bryan to Wallace McClure, 28 Oct. 1919</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            William Jennings
+               Bryan
+          Wallace McClure</dc:creator>
+               <dc:date>1919-10-28</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30089</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30272</dc:identifier>
+               <dc:id>wwp_30272</dc:id>
+               <dc:title>Nobel Peace Prize Certificate to Woodrow Wilson, 10 Dec. 1919</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Nobel Peace Prize Committee</dc:creator>
+               <dc:date>1919-12-10</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Woodrow
+            Wilson
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30272</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30851</dc:identifier>
+               <dc:id>wwp_30851</dc:id>
+               <dc:title>Woodrow Wilson to Ida W. Atwater, 19 Aug. 1920</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Presidential Library Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1920-08-19</dc:date>
+               <dc:subject>women’s suffrage</dc:subject>
+               <dc:subject>vote</dc:subject>
+               <dc:contributor>Ida W. Atwater</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30851</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30090</dc:identifier>
+               <dc:id>wwp_30090</dc:id>
+               <dc:title>Woodrow Wilson to W.H. Taylor, 11 Oct. 1920</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1920-10-11</dc:date>
+               <dc:subject/>
+               <dc:contributor>W.H. Taylor</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30090</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30130</dc:identifier>
+               <dc:id>wwp_30130</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 23 Nov. 1920</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1920-11-23</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30130</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30131</dc:identifier>
+               <dc:id>wwp_30131</dc:id>
+               <dc:title>Woodrow Wilson to Joseph R. Wilson, Jr., 3 Dec. 1920</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1920-12-03</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Joseph R. Wilson,
+               Jr.
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30131</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30199</dc:identifier>
+               <dc:id>wwp_30199</dc:id>
+               <dc:title>Joseph P. Tumulty to Margaret W. Daniel, 3 Mar. 1921</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Joseph P.
+            Tumulty
+         </dc:creator>
+               <dc:date>1921-03-03</dc:date>
+               <dc:subject>health</dc:subject>
+               <dc:contributor>Margaret W. Daniel</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30199</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30094</dc:identifier>
+               <dc:id>wwp_30094</dc:id>
+               <dc:title>Invoice for Pierce-Arrow Car to Woodrow Wilson, 4 Mar. 1921</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Pierce-Arrow Motor Car Company</dc:creator>
+               <dc:date>1921-03-04</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Woodrow
+            Wilson
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30094</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30268</dc:identifier>
+               <dc:id>wwp_30268</dc:id>
+               <dc:title>Woodrow Wilson: Form Letter Refusing Autographs, [4 Mar. 1921-3 Feb. 1924]</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1921-03-04</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30268</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30267</dc:identifier>
+               <dc:id>wwp_30267</dc:id>
+               <dc:title>Woodrow Wilson and Bainbridge Colby: Law Partnership Announcement, [c. 1 July 1921]</dc:title>
+               <dc:type>Miscellaneous</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+          
+            Bainbridge
+            Colby
+         </dc:creator>
+               <dc:date>1921-07-01</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30267</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30097</dc:identifier>
+               <dc:id>wwp_30097</dc:id>
+               <dc:title>Woodrow Wilson to Clyde Shropshire, 11 Jan. 1922</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1922-01-11</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor>Clyde Shropshire</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30097</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30526</dc:identifier>
+               <dc:id>wwp_30526</dc:id>
+               <dc:title>Woodrow Wilson to Mrs. Victor Strasburger, 5 Apr. 1922</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1922-04-05</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mrs. Victor Strasburger</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30526</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30136</dc:identifier>
+               <dc:id>wwp_30136</dc:id>
+               <dc:title>Woodrow Wilson to A.M. Fraser, 24 Aug. 1922</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1922-08-24</dc:date>
+               <dc:subject/>
+               <dc:contributor>A.M. Fraser</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30136</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30275</dc:identifier>
+               <dc:id>wwp_30275</dc:id>
+               <dc:title>Woodrow Wilson to Eleanor Wilson McAdoo, 29 Jan. 1923</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1923-01-29</dc:date>
+               <dc:subject/>
+               <dc:contributor>
+            Eleanor Wilson
+               McAdoo
+         </dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30275</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30103</dc:identifier>
+               <dc:id>wwp_30103</dc:id>
+               <dc:title>Woodrow Wilson to Colonial Dames of America, 3 Feb. 1923</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1923-02-03</dc:date>
+               <dc:subject/>
+               <dc:contributor>Colonial Dames of America</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30103</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30105</dc:identifier>
+               <dc:id>wwp_30105</dc:id>
+               <dc:title>Woodrow Wilson to Virginia Delegates to the National Red Cross Convention, 29 Sept. 1923</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Woodrow Wilson Collection</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1923-09-29</dc:date>
+               <dc:subject/>
+               <dc:contributor>Virginia Delegates to National Red Cross Convention</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30105</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30525</dc:identifier>
+               <dc:id>wwp_30525</dc:id>
+               <dc:title>Edith Bolling Wilson to Mrs. Warren, 2 Feb. 1931</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Edith Bolling Wilson Papers/Woodrow Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Edith Bolling Wilson</dc:creator>
+               <dc:date>1931-02-02</dc:date>
+               <dc:subject/>
+               <dc:contributor>Mrs. Warren</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30525</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30393</dc:identifier>
+               <dc:id>wwp_30393</dc:id>
+               <dc:title>Edith Bolling Wilson to Darryl F. Zanuck, 17 July 1944</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Woodrow Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Edith Bolling Wilson</dc:creator>
+               <dc:date>1944-07-17</dc:date>
+               <dc:subject>movie</dc:subject>
+               <dc:contributor>Darryl F. Zanuck</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30393</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+   </ListRecords>
+</Repository>

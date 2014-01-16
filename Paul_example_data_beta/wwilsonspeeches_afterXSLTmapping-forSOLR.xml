@@ -1,0 +1,3423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+   <Identify>
+      <oai:repositoryName/>
+      <oai:baseURL/>
+      <oai:protocolVersion>2.0</oai:protocolVersion>
+      <oai:adminEmail/>
+      <oai:earliestDatestamp/>
+      <oai:deletedRecord>no</oai:deletedRecord>
+      <oai:granularity>YYYY-MM-DD</oai:granularity>
+   </Identify>
+   <ListMetadataFormats>
+      <oai:metadataFormat>
+         <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+         <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+         <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+      </oai:metadataFormat>
+   </ListMetadataFormats>
+   <ListRecords metadataPrefix="oai_dc">
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_29353</dc:identifier>
+               <dc:id>wwp_29353</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Association of Colleges and Preparatory Schools of the Middle States and Maryland, 29 Nov. 1907</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>William D. Hoyt, Jr. Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1907-11-29</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=29353</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32927</dc:identifier>
+               <dc:id>wwp_32927</dc:id>
+               <dc:title>Woodrow Wilson: Address to the American Bankers' Association, 30 Sept. 1908</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1908-09-30</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32927</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30360</dc:identifier>
+               <dc:id>wwp_30360</dc:id>
+               <dc:title>Woodrow Wilson: Address on the Translation of the Bible Into English, 7 May 1911</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1911-05-07</dc:date>
+               <dc:subject>religion</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30360</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32926</dc:identifier>
+               <dc:id>wwp_32926</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Kentucky Bar Association, 12 July 1911</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1911-07-12</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32926</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32925</dc:identifier>
+               <dc:id>wwp_32925</dc:id>
+               <dc:title>Woodrow Wilson: Address at Carnegie Hall on Russia's Treatment of Jews, 6 Dec. 1911</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1911-12-06</dc:date>
+               <dc:subject>anti-semitism</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32925</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_29363</dc:identifier>
+               <dc:id>wwp_29363</dc:id>
+               <dc:title>Woodrow Wilson: Address on the Tariff, 3 Jan. 1912</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>William D. Hoyt, Jr. Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1912-01-03</dc:date>
+               <dc:subject>Taxation</dc:subject>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=29363</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32924</dc:identifier>
+               <dc:id>wwp_32924</dc:id>
+               <dc:title>Woodrow Wilson: Address to Real-Estate Men of Boston, 27 Jan. 1912</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1912-01-27</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32924</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32923</dc:identifier>
+               <dc:id>wwp_32923</dc:id>
+               <dc:title>Woodrow Wilson: Address to the American Medical Association, 4 June 1912</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1912-06-04</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32923</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30358</dc:identifier>
+               <dc:id>wwp_30358</dc:id>
+               <dc:title>Woodrow Wilson: Importance of Bible Study, [c. 30 Dec. 1912?]</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1912-12-30</dc:date>
+               <dc:subject>religion</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30358</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30361</dc:identifier>
+               <dc:id>wwp_30361</dc:id>
+               <dc:title>Woodrow Wilson: First Inaugural Address, 4 Mar. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-03-04</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30361</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30362</dc:identifier>
+               <dc:id>wwp_30362</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress On Tariff Reform, 8 Apr. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-04-08</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30362</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30363</dc:identifier>
+               <dc:id>wwp_30363</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress on Banking and Currency Reform, 23 June 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-06-23</dc:date>
+               <dc:subject>Federal Reserve</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30363</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30378</dc:identifier>
+               <dc:id>wwp_30378</dc:id>
+               <dc:title>Woodrow Wilson: Address at Gettysburg, 4 July 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-07-04</dc:date>
+               <dc:subject>Civil War</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30378</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30380</dc:identifier>
+               <dc:id>wwp_30380</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress On Mexican Affairs, 27 Aug. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-08-27</dc:date>
+               <dc:subject>Mexico</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30380</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_34463</dc:identifier>
+               <dc:id>wwp_34463</dc:id>
+               <dc:title>Woodrow Wilson: Remarks Upon Signing the Tariff Bill, 3 Oct. 1913</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights/>
+               <dcterms:isPartOf>Library of Congress Wilson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1913-10-03</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=34463</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30381</dc:identifier>
+               <dc:id>wwp_30381</dc:id>
+               <dc:title>Woodrow Wilson: Address At the Rededication of Congress Hall, 25 Oct. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-10-25</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30381</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30382</dc:identifier>
+               <dc:id>wwp_30382</dc:id>
+               <dc:title>Woodrow Wilson: Address At Swarthmore College, 25 Oct. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-10-25</dc:date>
+               <dc:subject>education</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30382</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30394</dc:identifier>
+               <dc:id>wwp_30394</dc:id>
+               <dc:title>Woodrow Wilson: Address to Southern Commercial Congress, 27 Oct. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-10-27</dc:date>
+               <dc:subject>trade</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30394</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30395</dc:identifier>
+               <dc:id>wwp_30395</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 2 Dec. 1913</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1913-12-02</dc:date>
+               <dc:subject>Federal Reserve</dc:subject>
+               <dc:subject>Foreign Affairs</dc:subject>
+               <dc:subject>Mexico</dc:subject>
+               <dc:subject>poitics</dc:subject>
+               <dc:subject>Farm Credit</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30395</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_34624</dc:identifier>
+               <dc:id>wwp_34624</dc:id>
+               <dc:title>Woodrow Wilson: An Annual Message to Congress, [2 Dec. 1913]</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2009 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Library of Congress Wilson Papers</dcterms:isPartOf>
+               <dc:description>Woodrow Wilson addresses Congress on a variety of topics including Mexico, the currency bill, and </dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1913-12-02</dc:date>
+               <dc:subject>currency reform</dc:subject>
+               <dc:subject>banking</dc:subject>
+               <dc:subject>Mexico</dc:subject>
+               <dc:subject>foreign relations</dc:subject>
+               <dc:subject>government</dc:subject>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=34624</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_34917</dc:identifier>
+               <dc:id>wwp_34917</dc:id>
+               <dc:title>Woodrow Wilson: Address, [2 Dec. 1913]</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2010 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Library of Congress Wilson Papers</dcterms:isPartOf>
+               <dc:description>Woodrow Wilson addresses Congress on a variety of topics including Mexico, the currency bill, and various other topics.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1913-12-02</dc:date>
+               <dc:subject>currency reform</dc:subject>
+               <dc:subject>banking</dc:subject>
+               <dc:subject>Mexico</dc:subject>
+               <dc:subject>foreign relations</dc:subject>
+               <dc:subject>government</dc:subject>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=34917</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30396</dc:identifier>
+               <dc:id>wwp_30396</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress on Anti-Trust Legislation, 20 Jan. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-01-20</dc:date>
+               <dc:subject>anti-trust</dc:subject>
+               <dc:subject>interstate commerce commission</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30396</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30399</dc:identifier>
+               <dc:id>wwp_30399</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress on Panama Canal, 5 Mar. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-03-05</dc:date>
+               <dc:subject>Panama Canal</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30399</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30400</dc:identifier>
+               <dc:id>wwp_30400</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress on Tampico Incident, 20 Apr. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-04-20</dc:date>
+               <dc:subject>Mexico</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30400</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30404</dc:identifier>
+               <dc:id>wwp_30404</dc:id>
+               <dc:title>Woodrow Wilson: Address In Memory of Soldiers Lost at Vera Cruz, 11 May 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-05-11</dc:date>
+               <dc:subject>Mexico</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30404</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30407</dc:identifier>
+               <dc:id>wwp_30407</dc:id>
+               <dc:title>Woodrow Wilson: Address at Unveiling of Commodore Barry Statue, 16 May 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-05-16</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30407</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30411</dc:identifier>
+               <dc:id>wwp_30411</dc:id>
+               <dc:title>Woodrow Wilson: Address at Arlington National Cemetery, 30 May 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-05-30</dc:date>
+               <dc:subject>Civil War</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30411</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30412</dc:identifier>
+               <dc:id>wwp_30412</dc:id>
+               <dc:title>Woodrow Wilson: Address at Dedication of Monument to Confederate Dead, 4 June 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-06-04</dc:date>
+               <dc:subject>Civil War</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30412</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30414</dc:identifier>
+               <dc:id>wwp_30414</dc:id>
+               <dc:title>Woodrow Wilson: Address to Naval Academy Graduates, 5 June 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-06-05</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30414</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30415</dc:identifier>
+               <dc:id>wwp_30415</dc:id>
+               <dc:title>Woodrow Wilson: Address At Independence Hall, 4 July 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-07-04</dc:date>
+               <dc:subject>Mexico</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30415</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30699</dc:identifier>
+               <dc:id>wwp_30699</dc:id>
+               <dc:title>Woodrow Wilson: An Appeal for Neutrality, 19 Aug. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1914-08-19</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>neutrality</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30699</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30417</dc:identifier>
+               <dc:id>wwp_30417</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress on Taxation, 4 Sept. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-09-04</dc:date>
+               <dc:subject>taxation</dc:subject>
+               <dc:subject>revenue</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30417</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30418</dc:identifier>
+               <dc:id>wwp_30418</dc:id>
+               <dc:title>Woodrow Wilson: Address to American Bar Association, 20 Oct. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-10-20</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30418</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30420</dc:identifier>
+               <dc:id>wwp_30420</dc:id>
+               <dc:title>Woodrow Wilson: Address at Y.M.C.A. Celebration, 24 Oct. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-10-24</dc:date>
+               <dc:subject>religion</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30420</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30422</dc:identifier>
+               <dc:id>wwp_30422</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 8 Dec. 1914</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1914-12-08</dc:date>
+               <dc:subject>preparedness</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30422</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30425</dc:identifier>
+               <dc:id>wwp_30425</dc:id>
+               <dc:title>Woodrow Wilson: Jackson Day Address, 8 Jan. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-01-08</dc:date>
+               <dc:subject>tariff</dc:subject>
+               <dc:subject>politics</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30425</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30426</dc:identifier>
+               <dc:id>wwp_30426</dc:id>
+               <dc:title>Woodrow Wilson: Veto of Immigration Restriction Bill, 28 Jan. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-01-28</dc:date>
+               <dc:subject>immigration</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30426</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30427</dc:identifier>
+               <dc:id>wwp_30427</dc:id>
+               <dc:title>Woodrow Wilson: Address to Electric Railway Association, 29 Jan. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-01-29</dc:date>
+               <dc:subject>business</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30427</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30433</dc:identifier>
+               <dc:id>wwp_30433</dc:id>
+               <dc:title>Woodrow Wilson: Address Before U.S. Chamber of Commerce, 3 Feb. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-02-03</dc:date>
+               <dc:subject>business</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30433</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30437</dc:identifier>
+               <dc:id>wwp_30437</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Associated Press, 20 Apr. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-04-20</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30437</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30438</dc:identifier>
+               <dc:id>wwp_30438</dc:id>
+               <dc:title>Woodrow Wilson: Address At Naturalization Ceremony, 10 May 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-05-10</dc:date>
+               <dc:subject>immigration</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30438</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30439</dc:identifier>
+               <dc:id>wwp_30439</dc:id>
+               <dc:title>Woodrow Wilson: Address On the Navy, 17 May 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-05-17</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30439</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30440</dc:identifier>
+               <dc:id>wwp_30440</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Pan American Financial Conference, 24 May 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-05-24</dc:date>
+               <dc:subject>South America</dc:subject>
+               <dc:subject>Central America</dc:subject>
+               <dc:subject>Latin America</dc:subject>
+               <dc:subject>trade</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30440</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30442</dc:identifier>
+               <dc:id>wwp_30442</dc:id>
+               <dc:title>Woodrow Wilson: Memorial Day Address at Arlington Cemetery, 31 May 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-05-31</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30442</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30443</dc:identifier>
+               <dc:id>wwp_30443</dc:id>
+               <dc:title>Woodrow Wilson: Flag Day Address, 14 June 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-06-14</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30443</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30444</dc:identifier>
+               <dc:id>wwp_30444</dc:id>
+               <dc:title>Woodrow Wilson: Address at G.A.R. Celebration, 28 Sept. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-09-28</dc:date>
+               <dc:subject>Civil War</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30444</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30503</dc:identifier>
+               <dc:id>wwp_30503</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Daughters of the American Revolution, 11 Oct. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-10-11</dc:date>
+               <dc:subject>American Revolution</dc:subject>
+               <dc:subject>neutrality</dc:subject>
+               <dc:subject>immigration</dc:subject>
+               <dc:subject>citizenship</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30503</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30445</dc:identifier>
+               <dc:id>wwp_30445</dc:id>
+               <dc:title>Woodrow Wilson: Address On Military Preparedness, 4 Nov. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-11-04</dc:date>
+               <dc:subject>military</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30445</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30447</dc:identifier>
+               <dc:id>wwp_30447</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 7 Dec. 1915</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1915-12-07</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30447</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30448</dc:identifier>
+               <dc:id>wwp_30448</dc:id>
+               <dc:title>Woodrow Wilson: Address to Motion Picture Board of Trade, 27 Jan. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-01-27</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30448</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30460</dc:identifier>
+               <dc:id>wwp_30460</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Gridiron Dinner, 26 Feb. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-02-26</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30460</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30461</dc:identifier>
+               <dc:id>wwp_30461</dc:id>
+               <dc:title>Woodrow Wilson: Address on Unrestricted Submarine Warfare, 19 Apr. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-04-19</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30461</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30472</dc:identifier>
+               <dc:id>wwp_30472</dc:id>
+               <dc:title>Woodrow Wilson: Address at National Press Club. 15 May 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-05-15</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30472</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30470</dc:identifier>
+               <dc:id>wwp_30470</dc:id>
+               <dc:title>Woodrow Wilson: Address to the League to Enforce Peace. 27 May 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-05-27</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30470</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30471</dc:identifier>
+               <dc:id>wwp_30471</dc:id>
+               <dc:title>Woodrow Wilson: Flag Day Address, 14 June 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-06-14</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30471</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30473</dc:identifier>
+               <dc:id>wwp_30473</dc:id>
+               <dc:title>Woodrow Wilson: Address to Associated Advertising Clubs. 29 June 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-06-29</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30473</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30489</dc:identifier>
+               <dc:id>wwp_30489</dc:id>
+               <dc:title>Woodrow Wilson: Address to New York Press Club. 30 June 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-06-30</dc:date>
+               <dc:subject>press</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30489</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30491</dc:identifier>
+               <dc:id>wwp_30491</dc:id>
+               <dc:title>Woodrow Wilson: Address to Salesmanship Congress, 10 July 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+            Woodrow
+            Wilson
+         </dc:creator>
+               <dc:date>1916-07-10</dc:date>
+               <dc:subject>business</dc:subject>
+               <dc:subject>preparedness</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30491</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30653</dc:identifier>
+               <dc:id>wwp_30653</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Citizenship Convention, 13 July 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1916-07-13</dc:date>
+               <dc:subject>immigration</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30653</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30655</dc:identifier>
+               <dc:id>wwp_30655</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress Regarding Railroad Strike, 29 Aug. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1916-08-29</dc:date>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>labor unions</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30655</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30657</dc:identifier>
+               <dc:id>wwp_30657</dc:id>
+               <dc:title>Woodrow Wilson: Accepting Democratic Nomination for President, 2 Sept. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1916-09-02</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:subject>finance</dc:subject>
+               <dc:subject>Federal Reserve</dc:subject>
+               <dc:subject>Progressive reform</dc:subject>
+               <dc:subject>foreign policy</dc:subject>
+               <dc:subject>Mexico</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30657</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30660</dc:identifier>
+               <dc:id>wwp_30660</dc:id>
+               <dc:title>Woodrow Wilson: Address at Suffrage Convention, 8 Sept. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1916-09-08</dc:date>
+               <dc:subject>suffrage</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30660</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30685</dc:identifier>
+               <dc:id>wwp_30685</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Grain Dealers' Association, 25 Sept. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1916-09-25</dc:date>
+               <dc:subject>politics</dc:subject>
+               <dc:subject>business</dc:subject>
+               <dc:subject>banking</dc:subject>
+               <dc:subject>Federal Reserve</dc:subject>
+               <dc:subject>Federal Trade Commission</dc:subject>
+               <dc:subject>tariff</dc:subject>
+               <dc:subject>Anti-trust laws</dc:subject>
+               <dc:subject>trade</dc:subject>
+               <dc:subject>Panama Canal</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30685</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30686</dc:identifier>
+               <dc:id>wwp_30686</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 5 Dec. 1916</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1916-12-05</dc:date>
+               <dc:subject>Interstate Commerce Commission</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>trade</dc:subject>
+               <dc:subject>campaign finance reform</dc:subject>
+               <dc:subject>Puerto Rico</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30686</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30688</dc:identifier>
+               <dc:id>wwp_30688</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Senate on Peace Without Victory, 22 Jan. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-01-22</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>neutrality</dc:subject>
+               <dc:subject>peace without victory</dc:subject>
+               <dc:subject>Monroe Doctrine</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30688</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30690</dc:identifier>
+               <dc:id>wwp_30690</dc:id>
+               <dc:title>Woodrow Wilson: Veto of Immigration Bill, 30 Jan. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-01-30</dc:date>
+               <dc:subject>immigration</dc:subject>
+               <dc:subject>religion</dc:subject>
+               <dc:subject>literacy</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30690</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30691</dc:identifier>
+               <dc:id>wwp_30691</dc:id>
+               <dc:title>Woodrow Wilson: Address Severing Diplomatic Relations with Germany, 3 Feb. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-02-03</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>submarine warfare</dc:subject>
+               <dc:subject>Germany</dc:subject>
+               <dc:subject>diplomacy</dc:subject>
+               <dc:subject>foreign relations</dc:subject>
+               <dc:subject>neutrality</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30691</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30693</dc:identifier>
+               <dc:id>wwp_30693</dc:id>
+               <dc:title>Woodrow Wilson: Address to Congress on Armed Neutrality, 26 Feb. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-02-26</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Germany</dc:subject>
+               <dc:subject>submarine warfare</dc:subject>
+               <dc:subject>neutrality</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30693</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30694</dc:identifier>
+               <dc:id>wwp_30694</dc:id>
+               <dc:title>Woodrow Wilson: Second Inaugural Address, 5 Mar. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-03-05</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>neutrality</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30694</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_29623</dc:identifier>
+               <dc:id>wwp_29623</dc:id>
+               <dc:title>Woodrow Wilson: Request for Declaration of War, 2 Apr. 1917</dc:title>
+               <dc:type>Pamphlet</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>
+                Woodrow Wilson
+            </dc:creator>
+               <dc:date>1917-04-02</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=29623</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30695</dc:identifier>
+               <dc:id>wwp_30695</dc:id>
+               <dc:title>Woodrow Wilson: Address on War Preparations, 16 Apr. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-04-16</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30695</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30696</dc:identifier>
+               <dc:id>wwp_30696</dc:id>
+               <dc:title>Woodrow Wilson: Flag Day Address, 14 June 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-06-14</dc:date>
+               <dc:subject>patriotism</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30696</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30698</dc:identifier>
+               <dc:id>wwp_30698</dc:id>
+               <dc:title>Woodrow Wilson: Address to Officers of the Atlantic Fleet, 11 Aug. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-08-11</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30698</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32922</dc:identifier>
+               <dc:id>wwp_32922</dc:id>
+               <dc:title>Robert Lansing for Woodrow Wilson: Reply of the United States to Pope Benedict XV Regarding Belligerents, 27 Aug. 1917</dc:title>
+               <dc:type>Letter</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Robert Lansing Woodrow Wilson</dc:creator>
+               <dc:date>1917-08-27</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor>Pope Benedict XV</dc:contributor>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32922</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30713</dc:identifier>
+               <dc:id>wwp_30713</dc:id>
+               <dc:title>Woodrow Wilson: Address to the American Federation of Labor, 12 Nov. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-11-12</dc:date>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30713</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30714</dc:identifier>
+               <dc:id>wwp_30714</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 4 Dec. 1917</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1917-12-04</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30714</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30715</dc:identifier>
+               <dc:id>wwp_30715</dc:id>
+               <dc:title>Woodrow Wilson: Address on Government Assumption of Railroads, 4 Jan. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-01-04</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>railroads</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30715</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30716</dc:identifier>
+               <dc:id>wwp_30716</dc:id>
+               <dc:title>Woodrow Wilson: Address on the Fourteen Points for Peace, 8 Jan. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-01-08</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Fourteen Points</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30716</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30717</dc:identifier>
+               <dc:id>wwp_30717</dc:id>
+               <dc:title>Woodrow Wilson: Message to Farmers' Conference, 31 Jan. 1918</dc:title>
+               <dc:type>Pamphlet</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-01-31</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Federal Reserve system</dc:subject>
+               <dc:subject>Farm Credit</dc:subject>
+               <dc:subject>Farm Loan Banking system</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>farming</dc:subject>
+               <dc:subject>Department of Agriculture</dc:subject>
+               <dc:subject>conscription</dc:subject>
+               <dc:subject>draft</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30717</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30724</dc:identifier>
+               <dc:id>wwp_30724</dc:id>
+               <dc:title>Woodrow Wilson: Address on War Aims, 11 Feb. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-02-11</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30724</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30726</dc:identifier>
+               <dc:id>wwp_30726</dc:id>
+               <dc:title>Woodrow Wilson: Address in Support of the War, 6 Apr. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-04-06</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Liberty Loan</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30726</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30735</dc:identifier>
+               <dc:id>wwp_30735</dc:id>
+               <dc:title>Woodrow Wilson: Address Opening Red Cross Campaign, 18 May 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-05-18</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>American Red Cross</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30735</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30738</dc:identifier>
+               <dc:id>wwp_30738</dc:id>
+               <dc:title>Woodrow Wilson: Address on War Financing, 27 May 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-05-27</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>finance</dc:subject>
+               <dc:subject>taxes</dc:subject>
+               <dc:subject>taxation</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30738</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30739</dc:identifier>
+               <dc:id>wwp_30739</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Diplomatic Corps, 4 July 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-07-04</dc:date>
+               <dc:subject>Fourth of July</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30739</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_32183</dc:identifier>
+               <dc:id>wwp_32183</dc:id>
+               <dc:title>Woodrow Wilson: Address on Fourth Liberty Loan Campaign, 27 Sept. 1918</dc:title>
+               <dc:type>Pamphlet</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2008 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>WWPL Manuscript Collection</dcterms:isPartOf>
+               <dc:description>President Woodrow Wilson outlines his vision for peace during the opening campaign for the Fourth Liberty Loan drive to finance World War I.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1918-09-27</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>finance</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=32183</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30740</dc:identifier>
+               <dc:id>wwp_30740</dc:id>
+               <dc:title>Woodrow Wilson: Address Supporting Women's Suffrage Amendment, 30 Sept. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator/>
+               <dc:date>1918-09-30</dc:date>
+               <dc:subject>suffrage</dc:subject>
+               <dc:subject>women</dc:subject>
+               <dc:subject>women’s suffrage</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>vote</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30740</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30742</dc:identifier>
+               <dc:id>wwp_30742</dc:id>
+               <dc:title>Woodrow Wilson: Address on Armistice Terms, 11 Nov. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-11-11</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30742</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30751</dc:identifier>
+               <dc:id>wwp_30751</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 2 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1918-12-02</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>military</dc:subject>
+               <dc:subject>soldiers</dc:subject>
+               <dc:subject>public works</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>employment</dc:subject>
+               <dc:subject>industry</dc:subject>
+               <dc:subject>women’s suffrage</dc:subject>
+               <dc:subject>reconstruction</dc:subject>
+               <dc:subject>foreign aid</dc:subject>
+               <dc:subject>taxation</dc:subject>
+               <dc:subject>railroads</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30751</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31190</dc:identifier>
+               <dc:id>wwp_31190</dc:id>
+               <dc:title>[Woodrow Wilson?]: Speech in France [c. 15 Dec. 1918]</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description>President Woodrow Wilson describes the historic relationship between France and the United States.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1918-12-15</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>Revolutionary War</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31190</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27883</dc:identifier>
+               <dc:id>wwp_27883</dc:id>
+               <dc:title>Woodrow Wilson: Address at the University of Paris, France, 21 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-21</dc:date>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27883</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27884</dc:identifier>
+               <dc:id>wwp_27884</dc:id>
+               <dc:title>Woodrow Wilson: Address to United States Soldiers at Humes, France, 25 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-25</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27884</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27886</dc:identifier>
+               <dc:id>wwp_27886</dc:id>
+               <dc:title>Woodrow Wilson: Address at Hotel de Ville, Chaumont, France, 25 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-25</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27886</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27887</dc:identifier>
+               <dc:id>wwp_27887</dc:id>
+               <dc:title>Woodrow Wilson: Address at Dover, England, 26 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-26</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27887</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27888</dc:identifier>
+               <dc:id>wwp_27888</dc:id>
+               <dc:title>Woodrow Wilson: Address at Buckingham Palace, London, England, 27 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-27</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27888</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27889</dc:identifier>
+               <dc:id>wwp_27889</dc:id>
+               <dc:title>Woodrow Wilson: Address to Evangelical Free Churches, London, 28 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-28</dc:date>
+               <dc:subject>Religion</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27889</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31192</dc:identifier>
+               <dc:id>wwp_31192</dc:id>
+               <dc:title>Woodrow Wilson: Speech at David Lloyd George's Stag Dinner, 28 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description>President Woodrow Wilson speaks about the close friendship between England and America while fighting World War I as allies and into the future.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1918-12-28</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>Great Britain</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31192</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27891</dc:identifier>
+               <dc:id>wwp_27891</dc:id>
+               <dc:title>Woodrow Wilson: Address at Guild Hall, London, 28 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-28</dc:date>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27891</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27892</dc:identifier>
+               <dc:id>wwp_27892</dc:id>
+               <dc:title>Woodrow Wilson: Address at Mansion House, London, 28 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-28</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27892</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27890</dc:identifier>
+               <dc:id>wwp_27890</dc:id>
+               <dc:title>Woodrow Wilson: Address to League of Nations Union, American Embassy, London, 28 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-28</dc:date>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27890</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27775</dc:identifier>
+               <dc:id>wwp_27775</dc:id>
+               <dc:title>Woodrow Wilson: Address at Carlisle, England, 29 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-29</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27775</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27777</dc:identifier>
+               <dc:id>wwp_27777</dc:id>
+               <dc:title>Woodrow Wilson: Address at Free Trade Hall, Manchester, England, 30 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-30</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27777</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27893</dc:identifier>
+               <dc:id>wwp_27893</dc:id>
+               <dc:title>Woodrow Wilson: Address at Midland Hotel, Manchester, England, 30 Dec. 1918</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1918-12-30</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27893</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27894</dc:identifier>
+               <dc:id>wwp_27894</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Quirinal, Rome, Italy, 3 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-03</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Ethnicity</dc:subject>
+               <dc:subject>Immigration</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27894</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27895</dc:identifier>
+               <dc:id>wwp_27895</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Capitol, Rome, Italy, 3 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-03</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27895</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27896</dc:identifier>
+               <dc:id>wwp_27896</dc:id>
+               <dc:title>Woodrow Wilson: Address to Italian Parliament, Rome, Italy, 3 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-03</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27896</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27897</dc:identifier>
+               <dc:id>wwp_27897</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Academy of the Lencei, Rome, Italy, 4 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-04</dc:date>
+               <dc:subject>science</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27897</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27898</dc:identifier>
+               <dc:id>wwp_27898</dc:id>
+               <dc:title>Woodrow Wilson: Address to the Press Representatives at Rome, Italy, 4 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-04</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>Immigration</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27898</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27899</dc:identifier>
+               <dc:id>wwp_27899</dc:id>
+               <dc:title>Woodrow Wilson: Addresses at Genoa, Italy, 5 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-05</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27899</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27900</dc:identifier>
+               <dc:id>wwp_27900</dc:id>
+               <dc:title>Woodrow Wilson: Addresses at Milan, Italy, 5 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-05</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27900</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27901</dc:identifier>
+               <dc:id>wwp_27901</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Municipalite, Milan, Italy, 5 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-05</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27901</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27902</dc:identifier>
+               <dc:id>wwp_27902</dc:id>
+               <dc:title>Woodrow Wilson: Address at the La Scala, Milan, Italy, 5 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-05</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27902</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27904</dc:identifier>
+               <dc:id>wwp_27904</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Philharmonic Club, Turin, Italy, 6 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-06</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>Immigration</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27904</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27903</dc:identifier>
+               <dc:id>wwp_27903</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Municipalite, Turin, Italy, 6 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-06</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27903</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27905</dc:identifier>
+               <dc:id>wwp_27905</dc:id>
+               <dc:title>Woodrow Wilson: Address at the University, Turin, Italy, 6 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-06</dc:date>
+               <dc:subject>education</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27905</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27907</dc:identifier>
+               <dc:id>wwp_27907</dc:id>
+               <dc:title>Woodrow Wilson: Opening of the Peace Conference, Paris, France, 18 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-18</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27907</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27908</dc:identifier>
+               <dc:id>wwp_27908</dc:id>
+               <dc:title>Woodrow Wilson: Address to the French Senate, Paris, France, 20 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-20</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27908</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27909</dc:identifier>
+               <dc:id>wwp_27909</dc:id>
+               <dc:title>Woodrow Wilson: Address at the Peace Conference, Paris, France, 25 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-25</dc:date>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27909</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27914</dc:identifier>
+               <dc:id>wwp_27914</dc:id>
+               <dc:title>Woodrow Wilson: Address to Working Women of France, Paris, France, 25 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-25</dc:date>
+               <dc:subject>women’s suffrage</dc:subject>
+               <dc:subject>work</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27914</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27915</dc:identifier>
+               <dc:id>wwp_27915</dc:id>
+               <dc:title>Woodrow Wilson: Address to the League for the Rights of Man, Paris, France, 28 Jan. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-01-28</dc:date>
+               <dc:subject/>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27915</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27916</dc:identifier>
+               <dc:id>wwp_27916</dc:id>
+               <dc:title>Woodrow Wilson: Address to French Society of Nations, Paris, France, 12 Feb. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-02-12</dc:date>
+               <dc:subject>peace</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27916</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27917</dc:identifier>
+               <dc:id>wwp_27917</dc:id>
+               <dc:title>Woodrow Wilson: Report at Third Plenary Session of Peace Conference, 14 Feb. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-02-14</dc:date>
+               <dc:subject>Fourteen Points</dc:subject>
+               <dc:subject>14 Points</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>arms control</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>mandates</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27917</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31194</dc:identifier>
+               <dc:id>wwp_31194</dc:id>
+               <dc:title>Woodrow Wilson: Statement on Leaving France, 15 Feb. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description>President Woodrow Wilson thanks the French people and their government for their friendship and hospitality.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1919-02-15</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31194</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27918</dc:identifier>
+               <dc:id>wwp_27918</dc:id>
+               <dc:title>Woodrow Wilson: Address at Boston, M.A., 24 Feb. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-02-24</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27918</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30755</dc:identifier>
+               <dc:id>wwp_30755</dc:id>
+               <dc:title>Woodrow Wilson: Address on the League of Nations, 28 Feb. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1919-02-28</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>politics</dc:subject>
+               <dc:subject>diplomacy</dc:subject>
+               <dc:subject>Progressive reform</dc:subject>
+               <dc:subject>public policy</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30755</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_27919</dc:identifier>
+               <dc:id>wwp_27919</dc:id>
+               <dc:title>Woodrow Wilson: Address at New York, NY, 4 Mar. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers, Woodrow Wilson Presidential Library</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator> Woodrow Wilson </dc:creator>
+               <dc:date>1919-03-04</dc:date>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=27919</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_31196</dc:identifier>
+               <dc:id>wwp_31196</dc:id>
+               <dc:title>Woodrow Wilson: Remarks on League of Nations Covenant, [c. March 1919?]</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description>President Woodrow Wilson addresses problems associated with peace negotiations in Paris following World War I.</dc:description>
+               <dc:creator>Woodrow Wilson</dc:creator>
+               <dc:date>1919-03-01</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>Socialism</dc:subject>
+               <dc:subject>Bolshevism</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=31196</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30762</dc:identifier>
+               <dc:id>wwp_30762</dc:id>
+               <dc:title>Woodrow Wilson: Message for the Opening of the 66th Congress, 20 May 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1919-05-20</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>women’s suffrage</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:subject>Progressive reform</dc:subject>
+               <dc:subject>Prohibition</dc:subject>
+               <dc:subject>industry</dc:subject>
+               <dc:subject>taxation</dc:subject>
+               <dc:subject>tariff</dc:subject>
+               <dc:subject>utilities</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30762</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30820</dc:identifier>
+               <dc:id>wwp_30820</dc:id>
+               <dc:title>Woodrow Wilson: Address at French President Poincare's House, 26 June 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1919-06-26</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30820</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30758</dc:identifier>
+               <dc:id>wwp_30758</dc:id>
+               <dc:title>Woodrow Wilson: Address on the Treaty of Versailles, 10 July 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1919-07-10</dc:date>
+               <dc:subject>Paris Peace Conference</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Treaty of Versailles</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30758</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30760</dc:identifier>
+               <dc:id>wwp_30760</dc:id>
+               <dc:title>Woodrow Wilson: Address on the Cost of Living, 8 Aug. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1919-08-08</dc:date>
+               <dc:subject>cost of living</dc:subject>
+               <dc:subject>prices</dc:subject>
+               <dc:subject>wages</dc:subject>
+               <dc:subject>World War I</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30760</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30775</dc:identifier>
+               <dc:id>wwp_30775</dc:id>
+               <dc:title>Conference Report: Woodrow Wilson and Senate Committee on Foreign Relations on Treaty with Germany, 19 Aug. 1919</dc:title>
+               <dc:type>Report</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Henry Cabot Lodge</dc:creator>
+               <dc:date>1919-08-19</dc:date>
+               <dc:subject>World War I</dc:subject>
+               <dc:subject>Treaty of Versailles</dc:subject>
+               <dc:subject>League of Nations</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30775</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30819</dc:identifier>
+               <dc:id>wwp_30819</dc:id>
+               <dc:title>Woodrow Wilson: Message to Congress, 2 Dec. 1919</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2006 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1919-12-02</dc:date>
+               <dc:subject>taxation</dc:subject>
+               <dc:subject>budget</dc:subject>
+               <dc:subject>finance</dc:subject>
+               <dc:subject>free trade</dc:subject>
+               <dc:subject>labor</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30819</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:identifier>wwp_30821</dc:identifier>
+               <dc:id>wwp_30821</dc:id>
+               <dc:title>Woodrow Wilson: State of the Union Address, 7 Dec. 1920</dc:title>
+               <dc:type>Speech</dc:type>
+               <dc:publisher>Woodrow Wilson Presidential Library and Museum</dc:publisher>
+               <dc:rights>Copyright 2007 by the Woodrow Wilson Presidential Library</dc:rights>
+               <dcterms:isPartOf>Cary T. Grayson Papers</dcterms:isPartOf>
+               <dc:description/>
+               <dc:creator>Woodrow
+            Wilson</dc:creator>
+               <dc:date>1920-12-07</dc:date>
+               <dc:subject>taxation</dc:subject>
+               <dc:subject>finance</dc:subject>
+               <dc:subject>military veterans</dc:subject>
+               <dc:contributor/>
+               <dc:source>http://wwl2.dataformat.com/Document.aspx?doc=30821</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+   </ListRecords>
+</Repository>

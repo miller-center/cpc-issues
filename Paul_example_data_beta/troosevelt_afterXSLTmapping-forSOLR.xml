@@ -1,0 +1,603 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+            xmlns:orig="http://www.dataformat.com/darma"
+            xmlns:xhtml="http://www.w3.org/1999/xhtml"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+   <Identify>
+      <oai:repositoryName/>
+      <oai:baseURL/>
+      <oai:protocolVersion>2.0</oai:protocolVersion>
+      <oai:adminEmail/>
+      <oai:earliestDatestamp/>
+      <oai:deletedRecord>no</oai:deletedRecord>
+      <oai:granularity>YYYY-MM-DD</oai:granularity>
+   </Identify>
+   <ListMetadataFormats>
+      <oai:metadataFormat>
+         <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+         <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+         <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+      </oai:metadataFormat>
+   </ListMetadataFormats>
+   <ListRecords metadataPrefix="oai_dc">
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o25534</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o25534</dc:identifier>
+               <dc:description>
+        9-year-old Lily Crimmins writes to her father - "I read in the Times that gentlemen ought to vote for Roosevelt and save the City from the robbers."
+        </dc:description>
+               <dc:creator>Crimmins, Lily Irene, 1877-1895</dc:creator>
+               <dc:date>1886-10-31</dc:date>
+               <dc:title>Letter from Lily Irene Crimmins to John D. Crimmins</dc:title>
+               <dc:contributor>Crimmins, John D. (John Daniel), 1844-1917 </dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Mayors--Election</dc:subject>
+               <dc:subject>Elections</dc:subject>
+               <dc:subject>Americans--Politics and government</dc:subject>
+               <dc:subject>New York Times Company</dc:subject>
+               <dc:subject>Roosevelt, Theodore, 1858-1919</dc:subject>
+               <dc:subject>New York (State)--New York</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o25534</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/001/0200/0263.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36243</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36243</dc:identifier>
+               <dc:description>Civil and military governors have been asked for lists of towns in each province. The replies have been partially tabulated and appear largely untrustworthy.</dc:description>
+               <dc:creator>Atkinson, Fred W. (Fred Washington), 1865-1941</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Note from Fred W. Atkinson</dc:title>
+               <dc:contributor/>
+               <dc:type>Note</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Cities and towns--Statistics</dc:subject>
+               <dc:subject>Municipal government</dc:subject>
+               <dc:subject>Military government</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36243</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0006.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36244</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36244</dc:identifier>
+               <dc:description>Winthrop Chanler suggests that President Roosevelt "direct" Andrew Carnegie to purchase a building for donation to the
+        Smithsonian or the Boone and Crockett Club.  He mentions having seen
+        William Sturgis Bigelow and Dan Wister.</dc:description>
+               <dc:creator>Chanler, Winthrop, 1863-1926</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Winthrop Chanler to Theodore Roosevelt</dc:title>
+               <dc:contributor>Roosevelt, Theodore, 1858-1919</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Carnegie, Andrew, 1835-1919</dc:subject>
+               <dc:subject>Bigelow, William Sturgis, 1850-1926</dc:subject>
+               <dc:subject>Wister, Owen, 1860-1938</dc:subject>
+               <dc:subject>Smithsonian Institution</dc:subject>
+               <dc:subject>Boone and Crockett Club</dc:subject>
+               <dc:subject>Books and reading</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36244</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0010b.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0011a.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0011b.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0010a.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36245</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36245</dc:identifier>
+               <dc:description>[Insert Title Here]The appointment of Wilder Stevens Metcalf as pension agent shows that Senator Burton's influence and Senatorial privilege will be respected by President Roosevelt. With this issue decided, Kansas Republicans should ignore factionalism and unite as "good Republicans."</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901-12</dc:date>
+               <dc:title>The Metcalf Appointment And The Future</dc:title>
+               <dc:contributor/>
+               <dc:type>Newspaper article</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Republican Party (U.S. : 1854- )</dc:subject>
+               <dc:subject>Kansas</dc:subject>
+               <dc:subject>Party discipline</dc:subject>
+               <dc:subject>Roosevelt, Theodore, 1858-1919</dc:subject>
+               <dc:subject>McKinley, William, 1843-1901</dc:subject>
+               <dc:subject>Metcalf, Wilder Stevens, 1855-1935</dc:subject>
+               <dc:subject>Burton, Joseph Ralph, 1852-1923</dc:subject>
+               <dc:subject>Leland, Cyrus, 1841-1917</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36245</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0261.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36246</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36246</dc:identifier>
+               <dc:description>Summary of reports from Lieutenant Sims regarding the defects of the U.S.S. Kentucky when compared to the designs and target practice results of Royal Navy vessels.</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Brief Summary of Lieut. Sims' Criticisms Contained in his Reports from the Asiatic Station</dc:title>
+               <dc:contributor/>
+               <dc:type>Report</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Kentucky (Ship)</dc:subject>
+               <dc:subject>United States. Navy</dc:subject>
+               <dc:subject>Great Britain. Royal Navy</dc:subject>
+               <dc:subject>Naval gunnery--Study and teaching</dc:subject>
+               <dc:subject>Target practice</dc:subject>
+               <dc:subject>Warships--Design and construction</dc:subject>
+               <dc:subject>Cowles, Wm. S. (William Sheffield), 1846-1923</dc:subject>
+               <dc:subject>Sims, William Sowden, 1858-1936</dc:subject>
+               <dc:subject>Scott, Percy, Sir, Bart., 1853-1924</dc:subject>
+               <dc:subject>Niblack, Albert P. (Albert Parker), 1859-1929</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36246</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0014.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0015.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0016.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0017.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0018.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0019.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0020.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0021.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36247</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36247</dc:identifier>
+               <dc:description>[Insert Title Here]Article argues that Edgar Stanton Maclay was unfairly discharged from his government position for a section of his book disparaging Admiral Schley.</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901-12-27</dc:date>
+               <dc:title>Maclay's Case</dc:title>
+               <dc:contributor/>
+               <dc:type>Newspaper article</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Roosevelt, Theodore, 1858-1919</dc:subject>
+               <dc:subject>Schley, Winfield Scott, 1839-1911</dc:subject>
+               <dc:subject>Miles, Nelson Appleton, 1839-1925</dc:subject>
+               <dc:subject>Maclay, Edgar Stanton, 1863-1919</dc:subject>
+               <dc:subject>Employees--Dismissal of</dc:subject>
+               <dc:subject>Books and reading</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36247</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0300/0319.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36248</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36248</dc:identifier>
+               <dc:description>Brooks Adams accepts an invitation to the White House.</dc:description>
+               <dc:creator>Adams, Brooks, 1848-1927 </dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Brooks Adams to George B. Cortelyou</dc:title>
+               <dc:contributor>Cortelyou, George B. (George Bruce), 1862-1940</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Entertaining</dc:subject>
+               <dc:subject>White House (Washington, D.C.)</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36248</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0001b.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36249</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36249</dc:identifier>
+               <dc:description>[Insert Title Here]Review of the political wrangling and infighting over the appointment of Pension Agent at Topeka, Kansas.</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901-12-24</dc:date>
+               <dc:title>The Kansas Pension Agency</dc:title>
+               <dc:contributor/>
+               <dc:type>Newspaper article</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Kansas--Topeka</dc:subject>
+               <dc:subject>Administrative agencies--Officials and employees--Selection and appointment</dc:subject>
+               <dc:subject>McKinley, William, 1843-1901</dc:subject>
+               <dc:subject>Roosevelt, Theodore, 1858-1919</dc:subject>
+               <dc:subject>Metcalf, Wilder Stevens, 1855-1935</dc:subject>
+               <dc:subject>Burton, Joseph Ralph, 1852-1923</dc:subject>
+               <dc:subject>Leland, Cyrus, 1841-1917</dc:subject>
+               <dc:subject>United States. Pension Bureau</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36249</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0259.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36251</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36251</dc:identifier>
+               <dc:description>John M. Carson encloses a clipping that he would like forwarded to Secretary Gage. In a handwritten note, Gage sends the letter and clipping to President Roosevelt.</dc:description>
+               <dc:creator>Carson, John Miller, 1837-1912</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from John M. Carson to Milton E. Ailes</dc:title>
+               <dc:contributor>Ailes, Milton E.</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Clippings (Books, newspapers, etc.)</dc:subject>
+               <dc:subject>Gage, Lyman J. (Lyman Judson), 1836-1927</dc:subject>
+               <dc:subject>Penrose, Boies, 1860-1921</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36251</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0026.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0027.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36252</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36252</dc:identifier>
+               <dc:description>W. S. Conlin returns the letter and memo from William Sowden Sims. Conlin thinks that Sims is an alarmist but also wants him to be encouraged to improve naval gunnery and target practice.</dc:description>
+               <dc:creator>Conlin, W. S.</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from W. S. Conlin to Theodore Roosevelt</dc:title>
+               <dc:contributor>Roosevelt, Theodore, 1858-1919</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>United States. Navy Dept. Bureau of Navigation</dc:subject>
+               <dc:subject>Naval gunnery--Study and teaching</dc:subject>
+               <dc:subject>Sims, William Sowden, 1858-1936</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36252</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0012b.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0012a.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0013a.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36253</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36253</dc:identifier>
+               <dc:description>[Insert Title Here]The "old soldiers" opposed the initial appointment of Cyrus Leland as pension agent and supported the recent appointment of Wilder Stevens Metcalf as Leland's replacement.</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901-12</dc:date>
+               <dc:title>The Old Soldiers Are All Right</dc:title>
+               <dc:contributor/>
+               <dc:type>Newspaper article</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Metcalf, Wilder Stevens, 1855-1935</dc:subject>
+               <dc:subject>Leland, Cyrus, 1841-1917</dc:subject>
+               <dc:subject>Kansas</dc:subject>
+               <dc:subject>United States. Pension Bureau</dc:subject>
+               <dc:subject>Administrative agencies--Officials and employees--Selection and appointment</dc:subject>
+               <dc:subject>Veterans--Political activity</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36253</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0263.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36254</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36254</dc:identifier>
+               <dc:description>
+        Charles S. Fairchild has copied the letter to Captain Campbell and the team. He had a pleasant evening at the club and accepts an invitation to have lunch at the White House.</dc:description>
+               <dc:creator>Fairchild, Charles S. (Charles Stebbins), 1842-1924</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Charles S. Fairchild to Theodore Roosevelt</dc:title>
+               <dc:contributor>Roosevelt, Theodore, 1858-1919</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Letters</dc:subject>
+               <dc:subject>Dinners and dining</dc:subject>
+               <dc:subject>Entertaining</dc:subject>
+               <dc:subject>Men--Societies and clubs</dc:subject>
+               <dc:subject>White House (Washington, D.C.)</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36254</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0022.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0023a.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0023b.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36255</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36255</dc:identifier>
+               <dc:description>Patrick Ford writes on behalf of his friend, Richard C. Kerens, who has been maligned in the press.</dc:description>
+               <dc:creator>Ford, Patrick, 1837-1913</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Patrick Ford to Theodore Roosevelt</dc:title>
+               <dc:contributor>Roosevelt, Theodore, 1858-1919</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Missouri</dc:subject>
+               <dc:subject>Press and politics</dc:subject>
+               <dc:subject>Kerens, Richard C., 1842-1916</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36255</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0024a.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0025a.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/Crop23-0000/0025b.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36256</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36256</dc:identifier>
+               <dc:description>President Hadley of Yale sends a reprint of John Carlyle's translation of Dante which they had discussed at Mr. Farnam's dinner.</dc:description>
+               <dc:creator>Hadley, Arthur Twining, 1856-1930</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Arthur Twining Hadley to Theodore Roosevelt</dc:title>
+               <dc:contributor>Roosevelt, Theodore, 1858-1919</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Books and reading</dc:subject>
+               <dc:subject>Dante Alighieri, 1265-1321</dc:subject>
+               <dc:subject>Carlyle, John Aitken, 1801-1879</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36256</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0028.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36257</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36257</dc:identifier>
+               <dc:description>[Insert Title Here]Cartoon depicts a bear named Platt chasing William Allen White, who has dropped his gun and is running the other direction.  The gun is titled McClure, the magazine in which White published a blistering critique of Thomas Platt.  Caption:  The King of Boyville, his Zulu rifle, and a very savage bear in the New York woods.</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901-12-19</dc:date>
+               <dc:title>Failed To Kill!</dc:title>
+               <dc:contributor/>
+               <dc:type>Cartoon</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Political cartoons</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36257</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0200/0265.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36258</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36258</dc:identifier>
+               <dc:description>Baron Herman, agricultural expert of the German embassy, has been transferred to Germany and would like to pay his respects to President and Mrs. Roosevelt before his departure.</dc:description>
+               <dc:creator>Holleben, Theodor von, 1838-1913</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Theodor von Holleben to John Hay</dc:title>
+               <dc:contributor>Hay, John, 1838-1905</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Germany</dc:subject>
+               <dc:subject>Diplomatic etiquette</dc:subject>
+               <dc:subject>Meetings</dc:subject>
+               <dc:subject>International relations</dc:subject>
+               <dc:subject>Roosevelt, Theodore, 1858-1919</dc:subject>
+               <dc:subject>Roosevelt, Edith Kermit Carow, 1861-1948</dc:subject>
+               <dc:subject>Herman, Beno von, baron</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36258</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0029.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36260</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36260</dc:identifier>
+               <dc:description>Seth Low, soon to be Mayor of New York City, requests President Roosevelt's opinion on several potential appointments.</dc:description>
+               <dc:creator>Low, Seth, 1850-1916</dc:creator>
+               <dc:date>1901-12-17</dc:date>
+               <dc:title>Letter from Seth Low to Theodore Roosevelt</dc:title>
+               <dc:contributor>Roosevelt, Theodore, 1858-1919</dc:contributor>
+               <dc:type>Letter</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Local officials and employees--Selection and appointment</dc:subject>
+               <dc:subject>New York (State)--New York</dc:subject>
+               <dc:subject>Sturgis, Thomas</dc:subject>
+               <dc:subject>Breen, Matthew P. (Matthew Patrick)</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36260</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0042.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0043.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0044.jpg http://trcimages.dataformat.com/images/LC/thumbnails/023/0000/0045.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>trc_o36261</dc:id>
+               <dc:publisher>Theodore Roosevelt Center</dc:publisher>
+               <dc:rights>These images are presented through a cooperative effort between the Library of Congress and Dickinson State University. See the Theodore Roosevelt Digital Library Terms of Use for further copyright information.
+</dc:rights>
+               <dcterms:isPartOf>Theodore Roosevelt Papers, Manuscripts division</dcterms:isPartOf>
+               <dcterms:isPartOf>The Library of Congress</dcterms:isPartOf>
+               <dc:identifier>trc_o36261</dc:identifier>
+               <dc:description>[Insert Title Here] "Amos Parker Wilder, Wisconsin."</dc:description>
+               <dc:creator>Unknown</dc:creator>
+               <dc:date>1901</dc:date>
+               <dc:title>Amos Parker Wilder note</dc:title>
+               <dc:contributor/>
+               <dc:type>Note</dc:type>
+               <dc:language>English</dc:language>
+               <dc:provenance/>
+               <dc:subject>Wilder, Amos Parker, 1862-1936</dc:subject>
+               <dc:source>http://theodorerooseveltcenter.com/Research/Digital-Library/Record.aspx?libID=o36261</dc:source>
+               <dcterms:hasPart>http://trcimages.dataformat.com/images/LC/thumbnails/023/0300/Crop23-0300/0317b.jpg</dcterms:hasPart>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+   </ListRecords>
+</Repository>

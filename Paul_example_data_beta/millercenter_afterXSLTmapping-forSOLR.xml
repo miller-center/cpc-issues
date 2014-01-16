@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+   <Identify>
+      <oai:repositoryName/>
+      <oai:baseURL/>
+      <oai:protocolVersion>2.0</oai:protocolVersion>
+      <oai:adminEmail/>
+      <oai:earliestDatestamp/>
+      <oai:deletedRecord>no</oai:deletedRecord>
+      <oai:granularity>YYYY-MM-DD</oai:granularity>
+   </Identify>
+   <ListMetadataFormats>
+      <oai:metadataFormat>
+         <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+         <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+         <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+      </oai:metadataFormat>
+   </ListMetadataFormats>
+   <ListRecords metadataPrefix="oai_dc">
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_200</dc:id>
+               <dc:identifier>poh_200</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Russell L. Riley; Brantly Womack</dc:contributor>
+               <dc:description>Secretary of Commerce Barbara Franklin analyzes the impact of the Cold War’s end on the world economy, the Bush Administration’s handling of the U.S. recession, and President Bush’s character and how it shaped his approach to politics, especially the 1992 campaign. She and Assistant Secretary of State Clark review trade policy with China and Russia.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Franklin.jpg</dcterms:hasPart>
+               <dc:date>April 17-18, 2001</dc:date>
+               <dc:title>Franklin, Barbara Hackman; Clark, William, Jr.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/barbara-hackman-franklin</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_198</dc:id>
+               <dc:identifier>poh_198</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley, chair; Barbara Perry</dc:contributor>
+               <dc:description>From his earliest days with Vice President Bush, to the White House, Timothy McBride provides observations on George H. W. Bush—the man and the statesman.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/mcbride.jpg</dcterms:hasPart>
+               <dc:date>November 5, 2010</dc:date>
+               <dc:title>McBride, Timothy J.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/timothy-mcbride</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_96</dc:id>
+               <dc:identifier>poh_96</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Philip Zelikow, Chair; Stephen Knott
+Johns Hopkins University: Don Oberdorfer</dc:contributor>
+               <dc:description>Frank Carlucci describes his role in the Reagan national security team, and his experiences as Deputy Secretary of Defense, National Security Advisor, and Secretary of Defense. The interview begins at the early stages of his 25-year career as a Foreign Service Officer, where he recounts his job at the U.S. Embassy in Congo. The discussion then jumps ahead to Carlucci's first stint in the Reagan White House as Deputy Secretary of Defense during the first two years of the administration, focusing largely on budget and procurement issues. The interview moves forward again to the final two years of the administration when Carlucci served as the National Security Advisor, then Secretary of Defense. Carlucci discusses Reagan's management and decision-making style, frequently emphasizing the residual effects the Iran-Contra affair had on the administration, particularly Reagan's inability to get past the event. He also examines key foreign policy events of the 1987-88 period; specifically, the Persian Gulf reflagging effort, Panama, covert operations, and, most importantly, superpower detente.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/carlucci.jpg</dcterms:hasPart>
+               <dc:date>August 28, 2001</dc:date>
+               <dc:title>Carlucci, Frank</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/frank-carlucci</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_95</dc:id>
+               <dc:identifier>poh_95</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen Knott; Russell L. Riley
+Virginia Tech University: Karen Hult</dc:contributor>
+               <dc:description>Otis Bowen describes his tenure at the head of the Department of Health and Human Services (HHS) and the key issues that arose in Reagan’s second term in office. The entry point of the interview is Bowen’s decision to join the Reagan administration in November 1985 and the policy agenda being constructed by HHS at that time. The interview is essentially a comprehensive overview of HHS policy during Reagan’s second term, with in-depth discussion on every major issue, including Medicare, Medicaid, Social Security, sex education, nicotine addiction, welfare, drug and alcohol abuse, and the catastrophic health insurance bill. Very little is said about President Reagan in the course of the interview, with the exception of his role in getting the catastrophic health insurance initiative passed.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/bowen.jpg</dcterms:hasPart>
+               <dc:date>November 8-9, 2001</dc:date>
+               <dc:title>Bowen, Otis</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/otis-bowen</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_121</dc:id>
+               <dc:identifier>poh_121</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Steve Knott, chair; Jeffrey Chidester</dc:contributor>
+               <dc:description>As Chief of Staff of the Office of Ronald Reagan from 1989 to 1995, Fred Ryan offers a unique perspective on the Reagan post-presidential years. The interview begins with a brief discussion of his seven-year tenure in the Reagan administration's scheduling office, and his interaction with both the White House staff and the First Lady. The bulk of the interview is dedicated to his service as Chief of Staff, covering the Reagans' transition to private life, his role in the post-presidential years, and his frequent interaction with President Reagan. The key events of this period are discussed in detail, including the fall of the Soviet Union, the 1992 presidential election, and Reagan's battle with Alzheimer's disease. As a friend of the family and one of the closest aides during the post-presidency, Ryan also includes a wealth of observations on Ronald Reagan's personality.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>May 25, 2004</dc:date>
+               <dc:title>Ryan, Frederick J., Jr.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/frederick-ryan</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_94</dc:id>
+               <dc:identifier>poh_94</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Russell Riley</dc:contributor>
+               <dc:description>Aram Bakshian gives his perspective on the Reagan administration's speechwriting office, and Reagan's deep involvement in the speechwriting process. Bakshian begins by discussing his entry into politics in 1966 as a speechwriter for Congressman Bill Brock, then traces his political career from writing for Bob Dole during his stint as Chairman of the Republican National Committee to serving in the speechwriting offices of the Nixon and Ford administrations. Most of the interview is devoted to Bakshian's three-year service in the Reagan White House, first in the Office of Public Liaison, then as Director of Speechwriting from 1981 to 1982. He details the process of managing the speechwriting effort and constructing presidential addresses, including lengthy accounts of major speeches such as "zero-option," "Evil Empire," and the June 1982 speech to the British Parliament. Bakshian also offers an intimate portrait of Reagan's role in crafting his own speeches, and credits Reagan with being the greatest public speaker he's ever encountered in politics.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>January 14, 2002</dc:date>
+               <dc:title>Bakshian, Aram, Jr.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/aram-bakshian</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_93</dc:id>
+               <dc:identifier>poh_93</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen F. Knott
+Stanford University: Allison Asher</dc:contributor>
+               <dc:description>Martin Anderson illustrates his service in the campaigns and administrations of Richard Nixon and Ronald Reagan. Anderson first talks about his work on Nixon's 1968 presidential campaign, the transition to power, and his appointment and three years of service in the first Nixon term. A major section of the interview is devoted to the 1976 and 1980 presidential elections, where Anderson served as a senior policy advisor to Reagan and helped shape the platforms of each campaign. Anderson then discusses the 1980 transition and his thirteen-month appointment as head of the Office of Policy Development. Anderson also comments on the organization of the White House staff, and evaluates the major policy issues of the first year, most notably the passage of the economic recovery program. As editor of two volumes of Reagan's writings and speeches, Anderson sheds a unique light on the mind of Ronald Reagan and his passion for engaging ideas.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>December 11-12, 2001</dc:date>
+               <dc:title>Anderson, Martin</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/martin-anderson</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_92</dc:id>
+               <dc:identifier>poh_92</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, Chair; Marc Selverstone; James Sterling Young</dc:contributor>
+               <dc:description>Annelise Anderson examines her role in four Republican presidential campaigns, and her service in the Reagan administration's Office of Management and Budget (OMB). She discusses how she came to join the campaigns of Barry Goldwater in 1964 and Richard Nixon in 1968, and her efforts in Ronald Reagan's 1976 and 1980 campaigns. She comments on her work in the 1980 transition and her decision to join the administration in 1981 as an Associate Director of the OMB. Anderson discusses her role in the OMB and the key issues of her tenure, including the balanced budget amendment proposal, negotiating budgets with agency heads, and her relationship with OMB Director David Stockman. Anderson also devotes a significant section of the interview to discussing Ronald Reagan the individual'is childhood, his early career, and his life in politics.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>December 17, 2002</dc:date>
+               <dc:title>Anderson, Annelise</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/annelise-anderson</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_79</dc:id>
+               <dc:identifier>poh_79</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, Chair; Jeff Chidester
+Washington and Lee University: Robert Strong
+Assisting: Kelly Erickson</dc:contributor>
+               <dc:description>As head of the Arms Control and Disarmament Agency (ACDA), Ken Adelman discusses the Reagan administration’s approach and efforts at arms negotiations with the Soviet Union during the 1980s. Adelman begins by touching briefly on his service in President Nixon’s Office of Economic Opportunity and President Ford’s Defense Department, and his nineteen-month tenure as Reagan’s Deputy Permanent Representative to the United Nations. Most of the interview is dedicated to Adelman’s time as ACDA Director, where he details the major events of his tenure, from his difficult confirmation hearings to the U.S-Soviet summit in Washington, D.C. Adelman gives detailed analysis of the zero-option proposal, the deployment of Pershing II missiles, the strategic defense initiative, the nuclear freeze movement, and compliance with the SALT II treaty, giving the opinions of himself, Reagan, and other administration officials on each issue. He also offers detailed portraits of the key members of the Reagan foreign policy team.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/adelman1.jpg</dcterms:hasPart>
+               <dc:date>September 30, 2003</dc:date>
+               <dc:title>Adelman, Kenneth</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/kenneth-adelman</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_86</dc:id>
+               <dc:identifier>poh_86</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott, chair; Jeffrey Chidester; Kurt Hohenstein</dc:contributor>
+               <dc:description>In this short interview, Senator Baker begins with a discussion about his appointment in February 1987 as White House Chief of Staff, succeeding the embattled Donald Regan in the wake of the Iran-Contra scandal. He describes his decision to abandon his 1988 bid for the presidency and join the administration at Reagan's request, and his eighteen-month tenure in the White House, specifically his efforts to defuse the scandal and forge a new legislative agenda for the final two years of the administration. During this section, Baker offers insights into the sense of humor, intelligence, style, and other personal qualities of Ronald Reagan. The interview also touches briefly on the controversy surrounding the nomination of Robert Bork and Douglas Ginsburg to the United States Supreme Court, and on U.S.-Soviet bilateral relations.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/baker_howard.jpg</dcterms:hasPart>
+               <dc:date>August 24, 2004</dc:date>
+               <dc:title>Baker, Howard H., Jr.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/howard-baker</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_89</dc:id>
+               <dc:identifier>poh_89</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, Chair; Russell L. Riley; James Sterling Young</dc:contributor>
+               <dc:description>Richard Allen discusses his experiences as a major figure in the Republican Party's foreign policy apparatus over the past forty years. The first third of the interview focuses solely on Allen's work on Richard Nixon's 1968 presidential campaign and his service in the National Security Council. He then describes his role in the 1976 presidential election, his decision to form the Committee on the Present Danger, and his service as Reagan's chief foreign policy advisor from 1977 through the 1980 election. Allen evaluates his tenure as Assistant to the President for National Security Affairs for the first year of the Reagan administration, and the major events occurring during this time, including the assassination attempt, the sale of the AWACs weapons system to Saudi Arabia, the decision to lift the grain embargo against the Soviet Union, and relations with the nation' European allies.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/allen.jpg</dcterms:hasPart>
+               <dc:date>May 28, 2002</dc:date>
+               <dc:title>Allen, Richard</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/richard-allen</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_97</dc:id>
+               <dc:identifier>poh_97</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Darby Morrisroe
+Virginia Polytechnic University: Karen M. Hult</dc:contributor>
+               <dc:description>A.B. Culvahouse examines his appointment as White House Counsel in the wake of the Iran-Contra scandal, and the major issues facing his office during the final 22 months of the Reagan administration. The interview begins with a discussion of Culvahouse's relationship with Senator Howard Baker, whom he served as Chief Legislative Assistant and Counsel from 1973 to 1976. In March 1987, Culvahouse follows Baker (appointed White House Chief of Staff a month earlier) into the Reagan administration to assist in the aftermath of the Iran-Contra scandal. Culvahouse details his role in assisting the independent counsel and congressional investigations into the affair, and his duties as the chief legal advisor to President Reagan during this time. Beyond the Iran-Contra discussion, Culvahouse offers his insights into the organization and operation of the Counsel's Office, including its role in presidential pardons, speechwriting supervision, the Independent Counsel law, and its relationship with other executive offices. He also focuses on his involvement in the major events of the final two years of the administration, with an emphasis on judicial appointments.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/culvahouse.jpg</dcterms:hasPart>
+               <dc:date>April 1, 2004</dc:date>
+               <dc:title>Culvahouse, A.B.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/ab-culvahouse</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_98</dc:id>
+               <dc:identifier>poh_98</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen Knott; Russell L. Riley
+University of Wisconsin-Madison: Charles O. Jones
+Vanderbilt University: Edwin Hargrove</dc:contributor>
+               <dc:description>Michael Deaver tells the story of his thirty-year professional relationship with Ronald Reagan, and his service as one of Reagan's closest advisors during his gubernatorial and presidential years. Deaver begins with his initial contact with Reagan as a member of the California Republican Party in the 1960s, and how he came to join the Governor's staff from 1967 to 1975. He delves into a detailed account of his role in the 1976 and 1980 presidential campaigns, where he served as a top advisor to Reagan. Deaver's tenure as Deputy White House Chief of Staff from 1981 to 1985 is closely examined, particularly his perspective on the White House staff and the so-called troika arrangement, and his famously close relationship with the First Lady. He also discusses many of the key events that occurred during his service, including the assassination attempt, the air-traffic controllers' strike, the war in Grenada, and the terrorist bombing of the Marine barracks in Beirut. As one of Reagan's closest advisors, Deaver offers a wealth of insights into the President's sense of humor, faith, intelligence, and several other facets of a personality that continues to fascinate historians.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/deaver.jpg</dcterms:hasPart>
+               <dc:date>September 12, 2002</dc:date>
+               <dc:title>Deaver, Michael</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/michael-deaver</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_99</dc:id>
+               <dc:identifier>poh_99</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>Stephen F. Knott</dc:contributor>
+               <dc:description>In this short discussion, Joanne Drake describes her selection as Chief of Staff in the Office of Ronald Reagan and her responsibilities in that post. Several topics, including the release of Edmund Morris’ "Dutch" and the image of Nancy Reagan, are touched on briefly. Drake, a key observer of the post-presidential years, also gives her assessment of Reagan’s personality.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/drake_joanne.jpg</dcterms:hasPart>
+               <dc:date>December 12, 2003</dc:date>
+               <dc:title>Drake, Joanne</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/joanne-drake</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_100</dc:id>
+               <dc:identifier>poh_100</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott, chair; Russell L. Riley</dc:contributor>
+               <dc:description>Max Friedersdorf examines his role as the chief congressional liaison during the critical first year of the Reagan presidency, and the other various posts he assumed during the remaining seven years of the administration. Friedersdorf begins by discussing his service both in the Office of Economic Opportunity and the congressional relations staff under President Nixon (and his observations of the Nixon resignation), his decision to remain in the Ford congressional affairs staff, and his position as Federal Election Commission Chairman under President Carter. He then discusses his year-long tenure as President Reagan's Assistant for Legislative Affairs in 1981, with analysis of the White House staff, Reagan's relations with Congress, and key legislative battles over personnel, Central America, and the sale of the AWACs weapon system to Saudi Arabia. Friedersdorf also covers his nine-month return to the White House in 1985 as a legislative strategist, as well as his ambassadorial posts in Bermuda and Switzerland.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/friedersdorf.jpg</dcterms:hasPart>
+               <dc:date>October 24-25, 2002</dc:date>
+               <dc:title>Friedersdorf, Max</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/max-friedersdorf</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_101</dc:id>
+               <dc:identifier>poh_101</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Russell L. Riley</dc:contributor>
+               <dc:description>Peter Hannaford describes his role at Ronald Reagan's side during the period from his eight years as Governor of California to his landslide victory over Jimmy Carter in the 1980 presidential election. The interview begins with an account of Reagan's tenure in Sacramento, with Hannaford discussing staff members, Reagan's friendship with President Nixon, and press relations, particularly Hannaford's one-year stint as Director of Public Affairs in 1974. The failed bid for the 1976 GOP presidential nomination is covered at great length, as is Reagan's work as an opposition leader and a member of the conservative Citizens for the Republic between 1976 and 1980. The highlights of 1980 campaign—Sears firing, Nashua debate, vice-presidential selection, national convention—are also discussed in detail. Little time is given to the Reagan presidency, with only minor mention of Hannaford's involvement in several task forces and periodic speechwriting efforts, and some general comments on the White House staff. Hannaford also offers insights on Reagan's personality and character.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/hannaford.jpg</dcterms:hasPart>
+               <dc:date>January 10, 2003</dc:date>
+               <dc:title>Hannaford, Peter</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/peter-hannaford</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_102</dc:id>
+               <dc:identifier>poh_102</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott, chair; James D. Savage; James Sterling Young</dc:contributor>
+               <dc:description>Edwin Harper discusses economic and domestic policymaking during the first two and a half years of the Reagan administration. Harper begins with his earliest political activities, then moves on to his tenure in the first Nixon term, where he met California Governor Ronald Reagan. He comments on his role in the 1980 presidential election and transition, and his appointment at Deputy OMB Director. In this section, Harper highlights the administration's economic program, his role in budget construction, and his relationship with OMB Director David Stockman. Harper then examines his 17-month tenure as head of the Office of Policy Development, touching on agriculture, deregulation, education, energy, Social Security, and welfare policy.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/harper.jpg</dcterms:hasPart>
+               <dc:date>August 13, 2002</dc:date>
+               <dc:title>Harper, Edwin</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/edwin-harper</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_103</dc:id>
+               <dc:identifier>poh_103</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Darby Morrisroe</dc:contributor>
+               <dc:description>James Kuhn discusses his unique experience as the personal assistant to Ronald Reagan for the last four years of his presidency. Kuhn began his tenure with Reagan as an advance person in the 1980 presidential campaign, and he examines his role in the campaign and as part of the White House Advance Office during the first term. Much of the interview is dedicated to Kuhn's observations as one of the closest, and least recognized, of the President's assistants. He recounts stories from his 91 weekends with the President to Camp David, and major trips taken during the second term to Geneva, Bitburg, Reykjavik, Moscow, and the Brandenburg Gate. He tells of Reagan's reactions to major events such as the Challenger disaster and the Iran-Contra affair, and Reagan's meetings with Margaret Thatcher, Pope John Paul II, Francois Mitterrand, and other major world figures. He also gives his observations of key members of the cabinet and White House staff, and the First Lady. Much like the interview with Kathleen Osborne, Kuhn's recollections contain a personal quality rarely approached in most other interviews.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/kuhn.jpg</dcterms:hasPart>
+               <dc:date>March 7, 2003</dc:date>
+               <dc:title>Kuhn, James</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/james-kuhn</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_105</dc:id>
+               <dc:identifier>poh_105</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen F. Knott
+Vanderbilt University: Erwin Hargrove</dc:contributor>
+               <dc:description>Long considered one of Reagan's closest political allies and personal friends, Paul Laxalt tells the story of his nearly 30-year relationship with Reagan, from his years as a fellow governor in neighboring Nevada to his service in the United States Senate during the first six years of the administration. Laxalt details Reagan's rise to the White House, and his work on all three presidential campaigns, including his 1976 challenge to incumbent Republican Gerald Ford, where Laxalt broke party ranks to support Reagan. Most of the interview is devoted to a discussion of Reagan's Washington years, spanning such issues as the White House staff, the influence of the First Lady, and the major events of his first six years. As Reagan's strongest ally in the Senate, Laxalt also addressed the debate over key legislative issues during the administration—tax cuts, defense spending, Supreme Court nominations, Contra aid—from a congressional perspective.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/laxalt.jpg</dcterms:hasPart>
+               <dc:date>October 9, 2001</dc:date>
+               <dc:title>Laxalt, Paul</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/paul-laxalt</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_106</dc:id>
+               <dc:identifier>poh_106</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen Knott; Russell Riley
+Virginia Tech University: Gary Wamsley</dc:contributor>
+               <dc:description>James Miller highlights his four years as Chairman of the Federal Trade Commission during the first Reagan term, and his three years as Director of the Office of Management and Budget in the second term. Miller begins with a retrospective look at the legacy of the Reagan administration, crediting the President with unprecedented economic expansion, winning the Cold War, and restoring the confidence of the American people. He also gives an intimate perspective on Reagan as a man of humor and kindness, with great focus and optimism, and a remarkable ability to communicate with the public. The interview focuses largely on Miller's three year period as OMB Director, covering a range of topics, including the budget process, press relations, congressional relations, defense spending, and the legacy of Miller's predecessor, David Stockman. Miller also discusses his position in the National Security Council, his interaction with other economic advisors, and the general environment of the White House during the second term.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/miller__james_mcpaphoto.jpg</dcterms:hasPart>
+               <dc:date>November 4, 2001</dc:date>
+               <dc:title>Miller, James</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/james-miller</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_107</dc:id>
+               <dc:identifier>poh_107</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Russell Riley</dc:contributor>
+               <dc:description>Lyn Nofziger gives a comprehensive look into Reagan's political career, dating back to his entrance in politics in the mid-1960s. Nofziger begins by discussing his role in Reagan's 1966 campaign for the California governorship, and his subsequent role as Press Secretary in the Sacramento. He touches briefly on Reagan's aborted 1968 presidential run against Richard Nixon before delving into the 1976 campaign and his challenge to incumbent President Gerald Ford. As a top aide, Nofziger describes the key events of the campaign from his own perspective, particularly the early pressures for Reagan to drop out of the race, the selection of Richard Schweiker as the vice-presidential nominee, and the 1976 Republican National Convention. The 1980 campaign is discussed in similar detail, as Nofziger provides an overview of the race from the decision to run all the way to the victory and the transition into the White House. In the final part of the interview, Nofziger examines his one-year tenure as Assistant to the President for Political Affairs, his brief return to the White House in August 1982 to organize support for the Tax Equity and Fiscal Responsibility Act, and his role in the 1984 reelection campaign.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/nofziger.jpg</dcterms:hasPart>
+               <dc:date>March 6, 2003</dc:date>
+               <dc:title>Nofziger, Lyn</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/lyn-nofziger</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_108</dc:id>
+               <dc:identifier>poh_108</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; James Sterling Young</dc:contributor>
+               <dc:description>Kathleen Osborne looks back on her years as the personal assistant of Ronald Reagan during his gubernatorial years and his eight years as President. Osborne played no policy or advisory role to Reagan, so the interview takes a more conversational tone as she recounts her memories of Reagan. She begins with the California years, discussing the key events of his governorship, major policy issues, staff, and Reagan’s relationship with the California legislature. During her White House years, she came into frequent contact with top members of the administration, including James Baker, George Bush, Michael Deaver, and with the First Lady. She also discusses some of the trips she traveled with the President on (China, Moscow), and her observations on the major events of the presidency (Grenada, Lebanon, Challenger disaster, Iran-Contra). Osborne reveals a personal side of Reagan experienced by few others, and the image presented is one of a friendly and compassionate man with an infectious sense of humor and an undying love of country.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>April 26, 2003</dc:date>
+               <dc:title>Osborne, Kathleen</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/kathleen-osborne</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_109</dc:id>
+               <dc:identifier>poh_109</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Paul B. Freedman; Stephen F. Knott; Russell L. Riley</dc:contributor>
+               <dc:description>Stuart Spencer examines his career as a campaign strategist for over four decades, and covers his work on Reagan's 1966 and 1970 gubernatorial campaigns and his 1980 and 1984 presidential campaigns. Spencer begins with the creation of his political consulting firm, Spencer-Roberts, in 1960, and his company's work on the 1960 and 1964 presidential elections. His role in Reagan's 1966 California gubernatorial bid and his 1970 reelection campaign are discussed in detail. Spencer also recounts his involvement in Reagan's three presidential campaigns; as a member of the Ford campaign in Reagan's failed 1976 bid for the GOP nominations, and as a top strategist in the 1980 and 1984 campaigns. Although he played a minor role in the administration, Spencer gives his observations on a range of issues, including the White House staff, the First Lady, and the Iran-Contra affair, which he was brought to the White House for as a special political aide. Spencer also briefly mentions his work on the Bush-Quayle campaigns in 1988 and 1992.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>November 15-16, 2001</dc:date>
+               <dc:title>Spencer, Stuart</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/stuart-spencer</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_110</dc:id>
+               <dc:identifier>poh_110</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair</dc:contributor>
+               <dc:description>Robert Tuttle gives his unique perspective on the rise of Ronald Reagan as a seminal figure in American politics, and on his four years of service as White House Personnel Director during the second Reagan term. As the son of Holmes Tuttle, a key member of the Reagan "kitchen cabinet," Tuttle examines Reagan's entry into the political arena in the 1950s and 1960s and his rise from Governor of California to presidential contender. He recounts his service as Co-Chairman of the Reagan-Bush campaign in California in 1980, touching on several key issues of the campaign, including the involvement of the kitchen cabinet and the debate over the selection of former President Gerald Ford as Reagan's running mate. Tuttle and assistant Maureen Malloy discuss their four years in the White House Personnel Office, with a detailed analysis of the White House staff, the appointments process, congressional relations, and the Iran-Contra affair. Tuttle and Malloy also offer a wealth of personal stories which speak to Reagan's sense of humor, shyness, and affability.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/tuttle.jpg</dcterms:hasPart>
+               <dc:date>December 12, 2003</dc:date>
+               <dc:title>Tuttle, Robert; Molloy, Maureen</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/robert-tuttle</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_111</dc:id>
+               <dc:identifier>poh_111</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Jeff Chidester; Darby Morrisroe
+College of William and Mary: Christine Nemacheck</dc:contributor>
+               <dc:description>Peter Wallison gives a comprehensive look at the role and organization of the White House Counsel's Office during the Reagan years, and the central role it played in personnel selection, judicial appointments, and, most importantly, the Iran-Contra affair. Wallison begins with his entry into political life and his rise from a page in the House of Representatives to his service as a special assistant, and later counsel, to Nelson Rockefeller. He discusses his accomplishments as General Counsel of the Treasury Department for the first Reagan term, and his work with Secretary Donald Regan, whom Wallison describes as a nice man with an undeservedly negative reputation. Wallison examines his appointment as White House Counsel in March 1986 and the structure and responsibilities of that office during the Reagan administration. A large portion of the interview is devoted to the Iran-Contra affair, which Wallison recollects in remarkable detail, covering the evolution of the misguided operation, its effect on the White House and President Reagan, the congressional and independent counsel investigations, and his departure from the White House in March 1987.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/wallison.jpg</dcterms:hasPart>
+               <dc:date>October 28-29, 2003</dc:date>
+               <dc:title>Wallison, Peter</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/peter-wallison</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_112</dc:id>
+               <dc:identifier>poh_112</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott, chair; Marc Selverstone</dc:contributor>
+               <dc:description>William Webster details his fourteen years of work atop both the Federal Bureau of Investigation and the Central Intelligence Agency under Presidents Carter, Reagan and Bush. Webster gives a general survey of the intelligence community and covert operations during the Reagan years, and his relationship with William Casey, the Director of Central Intelligence for the first six years of the Reagan administration. He discusses the role of the intelligence services in counterterrorism efforts and in places such as Afghanistan, Libya, and Panama. He then talks about the Bush administration's decision to retain him as DCI and the major events that occurred during these three years. He examines intelligence policy during the crackdown in China's Tiananmen Square, the collapse of the Eastern bloc and the Soviet Union, and the 1991 Gulf War. Finally, Webster gives a broad comparison of the Reagan and Bush years – the issues facing each administration, the differing organizational structures, and the contrasting personality and style of the two leaders.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/webster.jpg</dcterms:hasPart>
+               <dc:date>August 21, 2002</dc:date>
+               <dc:title>Webster, William H.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/william-webster</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_113</dc:id>
+               <dc:identifier>poh_113</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott, chair; Russell L. Riley</dc:contributor>
+               <dc:description>Caspar Weinberger discusses the history of his relationship with Ronald Reagan and his service under Reagan in both Sacramento and Washington, D.C. He begins with some brief comments about his service as Director of Finance for Governor Reagan in California, and his role in the 1980 presidential campaign. The bulk of the interview is composed of a comprehensive overview of the major foreign policy issues of the Reagan years, and how Weinberger, Reagan, and the rest of the foreign policy team deliberated on and confronted these events. Issues such as the Falklands War, Central American policy, America's role in Afghanistan, the sale of AWACs to Saudi Arabia, the peacekeeping effort in Lebanon, the Iran-Contra affair, and U.S.-Soviet bilateral relations are each treated with great detail. Weinberger also steps back from his position in the Pentagon and evaluates Reagan' standing in history.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/weinberger.jpg</dcterms:hasPart>
+               <dc:date>November 19, 2002</dc:date>
+               <dc:title>Weinberger, Caspar</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/caspar-weinberger</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_114</dc:id>
+               <dc:identifier>poh_114</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, Chair; Stephen F. Knott</dc:contributor>
+               <dc:description>Charles Wick recounts his eight-year tenure as Director of the United States Information Agency and discusses his nearly fifty-yearlong friendship with the Reagans. Wick begins with a lengthy biographical introduction which covers his earliest days as a musician to his entrance into the entertainment business. He discusses the origins of his relationship with Ronald Reagan in the late-1950s, the close friendship he and his wife Mary Jane established with the Reagan, and his role in Reagan's gubernatorial and presidential campaigns. Wick offers an intimate look at Reagan's personality, and presents an in-depth look at the United States Information Agency and his service as the agency's director for eight years. Of specific interest are the USIA's policies regarding Cuba, the Soviet Union, and Poland' Solidarity movement.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>April 24-25, 2003</dc:date>
+               <dc:title>Wick, Charles Z.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/charles-wick</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_122</dc:id>
+               <dc:identifier>poh_122</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair
+Virginia Polytechnic Institute and State University: Karen M. Hult; Charles E. Walcott</dc:contributor>
+               <dc:description>Pendleton James discusses staffing the executive branch in the period between the election in November 1980 and the early months of the Reagan administration. Serving as the transition's Director of Personnel Management, James illustrates his role in the process, and the way in which Reagan's closest advisors went about selecting key members of the cabinet and the White House staff. He also highlights the many issues involved in staffing a new administration, including vetting possible high-level nominees, following the Ethics in Government Act of 1978, and handling pressures from various factions within the Republican Party.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/james.jpg</dcterms:hasPart>
+               <dc:date>November 3, 2003</dc:date>
+               <dc:title>James, Pendleton</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/pendleton-james</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_123</dc:id>
+               <dc:identifier>poh_123</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen Knott; Marc Selverstone</dc:contributor>
+               <dc:description>George Shultz evaluates the history of his relationship with Ronald Reagan, dating back to his experiences with Governor Reagan in the late-1960s to his six and a half years as Secretary of State in the Reagan administration. Shultz discusses the war in Lebanon, administration policy in Central America, and other major foreign policy topics, but the overarching theme of the interview is U.S.-Soviet relations and the administration's impact on the Cold War. He comments on the deployment of Pershing II missiles, the Reagan Doctrine, opposition to the Siberian pipeline, arms control summits, and other relevant issues, and how these policies, taken together, affected the Soviet government. Shultz also describes Reagan as foreign policy leader, illustrating how he learns and disseminates information, his negotiating skills, and his general opinions on world affairs.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/shultz.jpg</dcterms:hasPart>
+               <dc:date>December 18, 2002</dc:date>
+               <dc:title>Shultz, George</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/george-shultz</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_124</dc:id>
+               <dc:identifier>poh_124</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott, chair; Jeff Chidester; Darby Morrisroe; Russell Riley</dc:contributor>
+               <dc:description>Abraham Sofaer discusses his role in the Reagan presidency as a legal advisor to the State Department. He also talks about Iran-Contra and its effects on the presidency.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>February 27, 2007</dc:date>
+               <dc:title>Sofaer, Abraham D.</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/abraham-sofaer</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_125</dc:id>
+               <dc:identifier>poh_125</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen Knott</dc:contributor>
+               <dc:description/>
+               <dcterms:hasPart/>
+               <dc:date>May 17, 2006</dc:date>
+               <dc:title>Rowny, Edward</dc:title>
+               <dc:source>http://millercenter.org/president/reagan/oralhistory/edward-rowny</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_179</dc:id>
+               <dc:identifier>poh_179</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair
+Texas A&amp;M University: George C. Edwards III</dc:contributor>
+               <dc:description>David Bates discusses becoming friends with the Bush family as a child, campaigning with George H. W. Bush in the late 1970s and for the 1980 presidential nomination, Bush’s selection as vice president, serving as an assistant to Vice President Bush’s chief of staff, and, ultimately, President Bush’s secretary of the Cabinet.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/bates.jpg</dcterms:hasPart>
+               <dc:date>September 21–22, 2000</dc:date>
+               <dc:title>Bates, David Q.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/david-bates</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_142</dc:id>
+               <dc:identifier>poh_142</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; James W. Ceaser; Martha Derthick; Daniel Meador; William Lee Miller; Russell Riley; Paul Stephen; Kenneth W. Thompson</dc:contributor>
+               <dc:description>Griffin Bell talks about his longstanding relationship with Jimmy Carter and his tenure as Attorney General. The interview begins with Bell's interactions with Carter prior to the 1976 presidential race. He discusses some general topics on the administration, such as the Cabinet and staff selection process, and Carter's problems with the Democratic Party and the Washington establishment. Bell then describes his responsibilities as Attorney General and some issue areas he was most closely involved in, such as foreign intelligence and testifying to Congress. He also comments briefly on a series of topics relating to his tenure as Attorney General, including staffing decisions, judicial selection boards, Carter's approach to the Justice Department, and an historical critique of the Attorney General's office since World War II. Finally, Bell evaluates the performance of the Carter White House Staff, where he is critical of its disorganization and internal conflict, and suggests transferring power from the White House back to the Cabinet departments.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/bell.jpg</dcterms:hasPart>
+               <dc:date>March 23, 1988</dc:date>
+               <dc:title>Bell, Griffin</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/griffin-bell</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_143</dc:id>
+               <dc:identifier>poh_143</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>James Sterling Young, chair; Inis Claude; Nick Cullather; Martha Derthick; Michael Ross Fowler; Charles O. Jones; Clifton McCleskey; George Palmer; Russell L. Riley; Kenneth W. Thompson</dc:contributor>
+               <dc:description>Robert Bergland evaluates the record of the Carter administration and his four years as Secretary of Agriculture. The interview begins with an informal conversation between Bergland and the interview team on agriculture policy. Next, Bergland engages in a substantive discussion on the policies, processes, and key members of the Carter administration. He gives his perspective on a range of issues, including the White House Staff, cabinet relations, and congressional affairs. Bergland describes Carter’s management and decision-making style, what role his faith and his reputation as a Washington outsider played in this style, and Carter’s involvement in the formulation of agriculture policy. A number of specific policy areas and Bergland’s role in the formulation of these policies are examined, including deregulation, price supports, energy, conservation, and the food stamp program. Finally, Bergland offers a retrospective look at the Carter years and its accomplishments, and his assessment of President Reagan and the policy record of his administration’s first six years in office.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/bergland.jpg</dcterms:hasPart>
+               <dc:date>November 21, 1986</dc:date>
+               <dc:title>Bergland, Robert</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/robert-bergland</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_144</dc:id>
+               <dc:identifier>poh_144</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Inis Claude; Charles O. Jones; Robert Strong; Kenneth W. Thompson
+Vanderbilt University: Erwin C. Hargrove
+Kenyon College: Richard Melanson
+American Enterprise Institute: Robert Pranger
+Mt. Holyoke College: David B. Truman, President Emeritus</dc:contributor>
+               <dc:description>Zbigniew Brzezinski joins three of his top aides – legislative liaison Madeleine Albright, special assistant Les Denend, and military assistant Bill Odom – in a discussion on the National Security Council and the foreign policy apparatus of the Carter administration. The interview begins with only the three aides present, each of whom talks about how they joined the Carter administration and their primary roles and responsibilities in their respective positions. They describe the structure of the Carter NSC, the President’s role in NSC policymaking, and the relationship between the NSC and Congress, the Cabinet, and other White House offices. They also spend time evaluating Brzezinski – his management and decision-making style, and his relationship with President Carter. Several foreign policy issues, such as the Panama Canal Treaty, the SALT agreement, East-West trade, and the Presidential Review Memorandum, are also examined. Toward the end of the session, Brzezinski joins the panel and leads the remainder of the discussion, with periodic contributions from his aides. He highlights how he met Carter during his work in the Trilateral Commission, and his role as foreign policy advisor of the 1976 presidential campaign. His discussion of the Carter presidency focuses largely on his role in the foreign policy structure, crafting the agenda, staffing the NSC, and his interactions with other administration officials, such as Mondale, Vance, and Powell. He also evaluates Carter’s knowledge of and participation in foreign affairs, and offers a retrospective look at the successes and failures of Carter and his presidency.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/brzezinski.jpg</dcterms:hasPart>
+               <dc:date>February 18, 1982</dc:date>
+               <dc:title>Brzezinski, Zbigniew; Albright, Madeleine; Denend, Les; Odom, Bill</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/zbigniew-brzezinski</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_145</dc:id>
+               <dc:identifier>poh_145</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; David Clinton; Joseph Devaney; Charles O. Jones; Donald Kettl; Clifton McCleskey; Robert Strong; Kenneth Thompson</dc:contributor>
+               <dc:description>Bert Carp and David Rubenstein trace their work on the Domestic Policy Staff and examine the policymaking process of the Carter White House. The session begins with Carp and Rubenstein each recalling how they came to join the White House staff and their broad roles and responsibilities in the Office of Domestic Policy. They discuss the first year policy agenda and the problems the administration faced in gaining congressional support of these policies. They then describe broadly how policy was formulated in the Carter White House, how options were presented to Carter, and how proposals were sold to Congress. Carp and Rubenstein detail their relations with other White House offices, Cabinet secretaries, members of Congress, and interest groups. They also outline the organization of the White House staff, specifically the Domestic Policy Office and the debate over the Chief of Staff position. Carter himself is examined in detail – his personality, operating style, relations with Congress and the White House staff. The interview concludes with a discussion of the 1980 presidential campaign, and their thoughts on the successes and failures of the Carter presidency.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/carp.jpg</dcterms:hasPart>
+               <dc:date>March 6, 1982</dc:date>
+               <dc:title>Carp, Bertram; Rubenstein, David M.; Rogoff, Alice</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/bertram-carp</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_146</dc:id>
+               <dc:identifier>poh_146</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles 0. Jones; H. Clifton McCleskey; Kenneth W. Thompson
+Harvard University: Richard E. Neustadt
+Mt. Holyoke College: David B. Truman, President Emeritus
+University of Rochester: Richard F. Fenno, Jr.
+Vanderbilt University: Erwin C. Hargrove</dc:contributor>
+               <dc:description>Jimmy Carter gives a comprehensive look at his entry into national politics and his four years as President of the United States. Carter begins by discussing his decision to pursue the presidency shortly after the 1972 Democratic National Convention and his reflections from the 1976 presidential campaign. Considerable time is given to the transition and early months of the administration, as Carter attempted to adjust to Washington politics, formulate his policy agenda, and organize the White House Staff, particularly in the wake of the Bert Lance resignation. Carter then examines his place within the administration – his involvement in policy construction, relations with Congress and the Cabinet, and his perspective of personnel issues (particularly the Brzezinski-Vance relationship). Carter also discusses the interaction between his administration and outside groups such as the Democratic Party, interest groups, and the media. The interview includes a substantive discussion of the major foreign policy issues of the term, including the Camp David accords, the SALT agreement, the Panama Canal treaty, and the Iran hostage crisis. Although not specifically addressed, Carter’s responses offer a penetrating insight into his personal worldview, his governing philosophy, and his management and decision-making style. Carter concludes with thoughts on how the presidency affected him personally and how he would have approached a second term in office.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/carter.jpg</dcterms:hasPart>
+               <dc:date>November 29, 1982</dc:date>
+               <dc:title>Carter, Jimmy</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/jimmy-carter</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_147</dc:id>
+               <dc:identifier>poh_147</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Charles O. Jones; Clifton H. McCleskey; Kenneth W. Thompson
+Vanderbilt University: Erwin C. Hargrove</dc:contributor>
+               <dc:description>Lloyd Cutler discusses his work as a legal advisor to the Carter administration and his tenure as White House Counsel. Cutler begins with the origins of his relationship with Carter while both served on the Trilateral Commission, then describes his service as special counsel for the maritime boundary dispute with Canada and on the SALT II negotiations. Cutler spends most of the session detailing his role and responsibilities as White House Counsel, his participation in White House operations (ten o’clock meeting, Friday foreign policy breakfast), his involvement with policy and events (hostage crisis, SALT II, Billy Carter), and his working relationship with Carter. He describes Carter’s management style and political skills, and comments on the ideal relationship between a president and his advisors. He also evaluates several key members of the White House Staff, and emphasizes the problems that resulted in the White House as a result of disorganization, lack of Washington experience, and poor relations with Congress. Cutler concludes with an assessment of the Carter presidency, which he calls a systemic failure rather than a failure on Carter’s part, as well has his thoughts about what a second term would have looked like.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/cutler.jpg</dcterms:hasPart>
+               <dc:date>October 23, 1982</dc:date>
+               <dc:title>Cutler, Lloyd</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/lloyd-cutler</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_148</dc:id>
+               <dc:identifier>poh_148</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Donald Kettl; H. Clifton McCleskey; Frederick Mosher; Robert Strong; Kenneth W. Thompson
+Vanderbilt University: Erwin C. Hargrove</dc:contributor>
+               <dc:description>Stuart Eizenstat describes his five years of service with Jimmy Carter as an advisor in the 1976 presidential campaign and Assistant to the President for Domestic Affairs and Policy from 1977 to 1981. He begins with Carter’s entry into the 1976 presidential race and the challenges he faced in formulating a domestic policy message. He discusses the transition and early months of the Carter presidency and the process of staffing the executive branch, particularly the nascent Domestic Policy Office. Attention is given to the problems the administration faced during its first year in organizing the legislative agenda while facing energy problems. He then explores various issues and events in domestic policy during the rest of the term, including relations with the Cabinet, the presidential review memorandum process, and the July 1979 Cabinet shuffle. Eizenstat gives considerable attention to the relationship between the White House and groups outside the executive branch, particularly Congress, interest groups, and the Democratic Party. He also details several Carter administration policies, including SALT, water projects, urban policy, inflation, and wage and price controls, and the interaction between the budget and the policy agenda. At the end of the interview, Eizenstat looks back at the Carter years and judges the successes and failures of his presidency.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/eizenstat.jpg</dcterms:hasPart>
+               <dc:date>January 29-30, 1982</dc:date>
+               <dc:title>Eizenstat, Stuart</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/stuart-eizenstat</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_149</dc:id>
+               <dc:identifier>poh_149</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles O. Jones; Frederick Mosher; Robert Strong; Kenneth W. Thompson
+American Enterprise Institute: Richard Fenno
+Vanderbilt University: Erwin Hargrove
+Lyndon Baines Johnson School of Public Affairs, University of Texas: Emmette Redford</dc:contributor>
+               <dc:description>Hamilton Jordan joins Deputy Chief of Staff Landon Butler and congressional liaison Thomas Donilon to discuss President Carter, election politics, and their role in the Carter administration. The interview begins with Carter’s rise to the top of the Democratic Party and his victory over President Ford in 1976. The first year is explored in detail, specifically the administration’ failure to set clear priorities, the compartmentalization of issues, the fragmentation of the Democratic Party and its traditional supporters (labor, women, blacks, etc.), and the negative perception of the administration that developed as a result of these mistakes. Jordan also discusses his own role within the White House and the perception that he was the top advisor within the spokes on the wheel concept. He examines the so-called "malaise speech" and the subsequent Camp David staff review, and his appointment as Chief of Staff shortly after. As the first Chief of Staff of the Carter administration, Jordan assesses the organization of his office, his development as a strategist and planner, and his role in various foreign and domestic policy issue areas. Donilon joins Jordan and Butler for the afternoon session, which focuses on President Carter – his management style, skills as a politician, and view of the presidency. The interview ends with some thoughts on the 1980 presidential election – some of the key issues of the campaign (oil prices, hostage situation, Kennedy challenge) and how Jordan’s involvement with Iran policy diminished his role in the campaign.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/jordan.jpg</dcterms:hasPart>
+               <dc:date>November 6, 1981</dc:date>
+               <dc:title>Jordan, Hamilton; Butler, Landon; Donilon, Thomas</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/hamilton-jordan</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_150</dc:id>
+               <dc:identifier>poh_150</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles O. Jones; Donald Kettl; Clifton McCleskey; Frederick Mosher; Steve Rhoads; Kenneth Thompson</dc:contributor>
+               <dc:description>Alfred Kahn, along with Ron Lewis and Dennis Rapp, discuss the Carter administration's efforts to deal with inflation, its movement toward deregulation, and the president's leadership style.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/kahn.jpg</dcterms:hasPart>
+               <dc:date>December 10-11, 1981</dc:date>
+               <dc:title>Kahn, Alfred E.; Lewis, Ronald B.; Rapp, Dennis A.</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/alfred-e-kahn</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_151</dc:id>
+               <dc:identifier>poh_151</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>Miller Center &amp; University of Virginia: James Sterling Young, chair; Charles Jones; Robert Strong
+Visiting Academic Participants: Erwin Hargrove; David Truman</dc:contributor>
+               <dc:description>Charles Kirbo discusses his role as a close friend and key advisor to Jimmy Carter from his 1966 run for the Georgia governorship through his four years as president. Kirbo uses the entire interview to describe his position as an outside advisor to Carter throughout his political career and his perspectives on the inner-workings of the Carter White House. He examines the personalities and contributions of several top administration officials, including Hamilton Jordan, Stuart Eizenstat, Jody Powell, and Bert Lance. He also talks about his role in staffing the White House and the Cabinet, his own decision not to join the administration as Chief of Staff, the disconnect between perception and reality in the Carter presidency, and the 1980 presidential election. Finally, Kirbo offers an intimate portrait of Carter the individual, whom he describes as intelligent, determined, thorough, a principled conservative, and a man who has changed little since they first met in 1962.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/kirbo.jpg</dcterms:hasPart>
+               <dc:date>January 5, 1983</dc:date>
+               <dc:title>Kirbo, Charles</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/charles-kirbo</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_152</dc:id>
+               <dc:identifier>poh_152</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Martha Derthick; Michael Ross Fowler; Clifton McCleskey; Frederick Mosher; Russell L. Riley; Kenneth W. Thompson</dc:contributor>
+               <dc:description>Philip Klutznick examines his role in the Carter administration as Secretary of Commerce and an advisor to President Carter on foreign policy in the Middle East. He begins with a brief overview of his involvement in Middle East policy prior to 1976 and how he became involved in the administration’s dealings with Jewish leaders and the state of Israel. He details Secretary of State Vance’s work on the peace accord, and how the White House and National Security Council responded to the State Department’s efforts. Klutznick also assesses Carter’s role in the peace process, with a focus on his negotiating and communications skills. He discusses his continuing role as an advisor to President Carter on Israel policy and a liaison to the Jewish community even after becoming Commerce Secretary. Klutznick concludes by assessing his relationship with other Cabinet members, and some general thoughts on the relationship between the Cabinet and the White House Staff.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/klutznick.jpg</dcterms:hasPart>
+               <dc:date>October 2, 1986</dc:date>
+               <dc:title>Klutznick, Philip</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/philip-klutznick</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_153</dc:id>
+               <dc:identifier>poh_153</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University Of Virginia: James Sterling Young, chair; Charles O. Jones; Donald Kettl; H. Clifton McCleskey; Robert Strong; Kenneth W. Thompson
+Northwestern University: Donald Haider
+Columbia University: David Truman, Emeritus</dc:contributor>
+               <dc:description>As one of Jimmy Carter’s closest and most trusted advisors, Bert Lance offers a penetrating look at Carter, on both an individual and professional level. He begins with the origins of his relationship with Carter in 1966 and his tenure as head of the Georgia Highway Department from 1970 to 1973. The majority of the session is dedicated to the Carter presidential years. Lance describes his role in staffing the White House and Cabinet, and participating in regular cabinet meetings in the early period of the administration. He examines Carter’s management style and the decisions not to have a Chief of Staff and to have a small White House staff with only a few Washington DC insiders, which Lance characterizes as a costly error on Carter’s part. He discusses his interactions with the legislative branch and the administration’s failure to cultivate better relations with Congress, which Lance foresaw as a potential problem early in the presidency. Considerable time is spent discussing Carter as a politician, with Lance asserting the Carter is very political when seeking office, but generally does not like politicians and makes his decisions based on what is right, not what is politically expedient. Lance admits that during his short tenure (and for the remainder of the first year), the administration took on more policies than they could handle – water projects, stimulus package, energy bill, B-1 bomber, etc. Yet, for all of the accurate criticisms levied at the administration, he maintains there were major differences between how the presidency was viewed by the public and how it actually worked. Lance concludes by asserting that Carter could have been a great president if events such as the energy shortage and the Iran hostage crisis had not hurt him.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/lance.jpg</dcterms:hasPart>
+               <dc:date>May 12, 1982</dc:date>
+               <dc:title>Lance, Bert; Petkas, Peter</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/bert-lance</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_154</dc:id>
+               <dc:identifier>poh_154</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Inis L. Claude, Jr.; Matthew Holden, Jr.; Russell Riley; Kenneth Thompson</dc:contributor>
+               <dc:description>In this brief interview session, Ray Marshall discusses politics and policymaking in the Labor Department during the Carter presidency. He begins with his decision to join the administration as Labor Secretary and his initial discussions with Carter on the priorities of the department, including changes to OSHA regulations, a jobs program, and hiring of women and minorities. Marshall discusses the organization of the Labor Department and key staffing decisions. He describes his interactions with Carter and with labor leaders, and highlights the often contentious relationship between Carter and AFL-CIO President George Meany. He also examines his work on key labor policies during his tenure, including inflation, the coal strike, and a lengthy discussion on minimum wage. Marshall concludes with some general thoughts on the role of the Labor Secretary, which he believes should be as a consensus builder between government, business, and organized labor.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>May 4, 1988</dc:date>
+               <dc:title>Marshall, Ray</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/ray-marshall</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_155</dc:id>
+               <dc:identifier>poh_155</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; James Ceaser; Donald Kettl; David Magleby; Frederick Mosher; Kenneth W. Thompson
+Northwestern University in Evanston; Donald Haider 
+University of Pittsburgh: Bert Rockman</dc:contributor>
+               <dc:description>Alonzo McDonald discusses his experiences as Special Representative for Trade Negotiations and White House Staff Director in the Carter administration. Day One begins with an overview of McDonald’s service in the Carter administration – how he joined the administration in August 1977 then transferred to the White House in 1979 after the Camp David staff review – as well as some general thoughts on the presidency. During this session, McDonald examines his role as White House Staff Director, how he ran the daily White House operation, and his affect on organization, management, communications, speechwriting, and policymaking. He explores the relationship between Carter and the Congress, and more broadly, recent developments in executive-legislative relations. At the beginning of Day Two, McDonald delivers a lengthy introduction covering his role in the White House, Carter as president, and some general thoughts on the administration. He describes the role of White House Staff Director as an honest broker with little involvement in policy, and highlights the individuals with whom he worked most closely in the White House, Cabinet, and Congress. He describes Carter as intelligent, selfless, compassionate, moderate, and apolitical, and notes the distinction between his image in the press and the reality of Carter’s character. Finally, he assesses the roles of the principals and deputies in the White House, touching on major players such as Jordan, Powell, Strauss, Moore and Watson. The remainder of the interview touches on what McDonald calls the "four presidencies," or four phases of each administration, and takes a look back at the successes and failures of the Carter presidency.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/mcdonald.jpg</dcterms:hasPart>
+               <dc:date>March 13-14, 1981</dc:date>
+               <dc:title>McDonald, Alonzo; Rowny, Michael J.</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/alonzo-mcdonald</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_156</dc:id>
+               <dc:identifier>poh_156</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles Jones; Don Kettl; Frederick Mosher; Peter Petkas; Steve Rhoads
+Visiting Academic participant: Donald Raider</dc:contributor>
+               <dc:description>James McIntyre joins two of his associates at OMB, congressional liaison Hubert Harris and chief economist Van Ooms, to discuss the administration’s economic policy and some general thoughts on the Carter presidency. Each of the three officials participates equally in the interview, which takes the form of a roundtable discussion with the interview team serving as moderators. It begins with the early months of the presidency; how the OMB was organized and the policy issues immediately facing the new economic team (1978 amended budget, 1979 budget, reorganization plans, etc.). For the remainder of the first day, the interviewees examine various issues (inflation, balanced budget), processes (budget task force, Carter’s role in policymaking, interactions with Congress and the public), and OMB’s role in setting the administration’s policy agenda. Also covered is how the rest of the White House apparatus (organization of the White House Staff, decision-making structure, coordination of policy, and relations with Congress) affected economic policymaking. Day Two of the interview steps back from economic policy and focuses on broader topics regarding the Carter presidency. A variety of issues — Carter as a politician, the domestic policy staff, the "malaise" speech, and what a second Carter term would have looked like — are covered in detail.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/mcintyre.jpg</dcterms:hasPart>
+               <dc:date>October 28-29, 1981</dc:date>
+               <dc:title>McIntyre, James; Harris, Hubert; Ooms, Van Doorn</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/james-mcintyre</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_157</dc:id>
+               <dc:identifier>poh_157</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; James Ceaser; Charles O. Jones; Paul Light; Robert Strong; Kenneth Thompson
+George Washington University: Steven Wayne</dc:contributor>
+               <dc:description>Richard Moe chronicles his work as Chief of Staff to Vice President Walter Mondale. He begins with the development of Mondale’s vice-presidential role during the 1976 campaign and transition, particularly Carter’s desire for a strong vice president and the integration of the VP’s staff with the White House staff. He discusses Mondale’s role in the transition period and the Cabinet selection process, and the administration’s early efforts to court constituency groups and the Washington establishment. Moe describes the first year of the presidency as a failure to frame and execute priorities and the administration’s troubles in working with Congress and creating coalitions. He outlines the organization of the White House staff and his interactions with key figures (Jordan, Watson), and the strong role of the Cabinet. Moe offers his perceptions of Mondale’s operating style and his interactions with Carter and Congress. He also comments on Carter’s approach to governing – how he received information, and the use of polls and task forces. The first day ends with a long discussion on the Camp David personnel summit, the "malaise" speech, subsequent staff changes, and Mondale’s role. Day Two begins with a discussion of economic policy, particularly inflation and the budget, and the role of Mondale and Carter. He talks again at length about the operating style of both Carter and Mondale. The interview concludes with Moe’s thoughts on the 1980 campaign, what a second Carter term would have looked like, and the successes and failures of the Carter presidency.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>January 15-16, 1982</dc:date>
+               <dc:title>Moe, Richard; Berman, Michael</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/richard-moe-and-michael-berman</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_158</dc:id>
+               <dc:identifier>poh_158</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles O. Jones; Donald Kettl; Paul Light; Clifton McCleskey; Frederick Mosher; Peter Petkas; Kenneth Thompson
+University of Rochester: Richard Fenno
+American Political Science Association: Thomas Mann</dc:contributor>
+               <dc:description>Frank Moore, who worked as finance director for Jimmy Carter's 1976 presidential election, talks about the president's relations with Congress, including those with key congressional members, and the administration's efforts to improve those relations after a rocky start.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>September 18-19, 1981</dc:date>
+               <dc:title>Moore, Frank; Thompson, Robert N.; Tate, Dan; Cable, William H.</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/frank-moore</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_159</dc:id>
+               <dc:identifier>poh_159</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles O. Jones; Clifton McCleskey; Kenneth W. Thompson
+Brown University: Elmer Cornwell
+Towson State University: Martha Kumar
+Columbia University: William Leuchtenburg
+Mt. Holyoke College: David B. Truman, President Emeritus</dc:contributor>
+               <dc:description>Jody Powell and a group of his top aides examine the organization, function and operations of the White House press office during the Carter presidency. The morning session on Day One explores the transition from the 1976 presidential campaign to the early months of the administration, and how the Carter White House, and the press office in particular, came to be organized. In the afternoon session, Powell and his colleagues detail the range, scope, and nature of press office functions, including the media liaison’s office (Bario), national security press operation (Friendly), news summary (Townsend), and press advance (Leibach). On the second day of the interview, broader topics on the Carter presidency are investigated, including interactions between Carter and the White House Staff, and the relationship between the administration and the Democratic Party, the "permanent press," and the Washington establishment. Finally, each of the interviewees offers their thoughts on the 1980 presidential election and how the Carter presidency will likely be viewed in history.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/powell.jpg</dcterms:hasPart>
+               <dc:date>December 17-18, 1981</dc:date>
+               <dc:title>Powell, Jody; Bario, Patricia; Friendly, Al; Granum, Rex; Jenkins, Ray; Leibach, Dale; Townsend, Claudia</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/jody-powell</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_160</dc:id>
+               <dc:identifier>poh_160</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Joseph Devaney; Clifton McCleskey; Larry Sabato; Kenneth Thompson
+Tulane University: Robert Strong
+George Washington University: Stephen Wayne</dc:contributor>
+               <dc:description>Gerald Rafshoon discusses the image of President Carter and his administration. He examines the internal workings of the Executive Office, including the hiring of staff and the relationships of those closest to the president.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/rafshoon.jpg</dcterms:hasPart>
+               <dc:date>April 8, 1983</dc:date>
+               <dc:title>Rafshoon, Gerald</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/gerald-m-rafshoon</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_161</dc:id>
+               <dc:identifier>poh_161</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Charles O. Jones; Clifton McCleskey; Kenneth Thompson
+Tulane University: Robert Strong</dc:contributor>
+               <dc:description>James Schlesinger discusses his tenure as head of the newly created Department of Energy and the challenge of passing energy legislation. He begins with some opening comments about his relationship with Carter and the "freshness of approach" Carter brought to Washington in 1977. He offers an intimate profile of the President, detailing his operating style (hands-on president), his personality (intelligent, moral), and his skill as a politician (naÃ¯ve, unable to create governing coalitions). Schlesinger chronicles the creation and development of the Department of Energy, how it was initially staffed, and how it formulated and sold policy. He examines Carter’s deep interest in energy policy and his desire for comprehensive legislation. Schlesinger then delivers a detailed presentation of the 1977 and 1979 energy proposals – the creation and sale of these policies, and the effect of outside events on the policies – passage. He also discusses other issues he worked on as Energy Secretary, including the neutron bomb, the Comprehensive Test Ban Treaty, and policy toward Iran, China, and Panama. Various other issues, such as the Bert Lance affair, Carter’s relations with the press, and public perceptions of Carter, are discussed throughout the course of the interview. Schlesinger concludes by predicting that history will remember the Carter presidency well, particularly its work on the Panama Canal, the Camp David Accords, and normalization of relations with China.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/schlesinger.jpg</dcterms:hasPart>
+               <dc:date>July 19-20, 1984</dc:date>
+               <dc:title>Schlesinger, James</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/james-schlesinger</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_162</dc:id>
+               <dc:identifier>poh_162</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Charles O. Jones; Donald Kettl; Frederick Mosher; Peter Petkas; Steve Rhoads; Kenneth Thompson
+Vanderbilt University: Erwin Hargrove
+University of Pittsburgh: Bert Rockman</dc:contributor>
+               <dc:description>Charles Schultze begins his interview discussing the early days of the Carter administration and his role in it. He also talks about the economic challenges at that time, the interworkings of the Carter staff, and the legacies of the Carter presidency. </dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/schultze.jpg</dcterms:hasPart>
+               <dc:date>January 8-9, 1982</dc:date>
+               <dc:title>Schultze, Charles</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/charles-schultze</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_163</dc:id>
+               <dc:identifier>poh_163</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>Miller Center &amp; University of Virginia: James Young, chair; David Magleby; Frederick Mosher; Kenneth Thompson
+Vanderbilt University: Erwin Hargrove 
+Harvard University: Don Price
+Johns Hopkins University: Francis Rourke</dc:contributor>
+               <dc:description>Jack Watson discusses his experiences as Transition Director, Assistant to the President for Intergovernmental Affairs, Cabinet Secretary, and Chief of Staff in the Carter administration. Watson and his aides each begin with the circumstances surrounding their entry into the administration and their key roles and responsibilities during their tenures. A variety of topics, including the transition, the problems of not having a Chief of Staff early in the presidency, the interaction between policy formulation and implementation, and the relationship between the administration and state and local governments, are highlighted in these remarks. For the remainder of the session, the interview team explores several broad themes relevant to Watson’s service in the administration. The first area focuses on the White House Staff, including organizational issues (spokes-on-the-wheel concept, effects of Watergate, post-Camp David personnel changes, key officials) and Watson’s tenure (becoming chief of staff, role in policymaking, interactions with other White House offices). Next is a discussion of cabinet affairs, with Watson’s reflections on cabinet selection, cabinet meetings, and Carter’s relationship with cabinet members. Day Two begins with an evaluation of Watson’s responsibilities as intergovernmental affairs chief, his role in the 1980 election, and some thoughts on transition management. Finally, Watson gives a retrospective look at the challenges and achievements of the Carter presidency, and how it should be remembered by historians.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>April 17-18, 1981</dc:date>
+               <dc:title>Watson, Jack; Crawford, Berry; Hansen, Jane; Kirschenbaum, Bruce</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/jack-h-watson-jr</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_164</dc:id>
+               <dc:identifier>poh_164</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Henry J. Abraham; James Ceaser; Charles O. Jones; Donald Kettl; Paul Light; David Magleby; Clifton McCleskey; David O'Brien; Larry Sabato; Kenneth W. Thompson; James S. Young
+Johns Hopkins University: Francis Rourke
+George Washington University: Stephen Wayne</dc:contributor>
+               <dc:description>Anne Wexler joins three of her White House colleagues for a discussion on coalition building and selling legislation during the Carter presidency. Wexler begins with an overview of her service with the Carter administration, covering her work on the 1976 Cabinet selection team, her tenure as Deputy Undersecretary of Commerce, how she came to join the Office of Public Liaison in May 1978, and a brief overview of her responsibilities. The majority of the interview is spent on Wexler’s time in the White House, beginning with the legislative process and the creation of coalitions. The group discusses their interactions with a variety of groups, including Congress, interest groups, state and local party officials, constituent groups, PACs, and the Washington establishment. They examine the division labor between the Office of Public Liaison and other Cabinet and White House offices, particularly the Office of Congressional Liaison. They also share their perceptions of the Carter White House, how it was organized and developed over time, working relationships between staffers, and some of the key personalities (Powell, Jordan, Caddell, Rafshoon). Wexler discusses her observations of Carter’s role in the legislative process, his operating style, and his interactions with Congress and the media. She concludes by asserting that the Carter administration compiled an impressive record of legislative achievements, but a poor communications strategy failed to convince the nation that Carter was moving the country forward.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/wexler.jpg</dcterms:hasPart>
+               <dc:date>February 12-13, 1981</dc:date>
+               <dc:title>Wexler, Anne; Chanin, Michael;  Neustadt, Richard E., Jr.; Ryor, John</dc:title>
+               <dc:source>http://millercenter.org/president/carter/oralhistory/anne-wexler</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_168</dc:id>
+               <dc:identifier>poh_168</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Tarek E. Masoud; Sidney Milkis; Philip Zelikow
+Special Guest: Peter Roussel</dc:contributor>
+               <dc:description>James Baker III discusses his leadership of the 1988 presidential campaign (prior to his service as Secretary of State and Chief of Staff), as well as issues in the 1992 re-election campaign.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/baker_james.jpg</dcterms:hasPart>
+               <dc:date>January 29, 2000</dc:date>
+               <dc:title>Baker, James A.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/james-baker-2000</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_169</dc:id>
+               <dc:identifier>poh_169</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley, chair; James Sterling Young
+Washington and Lee University: Robert Strong
+Also present: John Williams</dc:contributor>
+               <dc:description>James Baker III discusses his leadership of the 1988 presidential campaign (prior to his service as Secretary of State and Chief of Staff ), as well as issues in the 1992 re-election campaign.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/baker_james.jpg</dcterms:hasPart>
+               <dc:date>March 17, 2011</dc:date>
+               <dc:title>Baker, James A.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/james-baker-2011</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_170</dc:id>
+               <dc:identifier>poh_170</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Daniel J. Meador; Russell L. Riley
+New Mexico State University: Nancy V. Baker</dc:contributor>
+               <dc:description>William Barr reflects on law-related issues, from the war on drugs to the Gulf War, as a major figure in the Department of Justice.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Barr_william.jpg</dcterms:hasPart>
+               <dc:date>April 5, 2001</dc:date>
+               <dc:title>Barr, William P.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/william-barr</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_171</dc:id>
+               <dc:identifier>poh_171</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell L. Riley, chair
+University of California, Santa Barbara: Stephen Weatherford</dc:contributor>
+               <dc:description>Michael Boskin analyzes the politics of the 1990 budget agreement, the political costs of raising taxes, and the public presentation of the economic downturn.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Boskin.jpg</dcterms:hasPart>
+               <dc:date>July 30-31, 2001</dc:date>
+               <dc:title>Boskin, Michael</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/michael-boskin</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_173</dc:id>
+               <dc:identifier>poh_173</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Philip Zelikow, chair; Tarek Masoud; James Sterling Young</dc:contributor>
+               <dc:description>A long-time Texas friend of George H. W. Bush, Henry Catto describes socializing with the Bush family, his ambassadorship to the U.K., during which the Gulf War occurred, and his tenure as director of USIA.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Catto.jpg</dcterms:hasPart>
+               <dc:date>April 12, 2000</dc:date>
+               <dc:title>Catto, Henry</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/henry-catto</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_174</dc:id>
+               <dc:identifier>poh_174</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell L. Riley, chair; Tarek E. Masoud; James S. Young
+University of Oklahoma: Wilbur Scott</dc:contributor>
+               <dc:description>Edward Derwinski recalls his education in Chicago; becoming a Republican; serving in the Army, U.S. House of Representatives, and as a delegate to the UN General Assembly; working in the State Department during the Reagan presidency; and serving in George H. W. Bush’s Cabinet as the first Secretary of Veterans Affairs.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Derwinski.jpg</dcterms:hasPart>
+               <dc:date>May 3–4, 2001</dc:date>
+               <dc:title>Derwinski, Edward J.; Derwinski, Bonnie</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/edward-derwinski</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_175</dc:id>
+               <dc:identifier>poh_175</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair, Jeff Chidester</dc:contributor>
+               <dc:description>Craig Fuller describes his move from the Reagan administration, as the Cabinet Secretary, to lead Vice President Bush’s staff in 1985. Fuller recalls some of the sixty trips abroad that he made with the Vice President, including to Poland before the end of the Cold War; the role of Lee Atwater in the 1988 campaign; the selection of Indiana Senator Dan Quayle as the Vice Presidential candidate; and the differences in leadership style between Presidents Reagan and Bush.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/fuller.jpg</dcterms:hasPart>
+               <dc:date>May 12, 2004</dc:date>
+               <dc:title>Fuller, Craig</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/craig-fuller</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_176</dc:id>
+               <dc:identifier>poh_176</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Philip Zelikow, chair
+Harvard University: Ernest May
+Bush Presidential Library Foundation: James H. McCall
+Council on Foreign Relations: Fareed Zakaria
+Attending: James Sterling Young</dc:contributor>
+               <dc:description>General Brent Scowcroft, President Bush’s national security advisor, discusses his military and academic training. He analyzes how the president assembled his foreign policy team, the astounding changes in foreign and defense policies as the Cold War came to an end, the New World Order, the invasion of Panama, and the Tiananmen Square uprising in China.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/scowcroft.jpg</dcterms:hasPart>
+               <dc:date>November 12–13, 1999</dc:date>
+               <dc:title>Scowcroft, Brent</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/brent-scowcroft</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_177</dc:id>
+               <dc:identifier>poh_177</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Tarek E. Masoud; Sid Milkis; Philip Zelikow
+Vanderbilt University: Erwin Hargrove
+Bush Presidential Library Foundation: John Karaagac; James H. McCall</dc:contributor>
+               <dc:description>Chief of Staff John Sununu recalls the 1988 New Hampshire presidential primary, President Bush’s respect for Ronald Reagan, passage of the Clean Air Act amendments and the Americans with Disabilities Act, the savings and loan crisis, and the end of the Cold War.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/sununu.jpg</dcterms:hasPart>
+               <dc:date>June 8–9, 2000</dc:date>
+               <dc:title>Sununu, John H.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/john-sununu-1</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_178</dc:id>
+               <dc:identifier>poh_178</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair
+Bush Presidential Library Foundation: James H. McCall</dc:contributor>
+               <dc:description>Chief of Staff John Sununu recalls the 1988 New Hampshire presidential primary, President Bush’s respect for Ronald Reagan, passage of the Clean Air Act amendments and the Americans with Disabilities Act, the savings and loan crisis, and the end of the Cold War.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/sununu2.jpg</dcterms:hasPart>
+               <dc:date>November 9, 2000</dc:date>
+               <dc:title>Sununu, John H.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/john-sununu-2</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_199</dc:id>
+               <dc:identifier>poh_199</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Stephen Knott</dc:contributor>
+               <dc:description>Ambassador Roman Popadiuk reflects on his service in the Reagan and Bush administrations and focuses on President George H. W. Bush’s foreign policy skills as the Cold War drew to a close, especially his reaction to the collapse of the Berlin Wall and the demise of the Soviet Union.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/popadiuk.jpg</dcterms:hasPart>
+               <dc:date>July 28, 2003</dc:date>
+               <dc:title>Popadiuk, Roman</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/roman-popadiuk</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_180</dc:id>
+               <dc:identifier>poh_180</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Tarek E. Masoud; Russell L. Riley
+Bush Presidential Library Foundation: James H. McCall</dc:contributor>
+               <dc:description>Phillip Brady comments on administrative decisions, such as the selections of John Sununu and James Baker as Chiefs of Staff, as well as the political impacts of the Iran-Contra indictments and the economic recession on the 1992 election.</dc:description>
+               <dcterms:hasPart/>
+               <dc:date>February 22-23, 2001</dc:date>
+               <dc:title>Brady, Phillip D.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/phillip-d-brady</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_181</dc:id>
+               <dc:identifier>poh_181</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley, chair; Paul Martin
+Virginia Tech: Charles Walcott</dc:contributor>
+               <dc:description>From his post as the Bush-Quayle Presidential Campaign communications director, to his four years as a member of the White House senior staff, David Demarest describes managing communications for George H. W. Bush,  including presidential speechwriting, public liaison, media relations, and intergovernmental affairs.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Demarest1.jpg</dcterms:hasPart>
+               <dc:date>January 28, 2010</dc:date>
+               <dc:title>Demarest, David F., Jr.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/david-demarest</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_182</dc:id>
+               <dc:identifier>poh_182</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Timothy J. Naftali, chair; Tarek E. Masoud
+Texas A &amp; M University: H. William Brands; George C. Edwards III
+Bush Presidential Library Foundation: James H. McCall</dc:contributor>
+               <dc:description>With three different positions in intelligence and national security during the George H.W. Bush presidency, Robert Gates offers unique perspectives on the Soviet Union’s demise, the Gulf War, removing Noriega from power in Panama, the impact of the Cold War’s end on Eastern Europe and Latin America, and the political crisis in the Philippines.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/gates.jpg</dcterms:hasPart>
+               <dc:date>July 23–24, 2000</dc:date>
+               <dc:title>Gates, Robert M.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/robert-gates</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_183</dc:id>
+               <dc:identifier>poh_183</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair
+Washington and Lee: Robert Strong</dc:contributor>
+               <dc:description>Richard Haass discusses his service in the Reagan Department of State, as well as his work for President George H. W. Bush, regarding Middle East, Persian Gulf, and South Asia policy, on the National Security Council’s staff.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/haass.jpg</dcterms:hasPart>
+               <dc:date>May 27, 2004</dc:date>
+               <dc:title>Haass, Richard</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/richard-haass</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_184</dc:id>
+               <dc:identifier>poh_184</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Stephen F. Knott, chair; Leonard Schoppa
+American Enterprise Institute: John Fortier</dc:contributor>
+               <dc:description>Carla Hills describes joining the Nixon Justice Department in the midst of the Watergate crisis, her impressions of President Gerald Ford as his Secretary of Housing and Urban Development, appointment to be President George H. W. Bush’s Trade Representative, as well as the North American Free Trade Agreement, Uruguay Round, Super 301 statute, World Trade Organization, and trade with Japan and China.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/hills.jpg</dcterms:hasPart>
+               <dc:date>January 6, 2004</dc:date>
+               <dc:title>Hills, Carla</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/carla-hills</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_185</dc:id>
+               <dc:identifier>poh_185</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley, chair; Barbara Perry
+Sweet Briar College: Spencer Bakich</dc:contributor>
+               <dc:description>Admiral David Jeremiah recalls his career in the U.S. Navy, especially his tours of duty in Washington, culminating in his service on the Joint Chiefs of Staff.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/jeremiah.jpg</dcterms:hasPart>
+               <dc:date>November 15, 2010</dc:date>
+               <dc:title>Jeremiah, David</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/david-jeremiah</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_186</dc:id>
+               <dc:identifier>poh_186</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley
+University of Pennsylvania: Kathryn Dunn Tenpas</dc:contributor>
+               <dc:description>Bobbie Greene Kilberg recalls President Bush’s interactions with external groups and institutions, including his openness to a variety of viewpoints.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/kilberg.jpg</dcterms:hasPart>
+               <dc:date>November 20, 2009</dc:date>
+               <dc:title>Kilberg, Bobbie Greene; Vogt, Jeffrey; Jeavons, Kathy</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/bobbie-greene-kilberg</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_187</dc:id>
+               <dc:identifier>poh_187</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Stephen F. Knott; Russell L. Riley
+Middlebury College: Matthew Dickinson
+The Bush Presidential Library Foundation: James McCall</dc:contributor>
+               <dc:description>Fred McClure recalls his work with Senator John Tower (R.-TX) and as special assistant to President Reagan in Congressional relations (including the 1986 tax reform and nominations of William Rehnquist to chief justice and Antonin Scalia as associate justice of the U.S. Supreme Court). McClure reports on his tenure as assistant for legislative affairs during the George H. W. Bush presidency, which covered budget battles with Congress, the Gulf War, Supreme Court nominees David Souter and Clarence Thomas, and the Civil Rights Act of 1991.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/mcclure2.jpg</dcterms:hasPart>
+               <dc:date>September 20, 2001</dc:date>
+               <dc:title>McClure, Frederick</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/frederick-mcclure</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_188</dc:id>
+               <dc:identifier>poh_188</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley, chair; Barbara Perry</dc:contributor>
+               <dc:description>Thomas Pickering recalls the Gulf War and the end of the Cold War from his perspective as Ambassador to the UN.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/pickering.jpg</dcterms:hasPart>
+               <dc:date>December 14, 2010</dc:date>
+               <dc:title>Pickering, Thomas</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/thomas-pickering</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_189</dc:id>
+               <dc:identifier>poh_189</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Sidney M. Milkis, chair; Russell L. Riley
+Bush Presidential Library Foundation: James H. McCall; John Karaagac</dc:contributor>
+               <dc:description>James Pinkerton describes his work as a young Republican operative with Lee Atwater leading up to the 1988 presidential campaign, his role as the Bush campaign’s director of research, working with George W. Bush, and serving as director of policy during the transition. He views the George H. W. Bush presidency through the lens of his self-styled Reagan Republicanism, as he comments on the Fund for America’s Future, Willie Horton ads, “no new taxes” pledge, budget negotiations with Congress, Newt Gingrich, and Bush’s speaking style and moderate ideology.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/Pinkerton.jpg</dcterms:hasPart>
+               <dc:date>February 6, 2001</dc:date>
+               <dc:title>Pinkerton, James P.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/james-pinkerton</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_190</dc:id>
+               <dc:identifier>poh_190</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James S. Young, chair; Stephen Knott; Russell L. Riley
+University of Wisconsin-Madison: Charles O. Jones</dc:contributor>
+               <dc:description>Vice President Quayle discusses the Bush presidency, including being selected for the Republican ticket in 1988 as a young U.S. Senator from Indiana, as well as domestic and foreign policy issues that the administration faced.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/quayle.jpg</dcterms:hasPart>
+               <dc:date>March 12, 2002</dc:date>
+               <dc:title>Quayle, J. Danforth</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/danforth-quayle</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_191</dc:id>
+               <dc:identifier>poh_191</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell L. Riley, chair; Paul Freedman; Tarek E. Masoud; James S. Young
+Bush Presidential Library Foundation: James McCall</dc:contributor>
+               <dc:description>A former advertising director for the 1984 Reagan campaign, Sigmund Rogich describes his work with Roger Ailes in producing campaign ads for the 1988 Bush campaign, including the “Revolving Door,” which highlighted Michael Dukakis’s prison furlough program. Rogich also reflects on speechwriter Peggy Noonan’s “read my lips” line from Vice President Bush’s 1988 convention speech, Bush’s decision to raise taxes, and staff changes at the White House leading up to the 1992 campaign.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/rogich.jpg</dcterms:hasPart>
+               <dc:date>March 8–9, 2001</dc:date>
+               <dc:title>Rogich, Sigmund</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/sigmund-rogich</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_192</dc:id>
+               <dc:identifier>poh_192</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Philip Zelikow, chair; William B. Quandt
+The Bush Presidential Library Foundation: James McCall</dc:contributor>
+               <dc:description>Dennis Ross, the Director of Policy Planning in the State Department, discusses foreign policy issues in the Middle East during the first two years of George H. W. Bush’s presidency. Ross describes in detail behind-the-scenes diplomacy leading up to the Gulf War.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/ross.jpg</dcterms:hasPart>
+               <dc:date>August 2, 2001</dc:date>
+               <dc:title>Ross, Dennis B.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/dennis-ross</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_193</dc:id>
+               <dc:identifier>poh_193</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Russell Riley, chair; Stephen Knott; Daniel Meador
+New Mexico State University: Nancy Baker
+Also Present: Nancy Watson</dc:contributor>
+               <dc:description>Attorney General Richard Thornburgh discusses serving as a U.S. Attorney during the Nixon Presidency, as Assistant Attorney General for Gerald Ford’s Justice Department, and as Governor of Pennsylvania during the Presidency of Ronald Reagan, who appointed him Attorney General late in his term. He remained in that post for the first two years of the Bush administration, and he recalls judicial appointments, including Supreme Court nominations of David Souter and Clarence Thomas, as well as civil rights, the 1990 budget bill, the Americans With Disabilities Act, and his 1991 defeat by Democrat Harris Wofford for the U.S. Senate.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/thornburgh.jpg</dcterms:hasPart>
+               <dc:date>October 23-24, 2001</dc:date>
+               <dc:title>Thornburgh, Richard</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/richard-thornburgh</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_194</dc:id>
+               <dc:identifier>poh_194</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Sidney Milkis
+Texas A &amp; M: George C. Edwards III
+George Bush Presidential Library: James H. McCall; John Karaagac</dc:contributor>
+               <dc:description>Chase Untermeyer, who first met George H. W. Bush when the future President ran for Congress in 1966, offers a lengthy account of their association prior to the White House years. Untermeyer describes serving as Vice President Bush’s executive secretary and assisting the President-elect with the transition. He covers the appointment process in detail, particularly controversies, such as John Frohnmayer’s appointment to the National Endowment for the Arts.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/untermeyer.jpg</dcterms:hasPart>
+               <dc:date>July 27-28, 2000</dc:date>
+               <dc:title>Untermeyer, Chase</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/chase-untermeyer</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_195</dc:id>
+               <dc:identifier>poh_195</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: James Sterling Young, chair; Russell Riley
+Texas A&amp;M University: James E. Anderson; George Edwards</dc:contributor>
+               <dc:description>Clayton Yeutter discusses his service in the Bush Cabinet as Secretary of Agriculture, Chairman of the Republican National Committee, and National Policy Advisor.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/yeutter.jpg</dcterms:hasPart>
+               <dc:date>January 19, 2001</dc:date>
+               <dc:title>Yeutter, Clayton</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/clayton-yeutter</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>poh_207</dc:id>
+               <dc:identifier>poh_207</dc:identifier>
+               <dc:publisher>Miller Center Oral History Program</dc:publisher>
+               <dc:contributor>University of Virginia: Philip Zelikow, chair; Tarek E. Masoud
+Columbia University: Richard Betts
+George Bush Presidential Library Foundation: James H. McCall</dc:contributor>
+               <dc:description>Richard Cheney provides descriptions of his service as Secretary of Defense, particularly during the U.S. invasion of Panama and the 1991 Gulf War.</dc:description>
+               <dcterms:hasPart>http://millercenter.org/images/oral_histories/_portrait/cheney.jpg</dcterms:hasPart>
+               <dc:date>March 16-17, 2000</dc:date>
+               <dc:title>Cheney, Richard B.</dc:title>
+               <dc:source>http://millercenter.org/president/bush/oralhistory/richard-cheney</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+   </ListRecords>
+</Repository>

@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+   <Identify>
+      <oai:repositoryName/>
+      <oai:baseURL/>
+      <oai:protocolVersion>2.0</oai:protocolVersion>
+      <oai:adminEmail/>
+      <oai:earliestDatestamp/>
+      <oai:deletedRecord>no</oai:deletedRecord>
+      <oai:granularity>YYYY-MM-DD</oai:granularity>
+   </Identify>
+   <ListMetadataFormats>
+      <oai:metadataFormat>
+         <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+         <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+         <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+      </oai:metadataFormat>
+   </ListMetadataFormats>
+   <ListRecords metadataPrefix="oai_dc">
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_20905</dc:id>
+               <dc:identifier>sfm_20905</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Itek Corporation</dc:creator>
+               <dc:medium>Paper, Plastic</dc:medium>
+               <dcterms:isPartOf>Jeanne Reilly Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>11 1/4 x 8 3/4 in. (28.6 x 22.2 cm)</dc:format>
+               <dc:description>Bound soft-covered report titled "Nix Film Analysis" by Itek Corporation, dated May 18, 1967.  The report analyzes Orville Nix's film of the assassination of President John F. Kennedy.  Document is 55 pages long with pale blue covers and is bound with a white plastic comb binding. \n
+Front cover has "Nix Film Analysis, 18 May 1967" at center and logo and "Itek Corporation Lexington, Massachusetts 02173".  Report includes illustrations, reproductions of the film, maps, and scale drawings.
+
+Due to its copyright status, we are not able to put the entire report online at this time.  The report is available for viewing in the Museum’s Reading Room.  Please go to the Research page on our website for information on visiting the Reading Room (http://jfk.org/go/reading-room).
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>05/18/1967</dc:date>
+               <dc:title>"Nix Film Analysis" by Itek Corporation</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:20905</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_35797</dc:id>
+               <dc:identifier>sfm_35797</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator/>
+               <dc:medium>Metal</dc:medium>
+               <dcterms:isPartOf>The Sixth Floor Museum at Dealey Plaza Collection</dcterms:isPartOf>
+               <dc:format>1 1/8 in. (2.9 cm)</dc:format>
+               <dc:description>A round pin-back button from the 1960 presidential campaign with the Spanish slogan "Triumfa Con Kennedy", meaning "Win with Kennedy."\n
+The button has a white background with an image of Kennedy's head printed in blue at the center.  "Triumfa Con" is printed in red around the top edge of the pin and "Kennedy" is printed in white letters on a blue band around the lower edge.  </dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1960</dc:date>
+               <dc:title>"Triumfa Con Kennedy" campaign pin</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:35797</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32274</dc:id>
+               <dc:identifier>sfm_32274</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>Abraham Zapruder</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Zapruder Family Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 18 fps</dc:format>
+               <dc:description/>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Abraham Zapruder film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32274</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_27620</dc:id>
+               <dc:identifier>sfm_27620</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Newspapers &amp; Magazines</dc:type>
+               <dc:creator>The Dallas Morning News</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>22 3/4 x 15 in. (57.8 x 38.1 cm)</dc:format>
+               <dc:description>Page from the Dallas Morning News dated Friday, November 22, 1963, showing an anti-Kennedy ad by the American Fact-Finding Committee, Bernard Weissman, Chairman.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Anti-Kennedy ad by the American Fact-Finding Committee</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:27620</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_23148</dc:id>
+               <dc:identifier>sfm_23148</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Argus</dc:creator>
+               <dc:medium>Metal, Glass, Plastic</dc:medium>
+               <dcterms:isPartOf>Phil Willis Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format/>
+               <dc:description>Argus Autronic 35mm camera used by assassination witness Phil Willis to make a series of pictures before, during and after the assassination on November 22, 1963. Willis was  standing on the south side of Elm Street during the shooting.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>circa 1962</dc:date>
+               <dc:title>Argus Autronic I Model 35156-M 35mm camera</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:23148</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29150</dc:id>
+               <dc:identifier>sfm_29150</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Lyndal L. Shaneyfelt Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 x 10 in. (20.3 x 25.4 cm)</dc:format>
+               <dc:description>Black and white undated photograph of FBI agents demonstrating how President Kennedy and Governor Connally may have been struck by a single bullet. The car in the photo was originally the Secret Service vehicle following directly behind President Kennedy during the shooting.  The two agents are sitting in approximately the same positions as President Kennedy and Governor Connally were in the presidential limousine. Note the chalk marks on their backs showing the bullet entrance locations on both men.  The third man, Warren Commission staff member Arlen Specter, stands beside the car with a metal rod to show the possible trajectory of the bullet through the two men based on measurements made during the May 1964 reenactment in Dallas.  \n
+This copy of a photograph was part of FBI Special Agent Lyndal Shaneyfelt's Kennedy assassination file; Shaneyfelt assisted in the FBI investigations of the assassination conducted on behalf of the Warren Commission in 1964.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1964</dc:date>
+               <dc:title>Black and white photograph of FBI reenactment of assassination</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29150</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_5141</dc:id>
+               <dc:identifier>sfm_5141</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Dr. Charles J. "Jim" Carrico</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Parkland Hospital Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 1/2 x 11 in. (21.6 x 27.9 cm)</dc:format>
+               <dc:description>Two-page handwritten document filed by Dr. Charles J. "Jim" Carrico at 4:20 p.m., less than four hours after President Kennedy's assassination. Dr. Carrico was a resident surgeon and the first Parkland Hospital doctor to see and treat President Kennedy.  He inserted an endotracheal tube to help restore the president's breathing shortly before other doctors provided additional treatment. \n</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Dr. Charles J. "Jim" Carrico's Statement of Activities</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:5141</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_5135</dc:id>
+               <dc:identifier>sfm_5135</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Dr. Malcolm O. Perry</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Parkland Hospital Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 1/2 x 11 in. (21.6 x 27.9 cm)</dc:format>
+               <dc:description>Two-page document handwritten by Dr. Malcolm Perry less than four hours after the 12:30 p.m. shooting of President Kennedy. Dr. Perry was the second physician to treat President Kennedy's wounds.  He performed a tracheotomy on the president's neck by cutting an opening through a bullet exit hole just below the Adam's apple.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Dr. Malcolm Perry's Statement of Activities</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:5135</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_5133</dc:id>
+               <dc:identifier>sfm_5133</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Dr. Robert McClelland</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Parkland Hospital Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 1/2 x 11 in. (21.6 x 27.9 cm)</dc:format>
+               <dc:description>Two-page document handwritten by Dr. Robert McClelland less than four hours after President Kennedy's death at 1:00 p.m. The statement describes what McClelland did and saw in the Parkland Hospital emergency room during the treatment of President Kennedy.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Dr. Robert McClelland's Statement of Activities</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:5133</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_28973</dc:id>
+               <dc:identifier>sfm_28973</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator/>
+               <dc:medium>Wood, Hair, String</dc:medium>
+               <dcterms:isPartOf>Lt. J. C. "Carl" Day Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>4 1/2 x 1 3/4 x 3/4 in. (11.4 x 4.4 x 1.9 cm)</dc:format>
+               <dc:description>This brush was used by Lt. J. C. "Carl" Day, head of the Dallas Police Crime Scene Search Unit, to dust the Mannlicher-Carcano rife that was found on the sixth floor of the Texas School Book Depository for fingerprints.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>circa 1960</dc:date>
+               <dc:title>Fingerprint brush</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:28973</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_22628</dc:id>
+               <dc:identifier>sfm_22628</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Jefferies &amp; Manz, Inc.</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>David and Susan Hall Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>4 x 2 1/2 in. (10.2 x 6.4 cm)</dc:format>
+               <dc:description>Original funeral mass card from President Kennedy's funeral at St. Matthew's Cathedral in Washington, D.C., on November 25, 1963.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/25/1963</dc:date>
+               <dc:title>Funeral mass card for President John F. Kennedy</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:22628</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_27520</dc:id>
+               <dc:identifier>sfm_27520</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>Dr. George Christian</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>George and Nancy Christian Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 18 fps</dc:format>
+               <dc:description>Original 8mm color home movie of President Kennedy's funeral procession in Washington, D. C. shot by Dr. George Christian.  The movie shows the White House and Treasury Department buildings on November 25, 1963, the day of President Kennedy's funeral.  Then, on Pennsylvania Avenue near what is now Freedom Park, Christian caught the funeral cortege as it proceeded to Arlington National Cemetery.  Near the front of the funeral cortege, behind the president's casket, came the symbolic "riderless horse," Black Jack, followed by members of the Kennedy family in cars.  Similar scenes appeared on live TV, but only as black and white images.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/25/1963</dc:date>
+               <dc:title>George Christian Film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:27520</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_25885</dc:id>
+               <dc:identifier>sfm_25885</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>George Jefferies</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>George Jefferies Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 18 fps</dc:format>
+               <dc:description>Original 8mm color film made by George Jefferies from near the southeast corner of Main and Lamar Streets, across from the Maurice Hotel. This film shows probably the best view of Jacqueline Kennedy in the Dallas motorcade.  Two additional scenes show Dealey Plaza the next day.\n
+The video attached to this record is an excerpt.  The entire film is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963 - 11/23/1963</dc:date>
+               <dc:title>George Jefferies Film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:25885</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_15499</dc:id>
+               <dc:identifier>sfm_15499</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>George Reid</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>George Reid Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 16 fps</dc:format>
+               <dc:description>Two 8mm color home movie reels taken by George Reid, a long-time Kennedy supporter. These are among several filmed by Reid from 1963 to 1967.\n
+On November 22, 1963, Reid arrived at Dallas Love Field two hours early and filmed some of the preparations for, and later the arrival of, the Kennedys.  His scenes include students with their high school and Texas state flags, a Belgian exchange student waiting to show her brother's sketches to the Kennedys, and Secret Service agents guarding the Kennedy limousine.  
+
+Reid filmed the presidential arrival and the Kennedys in the crowd until he ran out of film; by the time he reloaded, the motorcade had departed.  His last scene that day showed his neighborhood post office.  Some other later scenes included in this excerpt show crowds, television news crews and police in Dealey Plaza as well as the Dallas Criminal Courts Building.  Later films, not included here, show people and events in Dealey Plaza over the next four years including CBS News filming re-creation scenes in 1967 for a Kennedy assassination program.
+
+The video attached to this record is an excerpt.  The entire film is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1963 - 1967</dc:date>
+               <dc:title>George Reid Film(s)</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:15499</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29221</dc:id>
+               <dc:identifier>sfm_29221</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Dallas County Sheriff's Department Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>9 x 6 in. (22.9 x 15.2 cm)</dc:format>
+               <dc:description>Handwritten letter addressed to Jack Ruby within hours of his being incarcerated for shooting accused assassin Lee Harvey Oswald.\n
+Letter is handwritten in black on a single sheet of plain white paper. It reads:
+ 
+"11/24/63
+ 
+ 1417 N. Bronson Ave
+ Hollywood 28, Calif.
+
+Dear Jack-
+		 I think I know what prompted you to pull that trigger - Wish I could have done it - It was not only your finger on that trigger but, the fingers of a hundred and eighty million americans - 
+		 Im with you boy - all you did was get rid of a crummy rat. I think right or wrong you did what I would have like to have done - 
+		                Sincerely
+		                Les Parker"
+
+The letter also has two sets of signed initials by the date in the upper right hand corner.  As with any county prisoner, Jack Ruby's mail was collected and read by Dallas County deputy sheriffs before being passed along to Ruby.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/24/1963</dc:date>
+               <dc:title>Handwritten letter sent to Jack Ruby the day he shot Lee Harvey Oswald</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29221</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29029</dc:id>
+               <dc:identifier>sfm_29029</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Jack Ruby</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Anthony Pugliese Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>6 x 4 in. (15.2 x 10.2 cm)</dc:format>
+               <dc:description>Handwritten note from Jack Ruby to his lawyer Melvin Belli. The note is written in pencil on a small piece of paper.\n
+In response to Detective Jim Leavelle’s testimony during Ruby’s trial for the murder of Oswald in 1964, Ruby passed this note to his attorneys, suggesting that his hat would have obscured his face.  
+
+Text of letter: 
+
+"R (circled) IMPORTANT
+The gun did not have a hammer, and is almost impossible to stop from firing even if you grasp same.
+		    
+Also I was wearing a hat, so how could he tell the expression on my face, and he was hand-cuffed to the prisoner"
+
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>March 1964</dc:date>
+               <dc:title>Handwritten note from Jack Ruby to his lawyer Melvin Belli</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29029</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26786</dc:id>
+               <dc:identifier>sfm_26786</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Malcolm E. Barker</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Malcolm E. Barker Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Photographic slide of the FBI/Secret Service reenactment of the Kennedy assassination in Dealey Plaza on May 24, 1964. Visible in the background is the entrance to the Texas School Book Depository on Elm Street. \n
+The car used to represent the president's limousine in the reenactment was actually the Secret Service car that had been directly behind the presidential limousine in the motorcade on November 22, 1963.  The man at left is Dallas County surveyor Robert West, who assisted investigators.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>05/24/1964</dc:date>
+               <dc:title>Image of 1964 FBI reenactment in Dealey Plaza</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26786</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26797</dc:id>
+               <dc:identifier>sfm_26797</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Malcolm E. Barker</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Malcolm E. Barker Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Photographic slide of FBI/Secret Service reenactment of the Kennedy assassination in Dealey Plaza, May 24, 1964.  The car used to represent the president's limousine heads west on Elm Street; behind the car FBI officials take measurements.  \n
+The car used to represent the president's limousine in the reenactment was actually the Secret Service car that had been directly behind the presidential limousine in the motorcade on November 22, 1963.
+
+The north side of Dealey Plaza and part of the triple underpass are visible in the background.
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>05/24/1964</dc:date>
+               <dc:title>Image of 1964 FBI reenactment in Dealey Plaza</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26797</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26802</dc:id>
+               <dc:identifier>sfm_26802</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Malcolm E. Barker</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Malcolm E. Barker Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Photographic slide of the Texas School Book Depository, with Hertz sign on the roof.  This picture was taken in May 1964, at the same time the FBI and Secret Service were in Dallas to reenact the assassination.  \n</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>05/24/1964</dc:date>
+               <dc:title>Image of the Texas School Book Depository in 1964</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26802</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3164</dc:id>
+               <dc:identifier>sfm_3164</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>William Allen</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by Dallas Times Herald photographer William Allen.This photograph shows President Kennedy speaking in the parking lot of the Hotel Texas in Fort Worth at about 8:45 a.m. on the day of the assassination.  Others seen in the photograph are, left to right:  Texas State Senator Donley "Don" Kennard (at left edge), Texas Senator Ralph Yarborough, Texas Governor John Connally, and Vice President Lyndon Johnson.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of President Kennedy speaking outside the Hotel Texas</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3164</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3176</dc:id>
+               <dc:identifier>sfm_3176</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>William Allen</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by Dallas Times Herald photographer William Allen.  This image shows President Kennedy greeting the crowd outside the Hotel Texas in Fort Worth.  The cameraman at right is WFAA-TV's Tom Alyea.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of President Kennedy greeting the crowd outside the Hotel Texas</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3176</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3226</dc:id>
+               <dc:identifier>sfm_3226</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald photographer</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 7/16 x 15/16 in. (3.6 x 2.4 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative by a Dallas Times Herald photographer.  This image shows the Kennedys and Connallys descending the stairs from Air Force One at Dallas Love Field at about 11:40 a.m. the morning of the assassination.  Jacqueline Kennedy is halfway down the stairs, followed by President Kennedy, then Texas First Lady Nellie Connally, and Texas Governor John Connally.  Vice President Lyndon Johnson, Dallas Mayor Earle Cabell and his wife, Dearie, wait at left.\n
+The images on this negative strip were taken by a Dallas Times Herald staff photographer.  There were three photographers at Love Field that day:  John Mazziotta, Bob Jackson and Eamon Kennedy.  It is not known which of the three took these pictures.
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of the Kennedys and Connallys deplaning at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3226</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3274</dc:id>
+               <dc:identifier>sfm_3274</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald photographer</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative by a Dallas Times Herald photographer.  This image shows the Kennedys, surrounded by Secret Service agents, shaking hands with the waiting crowd behind a chain link fence at Love Field.\n
+The images on this negative strip were taken by a Dallas Times Herald staff photographer.  There were three photographers at Love Field that day:  John Mazziotta, Bob Jackson and Eamon Kennedy.  It is not known which of the three took these pictures.
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of the Kennedys greeting crowds at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3274</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3334</dc:id>
+               <dc:identifier>sfm_3334</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald photographer</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 7/16 x 15/16 in. (3.6 x 2.4 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative by a Dallas Times Herald staff photographer.  This image shows President Kennedy and the crowd at the fence at Love Field and a well-wisher's sign: "We Welcome You With Vigah J.F.K." (spelling the word vigor as "vigah" to reflect Kennedy's Boston accent).\n
+The images on this negative strip were taken by a Dallas Times Herald staff photographer.  There were three photographers at Love Field that day:  John Mazziotta, Bob Jackson and Eamon Kennedy.  It is not known which of the three took the pictures on this strip.  
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of President Kennedy greeting the crowd at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3334</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3366</dc:id>
+               <dc:identifier>sfm_3366</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Darryl Heikes</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by Dallas Times Herald and United Press International newspaper photographer Darryl Heikes showing the presidential motorcade turning from Harwood street onto Main street in downtown Dallas.  Secret Service Agent Clint Hill, assigned to Jacqueline Kennedy, occasionally rode on the rear bumper of the president's car, as seen in this image, when the crowds grew heavy.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of presidential limousine in Dallas motorcade</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3366</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3396</dc:id>
+               <dc:identifier>sfm_3396</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>William Beal</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative by Dallas Times Herald photographer William Beal.  This image shows the Kennedy motorcade on Main Street in downtown Dallas, photographed from the balcony of the Adolphus Hotel, as it approached the Akard Street intersection.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of the presidential motorcade on Main Street</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3396</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3512</dc:id>
+               <dc:identifier>sfm_3512</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald photographer</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by a Dallas Times Herald photographer.  This image shows a group of people waiting outside the emergency entrance to Parkland Hospital, listening to radio coverage after the assassination.  Texas Department of Public Safety trooper Hurchel Jacks, wearing the hat, drove Vice President Lyndon Johnson's car in the Dallas motorcade.\n
+The images on this negative strip were taken by a Dallas Times Herald staff photographer.  There were three photographers at Parkland Hospital that day:  John Mazziotta, Bob Jackson and Eamon Kennedy.  It is unknown which of the three took these pictures.
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of people waiting outside Parkland Hospital</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3512</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3544</dc:id>
+               <dc:identifier>sfm_3544</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by a Dallas Times Herald photographer.  This image shows President Lyndon Johnson's wife, Lady Bird, as she is escorted by Secret Service agents from Parkland Hospital to one of two waiting cars for the short trip back to Dallas Love Field.  President Johnson, who followed moments after this picture was taken, was escorted to Chief Jesse Curry's personal car, the same one he drove leading the motorcade through Dallas.  This picture was taken just a few minutes before 1:30pm and the official announcement of President Kennedy's death.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Lady Bird Johnson leaving Parkland Hospital</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3544</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3550</dc:id>
+               <dc:identifier>sfm_3550</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by a Dallas Times Herald photographer.  This image shows White House Assistant Press Secretary Malcolm Kilduff making the official announcement to reporters that President Kennedy had died.  The photographer in front whose face is hidden by his camera is WBAP-TV's  Bob Welch; his camera made the only known sound film recording of Kilduff's statement, given in a nurse's classroom at Parkland Hospital.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Malcolm Kilduff announcing the President's death</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3550</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3560</dc:id>
+               <dc:identifier>sfm_3560</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by a Dallas Times Herald photographer.  This image shows Dallas Police officers standing guard outside the Dallas Trade Mart where President Kennedy was to speak at a luncheon.  The Mart is part of the Market Hall complex just north of downtown Dallas.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Dallas Police officers standing guard outside the Dallas Trade Mart</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3560</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3668</dc:id>
+               <dc:identifier>sfm_3668</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>William Allen</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by Dallas Times Herald newspaper photographer William Allen showing Dallas Police Lieutenant J.C. "Carl" Day pointing to the area near the northwest corner of the Texas School Book Depository's sixth floor where Dallas Sheriff's deputies found the rifle used in the Kennedy assassination.  The rifle had been hidden between some boxes.  Lt. Day was head of the Dallas Police Crime Scene Search Unit responsible for the forensic investigation of physical evidence.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Dallas Police Lieutenant Carl Day pointing to rifle location</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3668</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_3720</dc:id>
+               <dc:identifier>sfm_3720</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>William Allen</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by Dallas Times Herald photographer William Allen showing Dallas Police officers, investigators and reporters gathering outside the front entrance to the Texas School Book Depository shortly after the assassination as they waited to learn if any suspects were found inside the building.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Dallas Police officers outside the Texas School Book Depository</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:3720</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_4045</dc:id>
+               <dc:identifier>sfm_4045</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas Times Herald</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Dallas Times Herald Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>15/16 x 1 7/16 in. (2.4 x 3.6 cm)</dc:format>
+               <dc:description>Original 35mm black and white negative taken by a Dallas Times Herald photographer. This image shows two Dallas police officers on guard in front of the Homicide and Robbery Bureau at the Dallas Police Department on the Saturday morning after the assassination of President Kennedy.  Suspected assassin Lee Harvey Oswald was inside the office being questioned by homicide detectives. The police officer on the right is Max Farris.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/23/1963</dc:date>
+               <dc:title>Image of police officers guarding the door of the Homicide and Robbery Bureau</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:4045</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_22056</dc:id>
+               <dc:identifier>sfm_22056</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Jay Skaggs</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Jay Skaggs Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>35mm Kodachrome II color slide, #6 of 20 images, taken by Jay Skaggs from the north peristyle of Dealey Plaza looking northwest shortly after the assassination.  This image shows people running up the grassy knoll in the background, the second White House press bus and, left to right: witnesses Charles Brehm with his young son Joe, Jean Hill in red, the "Babushka Lady" in a brown coat, Mary Moorman to her right, an unidentified man wearing a blue jacket walking west on Elm Street, Dallas Police Sergeant Robert Smart on his motorcycle, Jim Hicks next to him, and probably Abraham Zapruder inside the pergola.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of bystanders in Dealey Plaza shortly after the assassination</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:22056</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_22067</dc:id>
+               <dc:identifier>sfm_22067</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Jay Skaggs</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Jay Skaggs Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>35mm Kodachrome II color slide, #19 of 20 images, taken by Jay Skaggs from the sidewalk at the northwest corner of Elm and Houston Streets looking west.  This image shows Lt. J.C. "Carl" Day holding the rifle found on the sixth floor of the Texas School Book Depository.  Also present are WBAP-TV photographer Dan Owen, FBI special agent C. Ray Hall, and Deputy Sheriff Al Maddox to the right of Day.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Lt. J. C. "Carl" Day holding rifle outside the Book Depository</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:22067</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_20043</dc:id>
+               <dc:identifier>sfm_20043</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Noel V. Cook</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Noel V. Cook Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Original 35mm color slide showing Air Force One at Love Field, shortly after the arrival of President John F. Kennedy.  The image was taken by Federal Aviation Administration employee Noel V. Cook from a roof top outside his office as the Kennedys, hidden from view, greeted the crowd.  \n
+Air Force One is the plane on the right and it carried Kennedy; Lyndon Johnson’s plane, Air Force Two with the red nose and tail, is in the middle, and a commercial Pan American jet for members of the press is at left.  
+
+The unidentified man at right is presumably a Love Field or FAA employee.  Dallas Police provided security at the airport that day and some were stationed on rooftops, but they were dressed in standard police uniforms.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Air Force One and Air Force Two at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:20043</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_11772</dc:id>
+               <dc:identifier>sfm_11772</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Tom C. Dillard</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Tom C. Dillard Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 x 1 1/2 in. (2.5 x 3.8 cm)</dc:format>
+               <dc:description>Original black and white 35mm negative by Dallas Morning News chief photographer Tom Dillard.  The image shows the waiting crowd along the fence-line at Love Field, many with hand-made signs welcoming the President and Mrs. Kennedy to Dallas.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of crowd with signs at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:11772</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_11846</dc:id>
+               <dc:identifier>sfm_11846</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Tom C. Dillard</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Tom C. Dillard Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 x 1 1/2 in. (2.5 x 3.8 cm)</dc:format>
+               <dc:description>Original black and white 35mm negative by Dallas Morning News chief photographer Tom Dillard.  The image shows President and Mrs. Kennedy at Love Field, facing the photographer, smiling and waving.  Mrs. Kennedy holds a bouquet of red roses.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of President and Mrs. Kennedy smiling at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:11846</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_11856</dc:id>
+               <dc:identifier>sfm_11856</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Tom C. Dillard</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Tom C. Dillard Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 x 1 1/2 in. (2.5 x 3.8 cm)</dc:format>
+               <dc:description>Original black and white 35mm negative by Dallas Morning News chief photographer Tom Dillard.  The image shows the presidential limousine.  Governor Connally, seated in the jump-seat in front of the Kennedys, waves to bystanders.  The limousine was equipped with two jump-seats that could be folded up when not in use.\n
+Secret Service agent Clint Hill, assigned to protect Jacqueline Kennedy, stands behind her and Secret Service agent Roy Kellerman rides in the front seat.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of the Kennedys and Governor Connally in the limousine at Love Field</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:11856</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_11876</dc:id>
+               <dc:identifier>sfm_11876</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Tom C. Dillard</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Tom C. Dillard Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 x 1 1/2 in. (2.5 x 3.8 cm)</dc:format>
+               <dc:description>Original black and white 35mm negative by a Dallas Morning News photographer.  The image shows the presidential limousine at Parkland Hospital; the lid of the trunk is open and Secret Service agents are in the process of putting the top and cover on the convertible.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of the cover being put on the presidential limousine at Parkland Hospital</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:11876</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_11908</dc:id>
+               <dc:identifier>sfm_11908</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Tom C. Dillard Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 1/4 x 2 1/4 in. (5.7 x 5.7 cm)</dc:format>
+               <dc:description>Original black and white negative by Dallas Morning News photographer Bill Winfrey.  The image shows suspect Lee Harvey Oswald being escorted by homicide detective Elmer Boyd into the third floor hallway of Dallas police headquarters after his first interrogation session with Captain Will Fritz. Associated Press photographer Ferd Kaufman can be seen behind Oswald on the left.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of Lee Harvey Oswald in handcuffs at the Dallas police headquarters</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:11908</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_11977</dc:id>
+               <dc:identifier>sfm_11977</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Tom C. Dillard</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Tom C. Dillard Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 1/4 x 2 1/4 in. (5.7 x 5.7 cm)</dc:format>
+               <dc:description>Original black and white negative by a Dallas Morning News photographer.  The image shows a crowd gathered in Dealey Plaza the day after the assassination.  A flower arrangement occupies the grass on the south side of Elm Street.  The Texas School Book Depository is visible behind the mourners; the Hertz sign atop the building reads 1:32 p.m.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/23/1963</dc:date>
+               <dc:title>Image of mourners in Dealey Plaza the day after the assassination</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:11977</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_27630</dc:id>
+               <dc:identifier>sfm_27630</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>11 x 8 1/2 in. (27.9 x 21.6 cm)</dc:format>
+               <dc:description>Photocopy of a 9-page typed document written by Bill Winfrey detailing his experiences as a newspaper photographer for the Dallas Morning News assigned to cover the president's visit and subsequent events during the weekend of the Kennedy assassination.  \n
+The Dallas Morning News management asked all employees who participated in the newspaper's coverage of that weekend to write about their experiences.  Winfrey was one of 51 employees who complied.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963 - 11/24/1963</dc:date>
+               <dc:title>Photocopy of typed account of Bill Winfrey's experiences 11/22-24/1963</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:27630</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_27718</dc:id>
+               <dc:identifier>sfm_27718</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>4 15/16 x 3 7/8 in. (12.5 x 9.8 cm)</dc:format>
+               <dc:description>Black and white negative taken by Dallas Morning News photographer Bill Winfrey of Jack Ruby at the Dallas County Courts Building. Dallas police detective Elmer Boyd is in the cowboy hat behind Ruby.  Against the wall is an officer from the Dallas Police Reserve.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1964</dc:date>
+               <dc:title>Image of Jack Ruby being escorted through the courthouse hallway</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:27718</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_27963</dc:id>
+               <dc:identifier>sfm_27963</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 1/4 x 2 1/4 in. (5.7 x 5.7 cm)</dc:format>
+               <dc:description>Original black and white negative on Kodak Safety Film taken by Dallas Morning News photographer Bill Winfrey showing a close-up of Jack Ruby conferring with his defense attorneys Joe Tonahill (left) and Melvin Belli (right) during Ruby's hearing.  Dallas Morning News nightclub reporter Tony Zoppi is visible in the background. </dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>01/20/1964</dc:date>
+               <dc:title>Image of Jack Ruby conferring with lawyers Joe Tonahill and Melvin Belli</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:27963</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_28360</dc:id>
+               <dc:identifier>sfm_28360</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 1/4 x 2 1/4 in. (5.7 x 5.7 cm)</dc:format>
+               <dc:description>Original black and white negative on Kodak Safety Film taken by Dallas Morning News photographer Bill Winfrey.  The image shows Lee Harvey Oswald's mother Marguerite Oswald standing in Dealey Plaza in front of the Texas School Book Depository.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1964</dc:date>
+               <dc:title>Image of Oswald's mother Marguerite in front of the Texas School Book Depository</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:28360</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_28458</dc:id>
+               <dc:identifier>sfm_28458</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 1/4 x 2 1/4 in. (5.7 x 5.7 cm)</dc:format>
+               <dc:description>Original black and white negative on Kodak Safety Film taken by Dallas Morning News photographer Bill Winfrey. The image shows Ruby's lawyers Melvin Belli and Joe Tonahill surrounded by reporters shortly after jurors returned a verdict of "guilty" and sentenced Ruby to death.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>03/14/1964</dc:date>
+               <dc:title>Image of Ruby's lawyers Tonahill and Belli besieged by reporters</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:28458</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_28538</dc:id>
+               <dc:identifier>sfm_28538</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Bill Winfrey</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Bill Winfrey Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>1 1/2 x 1 in. (3.8 x 2.5 cm)</dc:format>
+               <dc:description>Original black and white 35mm negative on Kodak Tri X Pan Film taken by Dallas Morning News photographer Bill Winfrey.  The image shows two Warren Commission members (John Sherman Cooper, left, and John McCloy, right, both wearing hats) waiting outside the front door of the Texas School Book Depository.  Commission assistant counsel David Belin stands with back to camera. \n
+The Commission visited the assassination scene to get a better understanding of what happened.  
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1964</dc:date>
+               <dc:title>Image of members of the Warren Commission in front of the Book Depository</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:28538</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_22147</dc:id>
+               <dc:identifier>sfm_22147</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>George Reid</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>George Reid Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Original 35mm color slide taken by amateur photographer George Reid. Immediately after the assassination and in the following days, people left flowers and mementos in Dealey Plaza in honor of President Kennedy.  This picture was taken on Monday afternoon, November 25, 1963, around the time the president's body was laid to rest at Arlington National Cemetery.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/25/1963</dc:date>
+               <dc:title>Image of memorial flowers in Dealey Plaza a few days after the assassination</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:22147</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32256</dc:id>
+               <dc:identifier>sfm_32256</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>George Putnam</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Jean Putnam Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>35mm color slide of President and Mrs. Kennedy seated in the back of a convertible in Fort Worth, Texas, the morning of November 22, 1963.  Image taken by Fort Worth resident George Putnam.  Secret Service agents William Greer (left) and Roy Kellerman (right) sit in the front seat and Clint Hill walks beside the car on the far side.  Mounted police and crowds of people behind barriers can be seen in the background.  Texas Governor John Connally is partially obscured by Mrs. Kennedy, seated beside him.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Image of President and Mrs. Kennedy in Fort Worth</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32256</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32846</dc:id>
+               <dc:identifier>sfm_32846</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Archibald "Arch" Bryant</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Arch &amp; Eugenia Bryant Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Original 35mm color slide showing the exterior of the John F. Kennedy Memorial in downtown Dallas.  The memorial was designed by architect Phillip Johnson and opened in 1970.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>January 1982</dc:date>
+               <dc:title>Image of the John F. Kennedy Memorial in downtown Dallas</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32846</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26863</dc:id>
+               <dc:identifier>sfm_26863</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Peter N. Geilich</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Peter N. Geilich Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 1/2 x 5 1/2 in. (21.6 x 14 cm)</dc:format>
+               <dc:description>Memo page with notes handwritten by Parkland Hospital administrator Peter Geilich. Shows handwritten notes in black ink. The handwritten notes are in disarray. Some notes have lines to other notes which are indicated by "---". Handwritten text that is circled is indicated with parentheses. \n
+Handwritten notes read:
+
+"Mrs. K not change" --- "Pres-wife put her ring on Pres"
+"Pronounced 1 PM Dr. Clark"
+"1243PM" 
+"here to OR" 
+"Pres (1)" --- "Wright has watch"
+"(2) gov out 1st same car"
+"ft/bk"
+"about 2pm ONeal Amb. bronze casket "</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Internal Parkland Hospital memo with handwritten notes from 11/22/1963</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26863</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29224</dc:id>
+               <dc:identifier>sfm_29224</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Cavanagh Hats New York</dc:creator>
+               <dc:medium>Cloth</dc:medium>
+               <dcterms:isPartOf>The Sixth Floor Museum at Dealey Plaza Collection</dcterms:isPartOf>
+               <dc:format>Outer:  5 x 9 3/4 x 11 3/4 in. (12.7 x 24.8 x 29.8 cm)\nInner: 3 1/2 x 6 3/8 x 8 in. (8.9 x 16.2 x 20.3 cm)</dc:format>
+               <dc:description>Grey fedora, worn by Jack Ruby on November 24, 1963 when he shot accused assassin Lee Harvey Oswald on live television in the basement of the Dallas Police Department.\n
+Grey felt fedora decorated with a wide black grosgrain ribbon hat band with a flat bow on the left side. Hat has been pinched at the top front and has a flexible brim.  The front of the brim was pulled down; the back of the brim curls up.
+
+Inside, the hat is lined in ivory silk and is printed with "Cavanagh", "Cavanagh Hats New York" and the Cavanagh emblem. Inner band of hat is lined in brown leather and has three gold stamps: "Jas. K. Wilson / Dallas" on one side, "Cavanagh Edge" in the center front, and "Jack Ruby" on the other side.  A paper price tag tucked inside the inner hat band lists the price as $16.50.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>circa 1960</dc:date>
+               <dc:title>Jack Ruby's grey fedora</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29224</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_28970</dc:id>
+               <dc:identifier>sfm_28970</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Criminal Research Products, Inc. </dc:creator>
+               <dc:medium>Glass, Metal, Paper</dc:medium>
+               <dcterms:isPartOf>Lt. J. C. "Carl" Day Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>3 5/16 x 1 5/8 in. (8.5 x 4.1 cm)</dc:format>
+               <dc:description>Jar of fingerprint powder used by Lt. J. C. "Carl" Day when processing evidence found in the Texas School Book Depository on November 22, 1963.\n
+Label on jar reads: 
+FINGER PRINT POWDER
+"ATOMIC" BRAND
+VELVET BLACK
+Manufactured by
+Criminal Research Products, Inc.
+Conshohocken, Pennsylvania</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>circa 1960</dc:date>
+               <dc:title>Jar of fingerprint powder</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:28970</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_25784</dc:id>
+               <dc:identifier>sfm_25784</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Columbia Specialty Co.</dc:creator>
+               <dc:medium>Plastic, Paper</dc:medium>
+               <dcterms:isPartOf>Nancy Hamilton Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>12 1/2 x 10 x 5 in. (31.8 x 25.4 x 12.7 cm)</dc:format>
+               <dc:description>White plastic John F. Kennedy presidential campaign hat, textured to look like straw.  The hat has a red, white and blue striped paper hat band.  The hat band is printed with stars naming each of the United States. The front of the hat band reads "KENNEDY FOR PRESIDENT". There are photographs of John F. Kennedy on the band and a larger oval black and white photo of Kennedy on the flat top of the hat.\n
+In small print on the back of the hat band are the words: "Columbia Specialty Co. / Copyright / P.O. Box 2483 / Van Nuys, Cal."</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1960</dc:date>
+               <dc:title>John F. Kennedy campaign hat</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:25784</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26843</dc:id>
+               <dc:identifier>sfm_26843</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator/>
+               <dc:medium>Metal</dc:medium>
+               <dcterms:isPartOf>Darlene Bush Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>4 in. (10.2 cm)</dc:format>
+               <dc:description>Large round metal pin-back campaign button that reads "If I were 21 I'd Vote for Kennedy."\n
+The voting age was lowered from 21 to 18 years by the 26th Amendment, passed in time for the 1972 presidential election.  At the time of the Kennedy-Nixon election in 1960, citizens still had to be 21 in order to vote.
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1960</dc:date>
+               <dc:title>Kennedy campaign button</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26843</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_12322</dc:id>
+               <dc:identifier>sfm_12322</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Felix McKnight</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>John Schoellkopf Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 1/2 x 5 1/2 in. (21.6 x 14 cm)</dc:format>
+               <dc:description/>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Letter from editor Felix McKnight to staff of the Dallas Times Herald \t</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:12322</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_14733</dc:id>
+               <dc:identifier>sfm_14733</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Kennedy-Johnson Campaign</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Phil Willis Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>11 1/2 x 8 in. (29.2 x 20.3 cm)</dc:format>
+               <dc:description>A letter addressed to Phil Willis from Barefoot Sanders and the Kennedy-Johnson Campaign Headquarters in Dallas, dated November 22, 1960. Sanders, Judge Sarah T. Hughes and Carl Phinney thank Willis for his contributions, his work with the Democratic Speaker's Bureau, and his help on election day.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1960</dc:date>
+               <dc:title>Letter from the Kennedy-Johnson campaign to Phil Willis</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:14733</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_33132</dc:id>
+               <dc:identifier>sfm_33132</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Texas School Book Depository</dc:creator>
+               <dc:medium>Metal, Ceramic</dc:medium>
+               <dcterms:isPartOf>The Sixth Floor Museum at Dealey Plaza Collection</dcterms:isPartOf>
+               <dc:format>30 x 208 x 1 1/2 in. (76.2 x 528.3 x 3.8 cm)</dc:format>
+               <dc:description>Enameled metal sign from above the main entrance to the Texas School Book Depository building at the northwest corner of Elm and Houston Streets in Dallas, Texas. The sign was hung in 1963 when the Texas School Book Depository company first moved into the building and remained over the entrance at least until the firm vacated the building in 1970. \n
+The sign is made of porcelain-coated metal. It is a pinkish-brown color with three-dimensional cream-colored letters that are each bolted separately onto the face of the sign. The sign disassembles into four pieces that attach with bolt and bolt holes on the sides of each piece. The full sign reads "TEXAS SCHOOL BOOK DEPOSITORY".</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1963</dc:date>
+               <dc:title>Original Texas School Book Depository sign</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:33132</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32262</dc:id>
+               <dc:identifier>sfm_32262</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>Orville Nix Sr.</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Nix Family Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8 mm; Speed: 18 fps</dc:format>
+               <dc:description>Original 8mm color home movie by Orville Nix showing the presidential motorcade in Dealey Plaza.  \n
+The Nix home movie of the Kennedy assassination was taken from near the corner of Main and Houston streets nearly a block away from the site of the assassination.  It begins with the Kennedy limousine moving north on Houston Street toward the Texas School Book Depository, then shows the fatal shot to Kennedy's head on Elm Street.  The “grassy knoll” is in the background as Jackie Kennedy climbs onto the trunk and is met by Secret Service agent Clint Hill.  Photographer Abraham Zapruder can be seen on top of a white pedestal farther back from the street.  A third sequence, about 30 seconds later, shows bystanders running to the scene.  
+
+Nix returned the next morning and filmed the same general area.  Eight days later, he and his son finished the film reel by filming a family member – the majorette – at a high school football game in Fort Worth, Texas.
+
+Nix Film © 1964 (Renewed 1992) The Sixth Floor Museum at Dealey Plaza
+
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963 - 11/30/1963</dc:date>
+               <dc:title>Orville Nix Film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32262</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_35796</dc:id>
+               <dc:identifier>sfm_35796</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Committee for Religious Freedom</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>The Sixth Floor Museum at Dealey Plaza Collection</dcterms:isPartOf>
+               <dc:format>8 7/16 x 8 1/8 in. (21.5 x 20.6 cm)</dc:format>
+               <dc:description>A pamphlet titled “Kennedy and the Religious Issue” put out by the Committee for Religious Freedom.  G.M. Pedley is listed as the committee's chairman.\n
+The pamphlet consists of a single sheet of paper folded in half across its vertical axis to create four pages.  The cover, printed in blue, includes both the title and a head-and-shoulders portrait of John F. Kennedy.  The text of the pamphlet appears on the inside and back cover, also printed in blue.  
+
+The text of the pamphlet consists of ten numbered points. Nine of the points consist of quotes from Kennedy that address various concerns related to his adherence to Catholicism, specifically that his faith might take precedence over or hinder his responsibilities as president.  The tenth point quotes the Constitution.
+
+The points listed include: 
+1. Separation of Church and State
+2. Pressure from the Catholic Church or Church Officials
+3. The Question of an Ambassador to the Vatican
+4. The Question of Aid to Parochial Schools
+5. The Question of Birth Control
+6. On the Polling Incident
+7. On the Political Question
+8. How About the Knights of Columbus Oath?
+9. Religion as an Issue
+10. What the Constitution Says
+
+
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>1960</dc:date>
+               <dc:title>Pamphlet titled “Kennedy and the Religious Issue”</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:35796</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26862</dc:id>
+               <dc:identifier>sfm_26862</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Peter N. Geilich Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>11 x 8 1/2 in. (27.9 x 21.6 cm)</dc:format>
+               <dc:description>Press statement regarding Oswald's admittance and treatment after being shot with handwritten notes in black ink. The top typed portion is very faded.\n
+Verbatim typed text reads:
+"Lee H. Oswald has been admitted to EmergencyRoom 2 at Parkland Memorial Ho spital. He is presently undergoing treatment for a gunshot wound in the lower left abdomen. The missile entered the body on the lower left side below the rib gage and xxxxxxxxxx lodged in the body."
+"xxxxxx"
+"xxx We have no further report."
+
+Text handwritten in black ink reads:
+"Dr Tom Shires, Chief of Surgery @ SMS advise the Oswald currently undergoing surgery Bullet left side &amp; did not exit"</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/24/1963</dc:date>
+               <dc:title>Parkland press statement regarding Oswald's treatment with handwritten notes</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26862</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_23009</dc:id>
+               <dc:identifier>sfm_23009</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Phil Willis</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Phil Willis Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>2 x 2 in. (5.1 x 5.1 cm)</dc:format>
+               <dc:description>Original 35mm color slide taken by assassination witness Phil Willis showing the presidential limousine and the Secret Service follow vehicle from behind, traveling west on Elm Street through Dealey Plaza.  Commonly known as "Willis 5" by assassination researchers, the slide corresponds to Zapruder frame 202 just prior to the first shot.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Phil Willis Slide #7 (Willis 5)</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:23009</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_24511</dc:id>
+               <dc:identifier>sfm_24511</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Dallas Times Herald</dc:creator>
+               <dc:medium>Metal</dc:medium>
+               <dcterms:isPartOf>Jack H. and Jane C. McNairy Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>7 1/4 x 9 1/4 in. (18.4 x 23.5 cm)</dc:format>
+               <dc:description>Copper-colored metal photo printing plate of an aerial view of Dealey Plaza.  The image is reversed to reproduce correctly on paper.  The plate includes handwritten additions showing street names, motorcade route and graphics of the bullet trajectory.  \n
+Labeled "Overhead" with initials, possibly OD or OP, in grease pencil on back.  
+
+The printed image from this plate appeared in Dallas Times Herald newspapers on November 23, 1963.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/23/1963</dc:date>
+               <dc:title>Photo printing plate of aerial view of Dealey Plaza</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:24511</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_24515</dc:id>
+               <dc:identifier>sfm_24515</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Artifacts</dc:type>
+               <dc:creator>Dallas Times Herald</dc:creator>
+               <dc:medium>Metal</dc:medium>
+               <dcterms:isPartOf>Jack H. and Jane C. McNairy Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>6 1/2 x 3 3/4 in. (16.5 x 9.5 cm)</dc:format>
+               <dc:description>Copper-colored metal photo printing plate of J.C. "Carl" Day of the Dallas Police, carrying Lee Harvey Oswald's rifle to his car to be taken to police headquarters.  The image is reversed to reproduce correctly on paper.\n
+Back side has "Rifle" and initials, possibly CP, written in grease pencil.
+
+The printed image from a portion of this plate appeared in the Dallas Times Herald on November 23, 1963.
+
+This image is a detail of a photograph taken by a Dallas Times Herald photographer and is represented in the Museum's Dallas Times Herald Collection on a contact sheet.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/23/1963</dc:date>
+               <dc:title>Photo printing plate of an officer carrying the rifle from the crime scene</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:24515</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29129</dc:id>
+               <dc:identifier>sfm_29129</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Lyndal L. Shaneyfelt Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 x 10 in. (20.3 x 25.4 cm)</dc:format>
+               <dc:description>Black and white photograph showing FBI agent Robert Frazier in the sixth floor southeast corner window of the Texas School Book Depository aiming a high-powered rifle down Elm Street in Dealey Plaza. A camera has been attached to the stock of the rifle and the rifle is attached to a tripod. \n
+This copy of a photograph was part of FBI Special Agent Lyndal Shaneyfelt's Kennedy assassination file; Shaneyfelt assisted in the FBI investigations of the assassination conducted on behalf of the Warren Commission in 1964.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>05/23/1964 - 05/24/1964</dc:date>
+               <dc:title>Photograph of an FBI agent reenacting the Kennedy assassination</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29129</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26553</dc:id>
+               <dc:identifier>sfm_26553</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Dallas County Sheriff's Department</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Dallas County Sheriff's Department Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>4 x 5 in. (10.2 x 12.7 cm)</dc:format>
+               <dc:description>Black and white photograph of Dallas resident Clarence Broadnax participating in a June 1964 civil rights protest at the Piccadilly Cafeteria on Commerce Street in downtown Dallas.  Mr. Broadnax holds a sign that includes a picture of President Kennedy on one side and the hand-lettered words "DID JFK DIE IN VAIN" on the other. Other protestors, pedestrians and a man with a news camera can be seen in the background.  \n
+The date "Jun 5 1964" is stamped in red ink on the back of the photograph.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>06/05/1964</dc:date>
+               <dc:title>Photograph of Clarence Broadnax at Piccadilly Cafeteria civil rights protest</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26553</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_28857</dc:id>
+               <dc:identifier>sfm_28857</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Lt. J. C. "Carl" Day Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>5 3/4 x 9 1/2 in. (14.6 x 24.1 cm)</dc:format>
+               <dc:description>Black and white photograph of the fingerprints on the trigger guard of the Mannlicher-Carcano rifle found on the sixth floor of the Texas School Book Depository building, November 22, 1963.\n
+This image is actually a photograph of the original photograph. Original image in the Richard "Rusty" Livingston Collection.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>November 1963</dc:date>
+               <dc:title>Photograph of fingerprints on rifle</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:28857</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_15560</dc:id>
+               <dc:identifier>sfm_15560</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Frank Muto</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Frank Muto, Gregory Clock Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 x 10 in. (20.3 x 25.4 cm)</dc:format>
+               <dc:description>Original black and white photographic print taken by Frank Muto, showing Senator John F. Kennedy greeting supporters at Main and Center streets in Grand Prairie, Texas, during the 1960 presidential campaign.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>09/13/1960</dc:date>
+               <dc:title>Photograph of John F. Kennedy campaigning in Grand Prairie, Texas</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:15560</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29177</dc:id>
+               <dc:identifier>sfm_29177</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Marina Oswald</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Lyndal L. Shaneyfelt Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>14 x 11 in. (35.6 x 27.9 cm)</dc:format>
+               <dc:description>Black and white photograph of Lee Harvey Oswald holding his Mannlicher-Carcano rifle in his left hand, two Socialist and Communist newspapers in his right, and wearing a Smith &amp; Wesson revolver on his right hip. This famous photograph was taken by Oswald's wife Marina with her husband's camera in the backyard of their Oak Cliff apartment probably on March 31, 1963.  It was collected as evidence the day after the assassination of President Kennedy and was closely scrutinized by investigators.  The image is also known officially as Warren Commission Exhibit 133-A.\n
+This copy of a photograph was part of FBI Special Agent Lyndal Shaneyfelt's Kennedy assassination file; Shaneyfelt assisted in the FBI investigations of the assassination conducted on behalf of the Warren Commission in 1964.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>03/31/1963</dc:date>
+               <dc:title>Photograph of Lee Harvey Oswald holding a rifle</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29177</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_22018</dc:id>
+               <dc:identifier>sfm_22018</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Lt. J. C. "Carl" Day</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>R. W. "Rusty" Livingston Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 x 10 in. (20.3 x 25.4 cm)</dc:format>
+               <dc:description>Black and white photographic print taken by the Dallas police crime lab of the Mannlicher-Carcano rifle as it was found on the floor.  The location was in the northwest corner on the sixth floor of the Texas School Book Depository.\n
+All crime scene photos taken inside the Texas School Book Depository that day were shot either by Detective Robert L. Studebaker or, in a few cases, the head of the Dallas Police Crime Scene Search Unit, Lt. J. C. "Carl" Day.  R. W. "Rusty" Livingston, also an employee of the police crime lab, developed many of the images taken by Studebaker and Day.  This collection of prints is a first-generation set of copies he kept for himself.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Photograph of rifle hidden between boxes</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:22018</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_21997</dc:id>
+               <dc:identifier>sfm_21997</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Lt. J. C. "Carl" Day</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>R. W. "Rusty" Livingston Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 x 10 in. (20.3 x 25.4 cm)</dc:format>
+               <dc:description>Black and white photographic print taken by the Dallas police crime lab of boxes piled around the southeast corner window on the sixth floor of the Texas School Book Depository.\n
+All crime scene photos taken inside the Texas School Book Depository that day were shot either by Detective Robert L. Studebaker or, in a few cases, the head of the Dallas Police Crime Scene Search Unit, Lt. J. C. "Carl" Day.  R. W. "Rusty" Livingston, also an employee of the police crime lab, developed many of the images taken by Studebaker and Day.  This collection of prints is a first-generation set of copies he kept for himself.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Photograph of sixth floor crime scene at the Texas School Book Depository</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:21997</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_22016</dc:id>
+               <dc:identifier>sfm_22016</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>Lt. J. C. "Carl" Day</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>R. W. "Rusty" Livingston Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>10 x 8 in. (25.4 x 20.3 cm)</dc:format>
+               <dc:description>Black and white photographic print taken by the Dallas police crime lab of three spent shell casings found in the southeast corner of the sixth floor of the Texas School Book Depository.\n
+All crime scene photos taken inside the Texas School Book Depository that day were shot either by Detective Robert L. Studebaker or, in a few cases, the head of the Dallas Police Crime Scene Search Unit, Lt. J. C. "Carl" Day.  R. W. "Rusty" Livingston, also an employee of the police crime lab, developed many of the images taken by Studebaker and Day.  This collection of prints is a first-generation set of copies he kept for himself.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Photograph of spent rifle shells found on the floor</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:22016</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_23435</dc:id>
+               <dc:identifier>sfm_23435</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Photographs</dc:type>
+               <dc:creator>A. H. Belo Corp.</dc:creator>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>WFAA-TV Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>8 x 10 in. (20.3 x 25.4 cm)</dc:format>
+               <dc:description>Original black and white photograph by an unidentified station photographer showing assassination eyewitness Abraham Zapruder on the right and WFAA-TV program director Jay Watson on the left, during a 2:30 p.m. interview - approximately two hours after the assassination of President Kennedy.  The interview appeared live locally in Dallas and on the ABC network.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Photograph of WFAA-TV interview with Abraham Zapruder</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:23435</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_23202</dc:id>
+               <dc:identifier>sfm_23202</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>Robert J. E. Hughes</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Robert J. E. Hughes Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 18 fps</dc:format>
+               <dc:description>Original 8mm color home movie filmed by Robert Hughes.  This film is the only home movie known to include a view of the assassin's window of the Texas School Book Depository when President Kennedy was in Dealey Plaza.  Unfortunately, because Hughes filmed from a block away, the moving shape in the window cannot be identified.  \n
+After filming the presidential motorcade until just a few seconds before the first shot, Hughes filmed some of the aftermath of the shooting including the search for suspects in a railroad yard and outside the Book Depository building.
+</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Robert Hughes Film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:23202</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32261</dc:id>
+               <dc:identifier>sfm_32261</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>Roy R. Botello</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>Roy Botello Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 16 fps</dc:format>
+               <dc:description>Original 8mm color home movie of President and Mrs. Kennedy attending the League of United Latin American Citizens (LULAC) dinner in Houston on November 21, 1963.  The film does not include sound but does show both President and Mrs. Kennedy making speeches; Mrs. Kennedy spoke in Spanish.  The film was shot by San Antonio LULAC officer Roy Botello, who served as LULAC’s first-ever Scholarship Chairman.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/21/1963</dc:date>
+               <dc:title>Roy Botello Film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32261</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_4467</dc:id>
+               <dc:identifier>sfm_4467</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator>Vivian Castleberry</dc:creator>
+               <dc:medium>Paper, Cardboard, Metal</dc:medium>
+               <dcterms:isPartOf>Vivian Castleberry Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>9 1/4 x 4 3/4 x 5/8 in. (23.5 x 12.1 x 1.6 cm)</dc:format>
+               <dc:description>Eighteen page green Steno notebook used by Dallas Times Herald reporter/editor Vivian Castleberry.  The notebook has a spiral binding at the top edge; most pages in the notebook are only written on one side, though some have writing on both sides of the page.\n
+The notes at the beginning of the notebook are about Jacqueline Kennedy, her previous speeches, and her appearance and voice.  There are then notes describing the decor at the Trade Mart ahead of the luncheon, lists of table seating order and luncheon attendees and the appearance of the attendees.
+
+On page 6 of the notebook are the notes "Press bursts through East door" and "Faces stark...drawn-" from the moment when news of the assassination first reached the Trade Mart.  The notes on the following pages cover how the news was shared with the crowd by Erik Jonsson, a prayer led by Luther Holcomb, reactions of people present, drafts of sentences for Ms. Castleberry's articles, and people's names and addresses. 
+
+Pages 14 and 15 have notes, based on a briefing by pool reporter Sid Davis, on the circumstances and people present in Air Force One when President Johnson took the oath of office.
+
+The last few pages have notes and quotes about President Johnson and hopes for the country in the future.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963</dc:date>
+               <dc:title>Vivian Castleberry's reporter's notebook from November 22, 1963</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:4467</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_19684</dc:id>
+               <dc:identifier>sfm_19684</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>Joe M. Dealey Jr. Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>12 x 9 in. (30.5 x 22.9 cm)</dc:format>
+               <dc:description>"Wanted For Treason" flyer created by Robert Surrey, an associate of Major General Edwin Walker. This original flyer was one of about 5,000 distributed in downtown Dallas a day or two prior to the Kennedy assassination. These handbills were placed on car windshields and tucked inside the racks of the two Dallas daily newspapers by anti-Kennedy propagandists.\n</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>November 1963</dc:date>
+               <dc:title>Wanted for Treason Flyer</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:19684</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32263</dc:id>
+               <dc:identifier>sfm_32263</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Films</dc:type>
+               <dc:creator>William Ward Warren</dc:creator>
+               <dc:medium>Film</dc:medium>
+               <dcterms:isPartOf>William Ward Warren Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>Gauge: 8mm; Speed: 16 fps</dc:format>
+               <dc:description>Original 8mm color home movie filmed by local high school student Ward Warren.  He captured footage of Air Force One and Air Force Two arriving at Love Field, and the Kennedys, Johnsons and Connallys speaking with the crowd along the fenceline, as well as footage of the January 1, 1964 Cotton Bowl parade and excerpts of the game (not included here).\n
+The video attached to this record is an excerpt.  The entire film is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1963 - 01/01/1964</dc:date>
+               <dc:title>Ward Warren Film</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32263</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_31376</dc:id>
+               <dc:identifier>sfm_31376</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Documents</dc:type>
+               <dc:creator/>
+               <dc:medium>Paper</dc:medium>
+               <dcterms:isPartOf>The Sixth Floor Museum at Dealey Plaza Collection</dcterms:isPartOf>
+               <dc:format>14 x 8 1/2 in. (35.6 x 21.6 cm)</dc:format>
+               <dc:description>Original White House press release issued by the Kennedy Administration, dated September 30, 1962. Press release is a transcript of the telegram sent to Governor Ross Barnett of Mississippi questioning whether he intended to prevent James Meredith from matriculating at Ole Miss.\n
+Press release is a double-sided, one-page document. Heading at top of document reads:
+
+
+" IMMEDIATE RELEASE              SEPTEMBER 30, 1962
+Office of the White House Press Secretary
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+THE WHITE HOUSE
+
+TEXT OF TELEGRAM FROM THE PRESIDENT ADDRESSED TO THE HONORABLE ROSS BARNETT, GOVERNOR, STATE OF MISSISSIPPI"
+
+Full text of the telegram follows, questioning Governor Barnett on his intentions regarding James Meredith and requesting a reply by the end of the day.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>09/30/1962</dc:date>
+               <dc:title>White House press release</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:31376</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_4645</dc:id>
+               <dc:identifier>sfm_4645</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Gayle Newman</dc:creator>
+               <dc:medium>VHS</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>73 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with William and Gayle Newman. The closest bystanders to President Kennedy at the time of the fatal shot, Mr. and Mrs. Newman were on the north side of Elm Street and shielded their two small children with their bodies when shots were fired. They were interviewed on live television approximately fifteen minutes after the assassination. \n
+Interview conducted at the Newmans' home on March 10, 1993 by Wes Wise and Bob Porter.  Interview is one hour and thirteen minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>03/10/1993</dc:date>
+               <dc:title>Bill and Gayle Newman Oral History (1993)</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:4645</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_4653</dc:id>
+               <dc:identifier>sfm_4653</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Malcolm Kilduff</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>86 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Malcolm Kilduff. Mr. Kilduff was the Assistant White House Press Secretary traveling with President Kennedy in 1963.  He made the official announcement of the president's death at Parkland Hospital.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on April 16, 1993 by Bob Porter.  The interview is one hour and twenty-six minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>04/16/1993</dc:date>
+               <dc:title>Malcolm Kilduff Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:4653</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_4673</dc:id>
+               <dc:identifier>sfm_4673</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Bob Jackson</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>95 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Bob Jackson. In 1963, Mr. Jackson was a photographer with the Dallas Times Herald.  On November 22, 1963, he was assigned to take pictures of the presidential arrival at Love Field and then to ride in a press car several cars behind the president's limousine.  While riding in the motorcade through Dealey Plaza, Jackson spotted a rifle in the sixth floor window of the Texas School Book Depository - he was one of only four eyewitnesses who saw the gun in the window.  Later that day he took photographs at Parkland Hospital and Dallas Police headquarters.  On Sunday, November 24, 1963, he captured a legendary image of Jack Ruby shooting Lee Harvey Oswald, which later won the Pulitzer Prize.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on November 22, 1993 by Wes Wise with Bob Porter.  The interview is one hour and thirty-five minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/22/1993</dc:date>
+               <dc:title>Bob Jackson Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:4673</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_4679</dc:id>
+               <dc:identifier>sfm_4679</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Marilyn Sitzman</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>25 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Marilyn Sitzman. A receptionist in Abraham Zapruder's office, Ms. Sitzman encouraged Mr. Zapruder to go home and retrieve his home movie camera to film the motorcade. Sitzman accompanied him to Dealey Plaza before the motorcade arrived, and because Mr. Zapruder was known to suffer from vertigo, she steadied him atop a concrete pedestal in Dealey Plaza while he made his historic film of the Kennedy assassination.\n
+Interview conducted at Ms. Sitzman's home on June 29, 1993 by Wes Wise with Bob Porter.  The interview is twenty-five minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>06/29/1993</dc:date>
+               <dc:title>Marilyn Sitzman Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:4679</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_15781</dc:id>
+               <dc:identifier>sfm_15781</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Lt. J. C. "Carl" Day</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>45 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with J. C. "Carl" Day. As head of the Dallas Police Crime Scene Search Unit in 1963, Lieutenant Day was in charge of examining the rifle and fingerprint evidence found at the Texas School Book Depository building following the assassination.  \n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on August 15, 1996 by Bob Porter. The interview is forty-five minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>08/15/1996</dc:date>
+               <dc:title>J. C. "Carl" Day Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:15781</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_17289</dc:id>
+               <dc:identifier>sfm_17289</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Dr. Charles J. "Jim" Carrico</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>84 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Dr. Charles J. "Jim" Carrico. A resident in general surgery at Parkland Hospital in 1963, Dr. Carrico was the first physician to see President Kennedy upon his arrival at the hospital.\n
+Interview conducted at Dr. Carrico's office on August 2, 1997 by Bob Porter with Dr. Marian Ann Montgomery. The interview is one hour and twenty-four minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>08/02/1997</dc:date>
+               <dc:title>Dr. Charles J. "Jim" Carrico Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:17289</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_17168</dc:id>
+               <dc:identifier>sfm_17168</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Josiah Thompson</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>70 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Josiah Thompson. A prominent assassination researcher, Mr. Thompson was a consultant with LIFE Magazine and wrote the 1967 book, Six Seconds in Dallas.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on November 21, 1998 by Director of Communications Bob Porter. The interview is one hour and ten minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/21/1998</dc:date>
+               <dc:title>Josiah Thompson Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:17168</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_21284</dc:id>
+               <dc:identifier>sfm_21284</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Dr. Robert McClelland</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>91 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Dr. Robert N. McClelland. Dr. McClelland was an instructor in surgery at Parkland Memorial Hospital in 1963 and was among the team of doctors in Trauma Room One who worked on President Kennedy.  Less than two days later, he also assisted in the treatment of Lee Harvey Oswald.\n
+Interview conducted at UT Southwestern Medical School on July 16, 2001 by Bob Porter and Stephen Fagin. The interview is one hour and thirty-one minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>07/16/2001</dc:date>
+               <dc:title>Dr. Robert McClelland Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:21284</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_21477</dc:id>
+               <dc:identifier>sfm_21477</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>James R. Leavelle</dc:creator>
+               <dc:medium>Hi-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>119 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with James "Jim" Leavelle. Mr. Leavelle was the Dallas Police homicide detective immortalized in the Pulitzer Prize-winning photograph by Bob Jackson of the shooting of Lee Harvey Oswald.  Wearing a light-colored suit and cowboy hat, he was handcuffed to Oswald and helped wrestle Jack Ruby to the floor after the shooting.  \n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on June 10, 2002 by Gary Mack, Curator, and Stephen Fagin, Associate Curator. The interview is one hour and fifty-nine minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>06/10/2002</dc:date>
+               <dc:title>James Leavelle Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:21477</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26035</dc:id>
+               <dc:identifier>sfm_26035</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Walter Cronkite</dc:creator>
+               <dc:medium>Digital-8 videotape</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>68 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Walter Cronkite. A broadcast journalist, Cronkite was managing editor and anchorman of the CBS Evening News during the Kennedy years. On November 22, 1963, he reported the news of the president's death on live television. \n
+Interview conducted at Mr. Cronkite's office at CBS News in New York City on April 14, 2004 by Stephen Fagin of The Sixth Floor Museum at Dealey Plaza and Vicki Daitch of the John F. Kennedy Presidential Library and Museum.  The interview is one hour and eight minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>04/14/2004</dc:date>
+               <dc:title>Walter Cronkite Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26035</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26147</dc:id>
+               <dc:identifier>sfm_26147</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Dr. Earl F. Rose</dc:creator>
+               <dc:medium>CD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>68 Minutes</dc:format>
+               <dc:description>Audio recorded oral history interview with Dr. Earl F. Rose. A distinguished forensic pathologist, Rose served as Dallas County medical examiner from 1963 to 1968. In that capacity, he performed autopsies on Officer J.D. Tippit, Lee Harvey Oswald, and Jack Ruby. He would also have performed President Kennedy's autopsy had his body not been taken immediately back to Washington, D.C.  \n
+Interview conducted via telephone on November 8, 2005 by Stephen Fagin, Associate Curator. The interview is one hour and eight minutes long.
+
+The audio attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/08/2005</dc:date>
+               <dc:title>Dr. Earl F. Rose Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26147</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26363</dc:id>
+               <dc:identifier>sfm_26363</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Bob Ray Sanders</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>74 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Bob Ray Sanders.  A respected, long-time newspaper, radio and television journalist in the Dallas-Fort Worth area, Sanders attended an African-American high school in Fort Worth in 1963. On Thanksgiving Day that year, his marching band performed a memorial tribute to President Kennedy. Sanders was later an active supporter of the civil rights and peace movements of the 1960s and 1970s.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on September 19, 2007 by Stephen Fagin.  The interview is one hour and fourteen minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>09/19/2007</dc:date>
+               <dc:title>Bob Ray Sanders Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26363</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26513</dc:id>
+               <dc:identifier>sfm_26513</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Richard Stolley</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>113 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Richard Stolley.  The senior editorial advisor of Time, Inc., and later the founding managing editor of People magazine, Stolley was the Los Angeles bureau chief for LIFE Magazine in 1963. Immediately after the assassination, he traveled to Dallas.  The morning after the assassination he negotiated the magazine's purchase of the rights to the Abraham Zapruder film.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on October 15, 2008 by Stephen Fagin.  The interview is one hour and fifty-three minutes long.
+
+The video attached to this record is an excerpt.  The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>10/15/2008</dc:date>
+               <dc:title>Richard Stolley Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26513</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_26532</dc:id>
+               <dc:identifier>sfm_26532</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Rev. William A. Holmes</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>86 Minutes</dc:format>
+               <dc:description>Videotaped 45th anniversary program with Rev. William A. Holmes titled "Impressions of Jack Kennedy". As minister of Northaven United Methodist Church in Dallas, Holmes gave a powerful and controversial sermon on Sunday, November 24, 1963, in which he addressed the topic of the guilt that the community of Dallas should feel for having permitted the assassination to happen in their home town.  As part of his sermon he briefly mentioned that some Dallas schoolchildren cheered upon learning of President Kennedy's death. Later that week, he read portions of his sermon for broadcast nationally on CBS, bringing international attention to both Holmes and the city of Dallas.\n
+Program conducted at The Sixth Floor Museum at Dealey Plaza on November 21, 2008. The program is one-hour and twenty-six minutes long.
+
+The video attached to this record is an excerpt.  The entire program is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/21/2008</dc:date>
+               <dc:title>Impressions of Jack Kennedy 45th Anniversary Program with Rev. William A. Holmes</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:26532</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29846</dc:id>
+               <dc:identifier>sfm_29846</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>J. Waymon Rose</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>45 Minutes</dc:format>
+               <dc:description>Videotaped Living History program with J. Waymon Rose. Mr. Rose was the tenth person selected to serve on the jury of the Jack Ruby trial in 1964. In 2002, he donated the diary he kept during the trial, as well as other related materials, to The Sixth Floor Museum.\n
+Program conducted at The Sixth Floor Museum at Dealey Plaza on May 19, 2009 by Stephen Fagin, Associate Curator. The program is forty-five minutes long.
+
+The video attached to this record is an excerpt.  The entire program is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>05/19/2009</dc:date>
+               <dc:title>Waymon Rose Living History Program</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29846</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29854</dc:id>
+               <dc:identifier>sfm_29854</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Luke E. Mooney</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>44 Minutes</dc:format>
+               <dc:description>Videotaped Living History program with Luke Mooney. In 1963, Mooney was a Dallas County deputy sheriff who watched the motorcade and heard shots fired. Later, while investigating the sixth floor of the Texas School Book Depository building, he discovered the "sniper's perch" and three empty rifle shells near the southeast corner window.\n
+Program conducted at The Sixth Floor Museum on June 29, 2009 by Associate Curator Stephen Fagin.  The program is forty-four minutes long.
+
+The video attached to this record is an excerpt.  The entire program is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>06/24/2009</dc:date>
+               <dc:title>Luke Mooney Living History Program</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29854</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_29868</dc:id>
+               <dc:identifier>sfm_29868</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Vivian Castleberry</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>44 Minutes</dc:format>
+               <dc:description>Videotaped Living History program with Vivian Castleberry. Considered the "grandmother of women journalists in Dallas," Castleberry was the long-time editor of women's news at the Dallas Times Herald. On the day of the assassination, she was waiting at the Trade Mart to cover Jacqueline Kennedy's visit to the city. After the shooting, Castleberry worked in the Times Herald newsroom and wrote several human interest stories that weekend.\n
+Program conducted at The Sixth Floor Museum at Dealey Plaza on August 5, 2009 by Associate Curator Stephen Fagin.  The program is forty-four minutes long.
+
+The video attached to this record is an excerpt.  The entire program is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>08/05/2009</dc:date>
+               <dc:title>Vivian Castleberry Living History Program</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:29868</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32343</dc:id>
+               <dc:identifier>sfm_32343</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Jesse Ventura</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>44 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Jesse Ventura. Having been at different times a professional wrestler, media personality, and former governor of Minnesota (1999-2003), Ventura is now a political assassinations researcher and co-author, with Dick Russell, of "American Conspiracies" (2010). Twelve years old at the time of the assassination, Ventura went on to serve in the Vietnam War.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on June 30, 2010 by Associate Curator Stephen Fagin. The interview is forty-four minutes long.
+
+The video attached to this record is an excerpt. The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>06/30/2010</dc:date>
+               <dc:title>Governor Jesse Ventura Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32343</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32416</dc:id>
+               <dc:identifier>sfm_32416</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Roland Zavada</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>61 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Roland Zavada. An engineer and executive with the Eastman Kodak Company, Zavada authenticated the Abraham Zapruder film and other photographic evidence for the Assassination Records Review Board in the 1990s. Since then he has continued to study the film and speak on the subject.\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on November 15, 2010 by Associate Curator Stephen Fagin. The interview is one hour and one minute long.
+
+The video attached to this record is an excerpt. The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/15/2010</dc:date>
+               <dc:title>Roland Zavada Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32416</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record>
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:id>sfm_32418</dc:id>
+               <dc:identifier>sfm_32418</dc:identifier>
+               <dc:publisher>The Sixth Floor Museum at Dealey Plaza</dc:publisher>
+               <dc:type>Oral Histories</dc:type>
+               <dc:creator>Clinton J. Hill</dc:creator>
+               <dc:medium>DVD-R</dc:medium>
+               <dcterms:isPartOf>Oral History Collection/The Sixth Floor Museum at Dealey Plaza</dcterms:isPartOf>
+               <dc:format>94 Minutes</dc:format>
+               <dc:description>Videotaped oral history interview with Clint Hill.  Hill jumped onto the back of the presidential limousine during the assassination - an action recorded in numerous photographs and home movies and which later made him the most recognized U.S. Secret Service agent on the Kennedy detail. He received an award for his service and continued to protect Mrs. Kennedy for one year after the shooting.  Deeply affected by the assassination, Hill was reluctant to speak about the tragedy for years. In 2010, he collaborated with Gerald Blaine and Lisa McCubbin on the book "The Kennedy Detail."\n
+Interview conducted at The Sixth Floor Museum at Dealey Plaza on November 18, 2010 by Associate Curator Stephen Fagin. The interview is one hour and thirty-four minutes long.
+
+The video attached to this record is an excerpt. The entire interview is available in our Reading Room to on-site researchers or by submitting a Rights &amp; Reproductions Request Form.</dc:description>
+               <dc:rights>All requests for permission to reproduce, publish or broadcast materials in this collection must be submitted to the Museum's registrar, using the Rights &amp; Reproductions Request Form on our website:  jfk.org.  Inquiries may be sent to registrar@jfk.org.</dc:rights>
+               <dc:date>11/18/2010</dc:date>
+               <dc:title>Clint Hill Oral History</dc:title>
+               <dc:source>http://eMuseum.jfk.org/view/objects/asitem/items@:32418</dc:source>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+   </ListRecords>
+</Repository>
